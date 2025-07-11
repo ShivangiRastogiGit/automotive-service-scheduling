@@ -1,0 +1,68 @@
+{% extends "base.html" %}
+
+{% block title %}My Vehicles - Automotive Service Scheduling{% endblock %}
+
+{% block content %}
+<div class="row">
+    <div class="col-12">
+        <div class="d-flex justify-content-between align-items-center mb-4">
+            <h1>
+                <i class="bi bi-car-front"></i> My Vehicles
+            </h1>
+            <a href="{{ url_for('add_vehicle') }}" class="btn btn-primary">
+                <i class="bi bi-plus-lg"></i> Add Vehicle
+            </a>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-body">
+                {% if vehicles %}
+                    <div class="row">
+                        {% for vehicle in vehicles %}
+                        <div class="col-md-6 col-lg-4 mb-4">
+                            <div class="card border-secondary">
+                                <div class="card-body">
+                                    <h5 class="card-title">{{ vehicle.year }} {{ vehicle.make }} {{ vehicle.model }}</h5>
+                                    <div class="card-text">
+                                        {% if vehicle.color %}
+                                        <p class="mb-1"><strong>Color:</strong> {{ vehicle.color }}</p>
+                                        {% endif %}
+                                        {% if vehicle.license_plate %}
+                                        <p class="mb-1"><strong>License Plate:</strong> {{ vehicle.license_plate }}</p>
+                                        {% endif %}
+                                        {% if vehicle.vin %}
+                                        <p class="mb-1"><strong>VIN:</strong> {{ vehicle.vin }}</p>
+                                        {% endif %}
+                                        {% if vehicle.mileage %}
+                                        <p class="mb-1"><strong>Mileage:</strong> {{ "{:,}".format(vehicle.mileage) }} miles</p>
+                                        {% endif %}
+                                    </div>
+                                    <div class="mt-3">
+                                        <a href="{{ url_for('add_appointment') }}?vehicle_id={{ vehicle.id }}" class="btn btn-primary btn-sm">
+                                            <i class="bi bi-calendar-plus"></i> Schedule Service
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        {% endfor %}
+                    </div>
+                {% else %}
+                    <div class="text-center py-5">
+                        <i class="bi bi-car-front fs-1 text-muted"></i>
+                        <h3 class="text-muted mt-3">No vehicles found</h3>
+                        <p class="text-muted">Start by adding your first vehicle.</p>
+                        <a href="{{ url_for('add_vehicle') }}" class="btn btn-primary">
+                            <i class="bi bi-plus-lg"></i> Add Vehicle
+                        </a>
+                    </div>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

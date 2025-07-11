@@ -1,0 +1,228 @@
+{% extends "base.html" %}
+
+{% block title %}Admin Dashboard - Automotive Service Scheduling{% endblock %}
+
+{% block content %}
+<div class="row">
+    <div class="col-12">
+        <div class="d-flex justify-content-between align-items-center mb-4">
+            <h1>
+                <i class="bi bi-speedometer2"></i> Admin Dashboard
+            </h1>
+            <div>
+                <a href="{{ url_for('admin_logout') }}" class="btn btn-outline-danger">
+                    <i class="bi bi-box-arrow-right"></i> Logout
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Statistics Cards -->
+<div class="row mb-4">
+    <div class="col-md-3 mb-3">
+        <div class="card bg-primary text-white">
+            <div class="card-body">
+                <div class="d-flex justify-content-between">
+                    <div>
+                        <h4 class="card-title">{{ stats.customers.total_customers }}</h4>
+                        <p class="card-text">Total Customers</p>
+                        <small>{{ stats.customers.new_customers_30_days }} new in 30 days</small>
+                    </div>
+                    <div class="align-self-center">
+                        <i class="bi bi-people fs-1"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="col-md-3 mb-3">
+        <div class="card bg-success text-white">
+            <div class="card-body">
+                <div class="d-flex justify-content-between">
+                    <div>
+                        <h4 class="card-title">{{ stats.vehicles.total_vehicles }}</h4>
+                        <p class="card-text">Total Vehicles</p>
+                    </div>
+                    <div class="align-self-center">
+                        <i class="bi bi-car-front fs-1"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="col-md-3 mb-3">
+        <div class="card bg-warning text-white">
+            <div class="card-body">
+                <div class="d-flex justify-content-between">
+                    <div>
+                        <h4 class="card-title">{{ stats.appointments.total_appointments }}</h4>
+                        <p class="card-text">Total Appointments</p>
+                        <small>{{ stats.appointments.scheduled }} scheduled</small>
+                    </div>
+                    <div class="align-self-center">
+                        <i class="bi bi-calendar-check fs-1"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="col-md-3 mb-3">
+        <div class="card bg-info text-white">
+            <div class="card-body">
+                <div class="d-flex justify-content-between">
+                    <div>
+                        <h4 class="card-title">{{ stats.services.total_services }}</h4>
+                        <p class="card-text">Active Services</p>
+                    </div>
+                    <div class="align-self-center">
+                        <i class="bi bi-tools fs-1"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Appointment Status Breakdown -->
+<div class="row mb-4">
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-header">
+                <h5><i class="bi bi-graph-up"></i> Appointment Status</h5>
+            </div>
+            <div class="card-body">
+                <div class="row text-center">
+                    <div class="col-3">
+                        <div class="text-info">
+                            <strong>{{ stats.appointments.scheduled }}</strong>
+                            <br><small>Scheduled</small>
+                        </div>
+                    </div>
+                    <div class="col-3">
+                        <div class="text-warning">
+                            <strong>{{ stats.appointments.in_progress }}</strong>
+                            <br><small>In Progress</small>
+                        </div>
+                    </div>
+                    <div class="col-3">
+                        <div class="text-success">
+                            <strong>{{ stats.appointments.completed }}</strong>
+                            <br><small>Completed</small>
+                        </div>
+                    </div>
+                    <div class="col-3">
+                        <div class="text-danger">
+                            <strong>{{ stats.appointments.cancelled }}</strong>
+                            <br><small>Cancelled</small>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-header">
+                <h5><i class="bi bi-layout-three-columns"></i> Quick Access</h5>
+            </div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-6 mb-2">
+                        <a href="{{ url_for('admin_customers') }}" class="btn btn-outline-primary w-100">
+                            <i class="bi bi-people"></i> Customers
+                        </a>
+                    </div>
+                    <div class="col-6 mb-2">
+                        <a href="{{ url_for('admin_vehicles') }}" class="btn btn-outline-success w-100">
+                            <i class="bi bi-car-front"></i> Vehicles
+                        </a>
+                    </div>
+                    <div class="col-6 mb-2">
+                        <a href="{{ url_for('admin_appointments') }}" class="btn btn-outline-warning w-100">
+                            <i class="bi bi-calendar-check"></i> Appointments
+                        </a>
+                    </div>
+                    <div class="col-6 mb-2">
+                        <a href="{{ url_for('admin_analytics') }}" class="btn btn-outline-info w-100">
+                            <i class="bi bi-graph-up"></i> Analytics
+                        </a>
+                    </div>
+                    <div class="col-6 mb-2">
+                        <a href="{{ url_for('admin_services') }}" class="btn btn-outline-info w-100">
+                            <i class="bi bi-tools"></i> Services
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Recent Appointments -->
+<div class="row">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-header">
+                <h5><i class="bi bi-clock-history"></i> Recent Appointments</h5>
+            </div>
+            <div class="card-body">
+                {% if recent_appointments %}
+                    <div class="table-responsive">
+                        <table class="table table-striped">
+                            <thead>
+                                <tr>
+                                    <th>Date</th>
+                                    <th>Time</th>
+                                    <th>Customer</th>
+                                    <th>Vehicle</th>
+                                    <th>Service</th>
+                                    <th>Status</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                {% for appointment in recent_appointments %}
+                                <tr>
+                                    <td>{{ appointment.appointment_date }}</td>
+                                    <td>{{ appointment.appointment_time }}</td>
+                                    <td>{{ appointment.first_name }} {{ appointment.last_name }}</td>
+                                    <td>{{ appointment.year }} {{ appointment.make }} {{ appointment.model }}</td>
+                                    <td>{{ appointment.service_name }}</td>
+                                    <td>
+                                        <span class="badge bg-{{ 'success' if appointment.status == 'completed' else 'warning' if appointment.status == 'in_progress' else 'info' if appointment.status == 'scheduled' else 'danger' if appointment.status == 'cancelled' else 'secondary' }}">
+                                            {{ appointment.status.replace('_', ' ').title() }}
+                                        </span>
+                                    </td>
+                                </tr>
+                                {% endfor %}
+                            </tbody>
+                        </table>
+                    </div>
+                {% else %}
+                    <div class="text-center py-3">
+                        <i class="bi bi-calendar-x fs-1 text-muted"></i>
+                        <p class="text-muted">No recent appointments</p>
+                    </div>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Note: Flask-Admin integration temporarily disabled -->
+<div class="row mt-4">
+    <div class="col-12">
+        <div class="card bg-light">
+            <div class="card-body text-center">
+                <h5><i class="bi bi-info-circle"></i> Admin Interface</h5>
+                <p class="text-muted">Use the navigation above to manage customers, vehicles, appointments, and services</p>
+                <p class="text-muted"><small>Flask-Admin integration available in future updates</small></p>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

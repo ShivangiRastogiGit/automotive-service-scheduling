@@ -1,0 +1,48 @@
+{% extends 'base.html' %}
+
+{% block title %}Admin Analytics{% endblock %}
+
+{% block content %}
+<div class="container-fluid">
+    <h1>Business Analytics</h1>
+    
+    {% if plotly_available %}
+    <div class="row">
+        <div class="col-6">
+            <div id="popularity-chart"></div>
+        </div>
+        <div class="col-6">
+            <div id="makes-chart"></div>
+        </div>
+    </div>
+    {% else %}
+    <div class="alert alert-warning">
+        <p>Charts require Plotly and Pandas. Run: <code>pip install plotly pandas</code></p>
+    </div>
+    {% endif %}
+</div>
+
+<!-- Plotly JavaScript -->
+{% if plotly_available %}
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    // Chart configuration
+    const config = {
+        responsive: true,
+        displayModeBar: false
+    };
+
+    // Render charts
+    {% if popularity_chart %}
+    Plotly.newPlot('popularity-chart', {{ popularity_chart|safe }}.data, {{ popularity_chart|safe }}.layout, config);
+    {% endif %}
+
+    {% if makes_chart %}
+    Plotly.newPlot('makes-chart', {{ makes_chart|safe }}.data, {{ makes_chart|safe }}.layout, config);
+    {% endif %}
+});
+</script>
+{% endif %}
+
+{% endblock %}

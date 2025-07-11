@@ -1,0 +1,201 @@
+project.id,project.ts,project.project,project.total_price_from,project.total_price_to,project.description,project.category_x_project_id
+1,"2021-01-21 11:04:23","Air Bag Clockspring Replacement",$435,$527,"""laborLow"":""$352"",""laborHigh"":""$444"",""partsLow"":null,""partsHigh"":""$83"",","{
+    ""1"": {
+        ""category_x_project.id"": 1,
+        ""category.id"": 1,
+        ""category.ts"": ""2021-01-21 09:31:35"",
+        ""category.category"": ""Body, Glass & Interior"",
+        ""category.model"": ""CL"",
+        ""category.brand"": ""Acura""
+    }
+}"
+2,"2021-01-24 08:52:16","Air Bag Control Module Replacement",$910,$970,"""laborLow"":""$231"",""laborHigh"":""$291"",""partsLow"":null,""partsHigh"":""$679"",","{
+    ""2"": {
+        ""category_x_project.id"": 2,
+        ""category.id"": 1,
+        ""category.ts"": ""2021-01-21 09:31:35"",
+        ""category.category"": ""Body, Glass & Interior"",
+        ""category.model"": ""CL"",
+        ""category.brand"": ""Acura""
+    }
+}"
+3,"2021-02-24 01:02:12","Air Bag Crash Sensor Replacement",$228,$251,"""laborLow"":""$88"",""laborHigh"":""$111"",""partsLow"":null,""partsHigh"":""$140"",","{
+    ""3"": {
+        ""category_x_project.id"": 3,
+        ""category.id"": 1,
+        ""category.ts"": ""2021-01-21 09:31:35"",
+        ""category.category"": ""Body, Glass & Interior"",
+        ""category.model"": ""CL"",
+        ""category.brand"": ""Acura""
+    }
+}"
+4,"2021-01-24 08:53:19","Door Lock Actuator Replacement",$194,$223,"""laborLow"":""$110"",""laborHigh"":""$139"",""partsLow"":null,""partsHigh"":""$84"",","{
+    ""4"": {
+        ""category_x_project.id"": 4,
+        ""category.id"": 1,
+        ""category.ts"": ""2021-01-21 09:31:35"",
+        ""category.category"": ""Body, Glass & Interior"",
+        ""category.model"": ""CL"",
+        ""category.brand"": ""Acura""
+    }
+}"
+5,"2021-01-24 09:21:13","Door Mirror Replacement",$614,$626,"""laborLow"":""$44"",""laborHigh"":""$56"",""partsLow"":null,""partsHigh"":""$570"",","{
+    ""5"": {
+        ""category_x_project.id"": 5,
+        ""category.id"": 1,
+        ""category.ts"": ""2021-01-21 09:31:35"",
+        ""category.category"": ""Body, Glass & Interior"",
+        ""category.model"": ""CL"",
+        ""category.brand"": ""Acura""
+    }
+}"
+6,"2021-01-24 09:44:17","Power Seat Control Module Replacement",$800,$823,"""laborLow"":""$88"",""laborHigh"":""$111"",""partsLow"":null,""partsHigh"":""$712"",","{
+    ""6"": {
+        ""category_x_project.id"": 6,
+        ""category.id"": 1,
+        ""category.ts"": ""2021-01-21 09:31:35"",
+        ""category.category"": ""Body, Glass & Interior"",
+        ""category.model"": ""CL"",
+        ""category.brand"": ""Acura""
+    }
+}"
+7,"2021-02-24 01:04:03","Power Seat Motor Replacement",$932,$970,"""laborLow"":""$143"",""laborHigh"":""$180"",""partsLow"":null,""partsHigh"":""$789"",","{
+    ""7"": {
+        ""category_x_project.id"": 7,
+        ""category.id"": 1,
+        ""category.ts"": ""2021-01-21 09:31:35"",
+        ""category.category"": ""Body, Glass & Interior"",
+        ""category.model"": ""CL"",
+        ""category.brand"": ""Acura""
+    }
+}"
+8,"2021-02-24 01:04:38","Power Seat Switch Replacement",$240,$263,"""laborLow"":""$88"",""laborHigh"":""$111"",""partsLow"":null,""partsHigh"":""$152"",","{
+    ""8"": {
+        ""category_x_project.id"": 8,
+        ""category.id"": 1,
+        ""category.ts"": ""2021-01-21 09:31:35"",
+        ""category.category"": ""Body, Glass & Interior"",
+        ""category.model"": ""CL"",
+        ""category.brand"": ""Acura""
+    }
+}"
+9,"2021-02-24 01:05:11","Sunroof Motor Replacement",$503,$575,"""laborLow"":""$275"",""laborHigh"":""$347"",""partsLow"":null,""partsHigh"":""$228"",","{
+    ""9"": {
+        ""category_x_project.id"": 9,
+        ""category.id"": 1,
+        ""category.ts"": ""2021-01-21 09:31:35"",
+        ""category.category"": ""Body, Glass & Interior"",
+        ""category.model"": ""CL"",
+        ""category.brand"": ""Acura""
+    }
+}"
+10,"2021-01-24 09:48:05","Sunroof Switch Replacement",$69,$78,"""laborLow"":""$33"",""laborHigh"":""$42"",""partsLow"":null,""partsHigh"":""$36"",","{
+    ""10"": {
+        ""category_x_project.id"": 10,
+        ""category.id"": 1,
+        ""category.ts"": ""2021-01-21 09:31:35"",
+        ""category.category"": ""Body, Glass & Interior"",
+        ""category.model"": ""CL"",
+        ""category.brand"": ""Acura""
+    }
+}"
+11,"2021-01-24 09:48:56","Window Regulator Replacement",$260,$342,"""laborLow"":""$110"",""laborHigh"":""$139"",""partsLow"":""$150"",""partsHigh"":""$203"",","{
+    ""11"": {
+        ""category_x_project.id"": 11,
+        ""category.id"": 1,
+        ""category.ts"": ""2021-01-21 09:31:35"",
+        ""category.category"": ""Body, Glass & Interior"",
+        ""category.model"": ""CL"",
+        ""category.brand"": ""Acura""
+    }
+}"
+12,"2021-02-24 01:05:43","Window Switch Replacement",$406,$432,"""laborLow"":""$99"",""laborHigh"":""$125"",""partsLow"":null,""partsHigh"":""$307"",","{
+    ""12"": {
+        ""category_x_project.id"": 12,
+        ""category.id"": 1,
+        ""category.ts"": ""2021-01-21 09:31:35"",
+        ""category.category"": ""Body, Glass & Interior"",
+        ""category.model"": ""CL"",
+        ""category.brand"": ""Acura""
+    }
+}"
+13,"2021-01-24 09:51:22","ABS Control Module Replacement","$1,731","$1,765","""laborLow"":""$130"",""laborHigh"":""$165"",""partsLow"":null,""partsHigh"":""$1,600"",","{
+    ""13"": {
+        ""category_x_project.id"": 13,
+        ""category.id"": 2,
+        ""category.ts"": ""2021-01-21 09:31:35"",
+        ""category.category"": ""Brakes"",
+        ""category.model"": ""CL"",
+        ""category.brand"": ""Acura""
+    }
+}"
+14,"2021-02-24 01:06:02","Anti-lock Brake System (ABS) Diagnosis",$99,$125,"""laborLow"":""$99"",""laborHigh"":""$125"",""partsLow"":null,""partsHigh"":null,","{
+    ""14"": {
+        ""category_x_project.id"": 14,
+        ""category.id"": 2,
+        ""category.ts"": ""2021-01-21 09:31:35"",
+        ""category.category"": ""Brakes"",
+        ""category.model"": ""CL"",
+        ""category.brand"": ""Acura""
+    }
+}"
+15,"2021-02-24 01:06:37","Anti-lock Brake System Inspect",$99,$125,"""laborLow"":""$99"",""laborHigh"":""$125"",""partsLow"":null,""partsHigh"":null,","{
+    ""15"": {
+        ""category_x_project.id"": 15,
+        ""category.id"": 2,
+        ""category.ts"": ""2021-01-21 09:31:35"",
+        ""category.category"": ""Brakes"",
+        ""category.model"": ""CL"",
+        ""category.brand"": ""Acura""
+    }
+}"
+16,"2021-02-24 01:07:06","Brake Bleed",$77,$97,"""laborLow"":""$77"",""laborHigh"":""$97"",""partsLow"":null,""partsHigh"":null,","{
+    ""16"": {
+        ""category_x_project.id"": 16,
+        ""category.id"": 2,
+        ""category.ts"": ""2021-01-21 09:31:35"",
+        ""category.category"": ""Brakes"",
+        ""category.model"": ""CL"",
+        ""category.brand"": ""Acura""
+    }
+}"
+17,"2021-02-24 01:07:37","Brake Booster Replacement",$412,$497,"""laborLow"":""$198"",""laborHigh"":""$250"",""partsLow"":""$214"",""partsHigh"":""$248"",","{
+    ""17"": {
+        ""category_x_project.id"": 17,
+        ""category.id"": 2,
+        ""category.ts"": ""2021-01-21 09:31:35"",
+        ""category.category"": ""Brakes"",
+        ""category.model"": ""CL"",
+        ""category.brand"": ""Acura""
+    }
+}"
+18,"2021-01-24 09:57:14","Brake Caliper Replacement",$495,$713,"""laborLow"":""$154"",""laborHigh"":""$194"",""partsLow"":""$341"",""partsHigh"":""$519"",","{
+    ""18"": {
+        ""category_x_project.id"": 18,
+        ""category.id"": 2,
+        ""category.ts"": ""2021-01-21 09:31:35"",
+        ""category.category"": ""Brakes"",
+        ""category.model"": ""CL"",
+        ""category.brand"": ""Acura""
+    }
+}"
+19,"2021-02-24 01:07:54","Brake Line Replacement",$209,$238,"""laborLow"":""$110"",""laborHigh"":""$139"",""partsLow"":null,""partsHigh"":""$99"",","{
+    ""19"": {
+        ""category_x_project.id"": 19,
+        ""category.id"": 2,
+        ""category.ts"": ""2021-01-21 09:31:35"",
+        ""category.category"": ""Brakes"",
+        ""category.model"": ""CL"",
+        ""category.brand"": ""Acura""
+    }
+}"
+20,"2021-02-24 01:09:06","Brake Master Cylinder Replacement",$371,$433,"""laborLow"":""$176"",""laborHigh"":""$222"",""partsLow"":""$195"",""partsHigh"":""$211"",","{
+    ""20"": {
+        ""category_x_project.id"": 20,
+        ""category.id"": 2,
+        ""category.ts"": ""2021-01-21 09:31:35"",
+        ""category.category"": ""Brakes"",
+        ""category.model"": ""CL"",
+        ""category.brand"": ""Acura""
+    }
+}"

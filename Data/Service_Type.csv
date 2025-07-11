@@ -1,0 +1,1001 @@
+Vehicle ID,Repair Date,Repair Description,Cost,Parts Replaced,Repair Shop,Mechanic,Warranty Expiry
+5e1a82b9-1944-4a6e-a6fa-1d5735e33b69,2025-01-22,Suspension Repair,921.6,Shock Absorbers,Rosales-Gordon,Julia Valdez,2025-06-03
+111cd5ea-59ec-41b1-865a-624cfc8bc96b,2025-06-13,Suspension Repair,1514.46,Alternator,"Barnes, Williams and Martin",Nathaniel Baker,2025-01-16
+733e6d03-8188-4fe8-a11b-9e410af5b289,2025-04-19,Tire Replacement,678.17,Alternator,Wright Group,Kim Parker,2025-03-01
+2d236e34-97c5-420d-afe3-d88e19f8ee14,2025-06-12,Transmission Repair,4389.14,Exhaust System,Gutierrez Inc,Steven White,2025-01-03
+16393cad-caad-4780-a6e1-0a623d7f6783,2025-05-13,Transmission Repair,3437.33,Exhaust System,Anderson Ltd,Ashley Davis,2025-02-24
+06210b6d-8c55-42e0-b453-dd24fa3d9587,2025-04-17,AC Repair,1332.33,Radiator,Harris-Hart,Dorothy Mitchell,2025-02-07
+67dc99de-b164-4bf0-bcf4-6b5522a9e9bd,2025-04-01,Engine Repair,142.4,Exhaust System,Underwood-Anderson,Amber Moore,2025-03-01
+ce5fd497-c133-497a-8853-542cde25f2a0,2025-03-27,Clutch Replacement,1276.92,Timing Belt,"Johnson, Nelson and Johnson",Brian Baker,2025-06-23
+e49e55e5-f95a-413a-a622-7f7ed083d8f8,2025-05-22,AC Repair,4016.97,Radiator,Moore and Sons,Miguel Morris,2025-04-20
+48d9a7b0-47ea-4668-ac41-bd15ab794e3d,2025-06-14,Brake Service,2909.8,Timing Belt,"Glover, Ross and Mack",Jorge Valdez,2025-05-21
+f1bf893f-cadd-4b08-921c-8a768061000d,2025-04-05,Brake Service,2366.49,Shock Absorbers,"Goodwin, Ortega and Davis",Anthony Nolan,2025-01-29
+feba7748-6695-4ef2-a904-00ddd4dc236a,2025-02-25,Brake Service,4638.8,Radiator,"Gibson, Maynard and Ellis",Anthony Russell,2025-04-08
+29ffdd09-05ca-476f-bb9c-0cb982f19887,2025-01-26,Battery Replacement,312.58,Alternator,Boyer Inc,William Navarro,2025-02-17
+c0966fef-cb0b-4086-89dc-8f6308be1ea3,2025-04-06,Tire Replacement,2275.72,Radiator,Macias-Spears,Kathleen Beck,2025-02-04
+57d06a25-81df-4c83-bf65-378f2662afb5,2025-04-09,Tire Replacement,3768.34,Alternator,"Scott, Jones and Jones",Gregory Cook,2025-06-16
+dcb9733c-f3d2-407d-ba07-6fabba4eb148,2025-06-11,Suspension Repair,3183.03,Shock Absorbers,Robbins and Sons,Marie West,2025-04-13
+cb4296d8-cb39-42f6-885a-4974c478a50f,2025-06-19,AC Repair,516.7,Brake Pads,Conway PLC,Sheena Beard,2025-01-07
+16fd7183-7c62-4832-9677-4838b4ed66f2,2025-07-07,Suspension Repair,2608.03,Timing Belt,Holloway-Turner,Charles Green,2025-01-07
+97b3f194-e91b-449f-b1c2-50baeaaff973,2025-05-01,Battery Replacement,3879.12,Exhaust System,Thompson Ltd,Mark Perry,2025-03-07
+fb88d420-a5fd-4dcb-804e-333c12367f87,2025-06-13,Brake Service,3426.11,Timing Belt,Schmidt-Wells,Curtis Smith,2025-01-09
+112d760b-1af6-4dd4-acc8-dc1d0933fdc8,2025-05-30,Engine Repair,462.63,Shock Absorbers,"Davis, Mccoy and Wright",Regina King,2025-01-10
+4dd80404-f0c2-4e63-8265-d66bae5f00bc,2025-06-14,Brake Service,3755.26,Shock Absorbers,Miller-Sanchez,William Murphy,2025-03-04
+caeceeae-d22e-42ed-a76c-6e6c1f7d2134,2025-01-18,Suspension Repair,2474.8,Brake Pads,James-Garza,Steve Mcdaniel,2025-06-16
+425e9c8d-9749-4ef4-8199-c368c65fd7d1,2025-05-30,Fuel System Repair,827.98,Exhaust System,"Hull, Rasmussen and Smith",James Jordan,2025-07-10
+305fc95f-98c0-4980-b463-a45ae41bb3ea,2025-05-28,Suspension Repair,4231.26,Exhaust System,"Brown, Rodriguez and Rivera",Corey Smith,2025-06-08
+f17fdcb7-f0d9-4c78-aa14-fb0df3a87153,2025-06-10,Brake Service,3146.23,Brake Pads,Harrison Ltd,Franklin Ford,2025-04-18
+75da68e6-0323-4191-b8c6-6e318db19bfa,2025-05-22,Tire Replacement,4995.79,Alternator,"Andrews, Paul and Brooks",Gina Mills,2025-06-20
+8451ff07-6926-4890-bab9-57ad2a4e3622,2025-06-24,Brake Service,3703.69,Radiator,Brown-Hamilton,Rita Yates,2025-01-07
+80915c33-e5d8-4b77-aa5b-6cec256a449a,2025-03-04,Clutch Replacement,578.94,Radiator,Morales-Adams,William Bryant,2025-07-09
+8e9b04c6-4f01-4cf4-a34c-8226555947e1,2025-04-20,Tire Replacement,3442.67,Radiator,Williams-Patterson,Brandon Robertson,2025-07-10
+f94859bc-dce8-4a8f-8464-5422f7e796dc,2025-06-26,Engine Repair,4967.04,Shock Absorbers,Ward-Stevens,Megan Murray,2025-06-13
+dbd50968-21f8-48d9-a11c-fb6fe5e8d697,2025-05-28,AC Repair,1055.71,Brake Pads,Baker LLC,Blake Green,2025-05-17
+5a33cd39-7075-4757-87b0-99b931a63c43,2025-05-09,Fuel System Repair,2479.76,Radiator,Decker-Hart,Amanda Wade,2025-05-08
+6a67d7a5-a534-4adf-b9c6-6a5b1dcfdddf,2025-04-29,Fuel System Repair,2124.06,Shock Absorbers,Donaldson-Lambert,Anthony Manning,2025-03-07
+f67584a7-e543-4a1c-8600-5350fac4e740,2025-02-24,Fuel System Repair,337.05,Timing Belt,"Jackson, Tucker and Pratt",Monique Miller,2025-02-07
+f3178944-39bf-42e4-bf88-7a58f6ca26db,2025-04-22,Fuel System Repair,3146.36,Timing Belt,"Figueroa, Moore and Orr",Neil Cooper,2025-06-04
+6af9a4d3-45df-4e94-ac55-5e1e8082ff9a,2025-03-09,Fuel System Repair,2728.05,Alternator,Morse and Sons,Julie Gray,2025-02-22
+24df4a20-8171-4115-96c1-ba157e595502,2025-04-03,Fuel System Repair,4164.22,Timing Belt,Campbell-Weber,Travis White,2025-05-10
+3ea42a77-2241-4d48-9975-6380e7affd60,2025-05-11,Battery Replacement,4861.69,Shock Absorbers,Schultz Inc,Jason Williams,2025-05-17
+49427ec4-10c8-4ebb-915a-2251f9a61708,2025-02-05,Transmission Repair,3781.12,Exhaust System,Lucas-Mercer,Benjamin Lewis,2025-04-06
+6eaa062f-e045-4633-aa0a-f64f9932e2b7,2025-03-01,Clutch Replacement,4832.81,Exhaust System,Swanson PLC,Anthony Ramirez,2025-01-15
+534366ca-d23a-46ed-a4cf-cc7522da18e1,2025-04-20,Clutch Replacement,2007.79,Shock Absorbers,"Garner, Richardson and Alvarado",Trevor Vargas,2025-05-20
+7e9d8ccc-f5cc-445c-a7da-addcfa6fb56f,2025-06-04,AC Repair,2556.66,Shock Absorbers,"Bradley, Lambert and Wise",Nicholas Reilly,2025-01-17
+6c6c915b-54e4-4069-9fcc-0cf7d18bd225,2025-05-06,Brake Service,3595.97,Shock Absorbers,Miller Group,Michael Hernandez,2025-03-05
+a687f2e1-13b7-4cf3-9b9d-0556df633284,2025-02-02,Battery Replacement,783.8,Brake Pads,Mueller-Nielsen,Laura Zuniga,2025-04-03
+32418a34-52f2-42dc-ae2e-6cae88a4d18b,2025-03-04,Transmission Repair,4456.81,Brake Pads,"Day, Alvarado and Vasquez",Meghan Russell,2025-03-20
+53af274d-a48e-4552-8518-0344897229cd,2025-03-31,Transmission Repair,1247.57,Alternator,Patrick Group,Holly Lewis,2025-07-02
+85c678bb-d33e-42d6-8498-34d398f36083,2025-07-07,Fuel System Repair,655.56,Radiator,Torres-Smith,Sara Torres,2025-02-11
+f1ce71b2-6edc-4c8e-a983-8e87a8e78cb4,2025-02-28,Brake Service,840.81,Radiator,Owens LLC,David Clark,2025-01-07
+295a5fcb-d99e-433c-b4a8-3cc1453b4411,2025-01-07,Brake Service,4703.22,Timing Belt,"Osborne, Anderson and Hudson",Bryan Malone,2025-04-08
+cc657f55-4012-42e3-8ddd-40df1e5244b8,2025-01-07,Fuel System Repair,2808.01,Brake Pads,"Baker, Logan and Estes",Johnathan Stewart,2025-05-22
+0723e655-81ac-49d1-81f8-4850f927b4d3,2025-03-02,AC Repair,646.77,Radiator,George Inc,Krystal Wise,2025-03-21
+964400f8-3555-4052-8126-7b7a3c3c6281,2025-05-07,Suspension Repair,2785.8,Alternator,"Allen, Green and Wilson",Karla Hess,2025-03-25
+7c3354fb-6d1a-4610-9a15-ff9a752b3433,2025-06-06,Engine Repair,3247.79,Shock Absorbers,Smith-Bush,Julie King,2025-01-09
+1f8ee319-11d5-4b04-81cb-ad00182d7473,2025-03-06,Engine Repair,2758.73,Alternator,Mendoza-Pham,Tyler Perry,2025-01-14
+43c34fa6-fc4e-4e69-a5a1-28c08ab425ae,2025-03-12,Fuel System Repair,2592.11,Shock Absorbers,Mccormick LLC,Elizabeth Horton,2025-03-22
+dcd7af38-8d73-4d11-929f-0e8436918520,2025-03-24,Brake Service,2975.63,Exhaust System,"Perry, Waters and Beard",Donna Bates,2025-05-18
+764419ab-1a9d-440a-99d9-212f2e59f413,2025-05-16,Transmission Repair,792.91,Timing Belt,Everett Group,Andrea Johnson,2025-02-22
+fc14ca58-d044-4efe-87c2-f93a051ed55a,2025-05-12,AC Repair,474.0,Brake Pads,Caldwell-Leach,Angela Richmond,2025-07-03
+15a3bb91-e0b1-4afe-8bd9-b7c68cfe4c9a,2025-05-12,Fuel System Repair,4537.38,Brake Pads,"Smith, Durham and Miller",Mr. Brandon Smith DVM,2025-03-12
+6407b83c-fb9f-4e0f-9a88-4ff85e6756b4,2025-05-22,AC Repair,4556.39,Shock Absorbers,"Trujillo, Knapp and Baker",Kimberly Wilkinson,2025-01-18
+eeeca1bd-1002-4fe8-b6a5-68675315361c,2025-06-13,Brake Service,1472.56,Shock Absorbers,Roberts-Dawson,Jacob Stevens,2025-07-02
+625f4f71-6975-4fed-8fe4-3fbf1b495323,2025-01-22,AC Repair,1857.79,Exhaust System,"Perez, Baldwin and Stuart",Joseph Lester,2025-04-18
+8fde68ad-ff3d-4744-8961-d6cd065230ef,2025-01-31,Engine Repair,3542.92,Exhaust System,Soto Inc,Dennis Martin,2025-05-07
+7cec7171-9605-4b44-99a9-f0aeca6b5c8c,2025-07-09,Tire Replacement,343.15,Brake Pads,"Moody, Hammond and Rivers",Nicholas Hansen,2025-01-16
+e224bcac-c8ff-4320-8102-ed536cf0c730,2025-07-01,Tire Replacement,2619.54,Exhaust System,"Guerrero, Green and Hamilton",Mary Leonard,2025-05-15
+4b9e885b-31d4-4bcb-a1bc-41fb17c18ca8,2025-01-12,Suspension Repair,3675.97,Alternator,Brown-Christensen,Matthew Stewart,2025-04-08
+ba50b5c4-a5cb-4989-b51e-052ab96eeb7f,2025-07-02,Tire Replacement,2180.25,Brake Pads,"Hill, Higgins and Bryan",Michael Wade MD,2025-03-16
+6dadea16-c80f-4a74-9c2f-b5a38e09942c,2025-01-25,AC Repair,876.56,Alternator,Lewis-Humphrey,Jennifer Dennis,2025-06-18
+7f48572f-7443-4f91-b832-44b8491b059e,2025-07-09,AC Repair,2376.72,Radiator,"Jackson, Green and Nguyen",Joshua Simpson,2025-07-05
+15cbfb22-b270-4723-982c-490d7329eeb8,2025-05-07,Tire Replacement,2888.54,Radiator,Bell Group,Charles Robinson,2025-03-05
+3ebc37e8-25a5-4136-aa39-8b84e263f1ff,2025-06-17,Transmission Repair,4842.86,Brake Pads,Padilla-Wood,Joseph Ross,2025-06-12
+57da3923-9dcb-4dc3-a494-2b7bee8cb8a6,2025-06-12,Battery Replacement,4125.23,Brake Pads,"Molina, Young and Phillips",Laura Hunter,2025-03-28
+e5ee49b9-b9c7-4c11-9c4e-41849433d0d2,2025-04-16,Suspension Repair,929.18,Timing Belt,Morrison and Sons,Jessica Cooper,2025-05-06
+5aa3cf72-ce94-4bb5-a72a-a0d8bc970a83,2025-01-05,Engine Repair,4099.28,Timing Belt,Rowe Ltd,Joanna Villarreal,2025-06-20
+9a77e45a-e535-43a6-960a-0b0dbe27f2fc,2025-01-15,Clutch Replacement,385.74,Alternator,David-White,Jennifer Watkins,2025-07-07
+2852d963-07aa-4b6a-a497-ff57f1e39aba,2025-05-13,Battery Replacement,4976.4,Radiator,Evans Group,Gabriel Hines,2025-03-23
+6d3e1412-fba6-4df9-a876-397c6d5cea82,2025-02-01,AC Repair,523.75,Exhaust System,"Grant, Macias and Frost",Amy Jones,2025-02-04
+8b4d87cc-959c-4116-aa6f-99bf739f1ea1,2025-01-10,Brake Service,4005.09,Radiator,"Sherman, Raymond and York",Michael Poole,2025-04-24
+1f232e72-8330-4a38-9d1e-aaaea607b5a3,2025-04-21,AC Repair,4632.24,Shock Absorbers,Gregory-Jensen,Claudia Dominguez,2025-06-19
+40d79c36-c4fa-4803-871e-6dd0eb614cdf,2025-07-09,Clutch Replacement,3748.56,Brake Pads,Berry Ltd,Brianna Avila,2025-07-03
+8fdb45d5-e0a1-4e10-a2d5-e460b3ae054b,2025-06-08,Brake Service,4836.61,Exhaust System,Rivera-Nelson,Peter Montgomery,2025-03-22
+e56f5d8d-3cd5-47e4-9e50-45da0e1996f4,2025-06-22,Transmission Repair,3630.22,Alternator,"Nelson, Meyer and Mendoza",Dennis Smith,2025-06-23
+a496427d-0987-4d38-9230-2bba83e0e6ff,2025-02-26,Tire Replacement,1533.2,Exhaust System,Ray Group,Laura Pierce,2025-01-08
+8eb33053-edf3-4ec3-9fa4-7d526117c7db,2025-04-28,Clutch Replacement,1433.45,Shock Absorbers,Bond-Herrera,Cheryl Davis,2025-06-01
+ec303259-df92-42f6-bf32-b857ad9817c2,2025-06-28,Battery Replacement,1385.12,Timing Belt,Gomez Group,Gail Johnson,2025-06-23
+611aa740-cf24-44bd-a87e-902329fb6e71,2025-06-23,Tire Replacement,2751.14,Radiator,Watkins-Parsons,Kelly Johnson,2025-05-07
+b2ec4c2a-ef14-4b99-85eb-4e3bbb7f0ecb,2025-03-24,Fuel System Repair,4955.14,Alternator,"Berry, Townsend and Miller",Gina Edwards,2025-03-20
+b99e1f7f-1d29-4300-bd10-01b91df8f68c,2025-03-28,Transmission Repair,2883.62,Radiator,Baker Inc,David Serrano,2025-06-26
+c245bd84-0936-443c-becf-1af4942062dd,2025-04-06,Battery Replacement,1102.54,Brake Pads,"Porter, Peters and Walls",Jordan Lewis,2025-02-05
+9cf5aed4-5959-4ad6-a274-2ef10f7bee17,2025-06-01,Brake Service,4513.6,Brake Pads,"Jacobs, Garcia and Hines",Gabriel Parker,2025-05-15
+94d47e6c-0449-4d3d-9845-dc4a7b6b55ee,2025-05-01,Suspension Repair,2778.81,Exhaust System,Baker-Taylor,Ashley Green,2025-03-30
+0fe67d1a-af74-4438-a689-e18a14fdd417,2025-04-10,Fuel System Repair,366.1,Alternator,Duran-Lopez,Nicole Miller,2025-06-28
+cff0c33e-8cf4-4e65-801c-5e7cbdc08f81,2025-06-20,Clutch Replacement,963.98,Timing Belt,"Grant, Welch and Torres",Sabrina Jenkins,2025-07-05
+d87f3b7b-4d57-431f-bb6c-81033d85f299,2025-01-12,Brake Service,4385.77,Exhaust System,Wilson Group,Andrew Weber,2025-05-09
+c8aad197-21de-4558-a829-45b816ec42c2,2025-06-29,Tire Replacement,148.96,Alternator,Morris-Jenkins,Ross Smith,2025-03-12
+906cecba-0fe1-4345-8035-d5456809ec49,2025-06-24,Clutch Replacement,2200.25,Alternator,Garza-Butler,Thomas Cruz,2025-02-26
+29da792e-2c04-465f-ab15-c750b6fedbca,2025-03-06,Tire Replacement,521.66,Exhaust System,Cisneros and Sons,Tina Campbell,2025-05-25
+d069252a-cd6c-4ee9-8ad7-f305c0a27116,2025-03-14,Clutch Replacement,695.6,Exhaust System,"Haley, Martin and Jones",William Williams,2025-05-30
+e1b1fa94-fa2d-4a53-b8fa-beb699cf4fbb,2025-03-09,Transmission Repair,2742.52,Alternator,Reed-Hernandez,Justin Benitez,2025-03-17
+4cd49a36-dea5-4f05-8941-526b78b021d5,2025-03-18,Engine Repair,1182.45,Radiator,"Gutierrez, Burke and Jones",Steven Pacheco,2025-02-17
+dc19f38d-1681-477d-ba87-9eebe5ba6575,2025-04-09,Engine Repair,2790.92,Brake Pads,Sawyer-Porter,Yvonne Williams,2025-02-16
+55b80ea2-0655-4965-af84-1fdc4d2785f7,2025-06-23,Transmission Repair,2219.05,Radiator,Morales-Goodwin,Tim Lewis,2025-02-28
+8a5f753e-3433-4636-be40-240dc88c1430,2025-06-22,Suspension Repair,1747.61,Radiator,Carpenter-Callahan,Tina Dunn,2025-06-28
+b6b03a9e-9953-4fa4-8bca-b7f964b25f87,2025-05-07,Battery Replacement,2543.65,Brake Pads,Cook-Mercer,Jamie Ramirez,2025-02-02
+2e876a8f-7266-498d-9dcc-68318e21965b,2025-02-07,Clutch Replacement,740.6,Brake Pads,Day LLC,Ryan Lewis,2025-04-24
+f9050029-dfbf-496d-8cf3-fe595a5b251c,2025-01-12,Suspension Repair,137.2,Radiator,Norman-Atkinson,Mary Burch,2025-04-07
+71b95af1-0c50-41ed-94e2-15efead9ce4b,2025-05-10,Fuel System Repair,4632.38,Timing Belt,Shelton LLC,Heather Parker,2025-03-24
+79aa9b80-9741-4472-9105-cd4c5113091e,2025-05-08,Brake Service,610.94,Alternator,House-Rivas,Heather Cabrera,2025-06-06
+3694ddc2-9bf8-437a-9807-ac53d2c289df,2025-01-21,Brake Service,648.05,Brake Pads,Hawkins-Anderson,Annette Martin,2025-02-08
+2bc4686d-9d2a-44e4-9af6-2b03c32c3064,2025-05-10,AC Repair,2241.28,Radiator,"Schneider, Jacobson and Dean",Brian Miller,2025-06-29
+ec23893c-0432-4bb2-86e3-2c0da6211fb7,2025-01-08,Clutch Replacement,4944.23,Radiator,Cook LLC,Dennis Mejia,2025-06-04
+3742d8d3-754f-4c76-b5ad-4b46a17eea43,2025-03-26,Transmission Repair,300.75,Alternator,Harrison and Sons,Charles Tran,2025-05-08
+157c514c-d7a1-420d-83c1-95f1632c6201,2025-02-02,Battery Replacement,3372.49,Brake Pads,Harvey PLC,Timothy Lucero,2025-03-12
+82acaea5-e731-4e03-a7b6-0d6846bd882d,2025-01-27,Fuel System Repair,492.9,Radiator,"Cannon, Mckenzie and Mccarty",John Graham,2025-05-28
+71d5bfc9-3c68-4e70-bc8c-d08112e9b886,2025-05-01,Clutch Replacement,4146.61,Radiator,"Martinez, Holland and Maynard",Elizabeth Ward,2025-03-23
+5121d644-999f-4849-b906-61a12ef2e959,2025-03-09,Battery Replacement,3032.58,Brake Pads,Mccoy-Bautista,James Harrison,2025-02-16
+0f0579be-baaf-4812-a35c-bb0ed89ffa2c,2025-03-24,Brake Service,3946.54,Alternator,Shah-Morse,Peter Thomas,2025-06-22
+af5a7c84-c0d7-4399-ad2a-3ff81f8aea98,2025-03-09,Engine Repair,3312.09,Brake Pads,Guerra Inc,Jeffrey Adams,2025-01-31
+9c1e6be5-b2c3-42da-b29c-497cb9f69e7a,2025-05-03,Battery Replacement,1075.1,Exhaust System,Martin and Sons,Linda Fisher,2025-06-20
+98997e34-4862-4546-bd20-d61a07c9e61a,2025-03-23,Battery Replacement,3814.76,Alternator,"Erickson, English and Blair",Ashley Peterson,2025-02-25
+d816fca2-7329-4a45-a63e-2d26945c43d0,2025-02-10,Suspension Repair,4081.11,Brake Pads,Callahan and Sons,James Brown,2025-03-10
+58211b92-92c3-482e-aca7-434f692b9166,2025-04-30,Clutch Replacement,2525.24,Radiator,Osborne-Rodriguez,Heather Reyes,2025-06-13
+a5f7f887-afe9-4ccf-a647-c8e427f5cab1,2025-02-13,Fuel System Repair,3445.44,Shock Absorbers,Cooper-Ramirez,Jacqueline Waters,2025-01-23
+f6fddc35-1c75-4aa6-a159-068df4c812a5,2025-02-12,Suspension Repair,2314.59,Timing Belt,Anderson and Sons,Monica Hernandez,2025-07-07
+b0bfe7c2-0b19-4915-82b6-0aee6529965c,2025-03-24,Suspension Repair,1433.31,Exhaust System,Brooks Inc,Kevin Peterson,2025-05-17
+3d72bb1a-7c1a-4c09-907c-6005f5ac9454,2025-02-04,Tire Replacement,1975.88,Alternator,Parker-Larsen,Karen Fitzgerald,2025-04-20
+d2fcba81-5660-499a-a994-13b2deb7ea32,2025-01-04,Transmission Repair,1754.93,Shock Absorbers,"Porter, Brown and Parks",Spencer Cunningham,2025-03-12
+2a12bb19-6515-4141-aced-8a9e3b27138a,2025-05-16,Transmission Repair,1610.22,Exhaust System,Barber-Rodriguez,Robyn Smith,2025-02-28
+b66ce6c2-2389-4868-a908-c80b4c427528,2025-03-11,Battery Replacement,1270.17,Alternator,Church Inc,Amy Ponce,2025-01-21
+4cc394f1-0b64-42f0-a466-f938fb39e735,2025-07-06,Clutch Replacement,2127.72,Shock Absorbers,Leblanc Ltd,Joshua Diaz DDS,2025-07-05
+33bdb24b-6762-4b3c-99f8-ba0b7e3cf2bb,2025-03-22,Battery Replacement,4100.95,Alternator,"Wilson, James and Rodriguez",Robert Hunter,2025-04-17
+0c292ff1-cd4e-4b9e-8916-17c64d1f3f98,2025-04-07,Fuel System Repair,2197.25,Timing Belt,"Richards, Hall and Ford",Russell Beard,2025-07-01
+3c07f41f-aeb9-405a-b916-5e5f7710fc8c,2025-03-21,Suspension Repair,974.14,Brake Pads,Zamora-Bell,Julia Small,2025-05-23
+4b5cbb9b-fcb9-44a7-aae0-564f9351ba76,2025-04-07,Clutch Replacement,4326.48,Brake Pads,"Porter, Rodriguez and Stokes",Jessica Smith,2025-03-07
+d23fb1d8-2542-4178-8939-8f373d3f28a7,2025-01-27,Tire Replacement,3272.04,Alternator,"Francis, Harris and Buck",Rebecca Harvey,2025-02-27
+50b1e9e6-3f70-4955-bbad-f1f1528276cf,2025-05-21,Transmission Repair,3103.51,Timing Belt,Dixon-Gonzalez,Samuel Chandler,2025-01-31
+5098c0f4-d13a-4141-a591-532b1fd6d770,2025-06-13,Suspension Repair,1773.07,Exhaust System,"Brown, Flores and Jones",John Miller,2025-03-13
+eb3568de-d099-4bda-8ed7-6084d841c9b2,2025-03-12,Suspension Repair,2925.52,Brake Pads,"Gomez, Thompson and Baker",Michael Kennedy,2025-03-09
+554c2130-81f7-425a-852f-6b90410cd105,2025-05-26,Transmission Repair,871.42,Shock Absorbers,Edwards-Allen,Dorothy Welch,2025-01-07
+9572d3f5-ef4f-4fd5-8ac9-99d2022337e8,2025-04-18,Engine Repair,517.95,Radiator,Morrison-Alvarez,Melanie Hayes,2025-02-08
+5c7d7128-8ece-43df-a108-a6c1978767ce,2025-06-13,Engine Repair,2426.75,Brake Pads,"Santos, Walker and Young",Paul Wood,2025-06-27
+06e9cd1f-4c72-4c36-9802-baac5b6ee48b,2025-01-13,Brake Service,3875.75,Brake Pads,"Page, Webb and Mcgee",Heather Strong,2025-02-15
+63d3f17e-98e6-44d9-ba01-9a27ba5b1d8d,2025-07-02,Clutch Replacement,4399.94,Alternator,"Powell, Franklin and Brewer",Justin Walton,2025-05-14
+7d406616-e8c6-48eb-87ec-dd56e20b87a0,2025-07-03,Suspension Repair,4017.17,Brake Pads,"Lopez, Werner and Nichols",Jamie Harris,2025-01-15
+573733ad-0be4-4c44-801b-9841740193d0,2025-07-05,Brake Service,3454.54,Radiator,"Cantrell, Oliver and Cooper",Dana White,2025-06-17
+41f826ed-e4a2-4bb9-b1b5-089b5ef26fb9,2025-05-23,Suspension Repair,1981.78,Shock Absorbers,Hill Group,Joseph Brown,2025-03-17
+c6d1173b-883e-46cb-a8ab-27b5c5a5cbdf,2025-02-05,Transmission Repair,2532.56,Alternator,Carrillo-Murphy,Robin Baker,2025-06-18
+4f1b43bc-9364-466e-ad7a-6b3c62dd03d5,2025-07-10,Battery Replacement,3446.67,Radiator,Diaz LLC,Nancy Alvarez,2025-05-07
+f50ee9f9-ec4c-4978-8a62-d83b74c03193,2025-03-08,AC Repair,4302.21,Timing Belt,"Spears, Hernandez and Ross",Jared Cox,2025-05-18
+d0be6baa-4bd1-4d06-ac2c-39533e50e173,2025-03-23,Tire Replacement,3401.22,Alternator,"Webb, Kelley and Schmitt",Nicholas Harrington,2025-01-03
+06f88a55-4c9c-4a6b-9013-89dabe22faea,2025-05-10,Clutch Replacement,623.15,Brake Pads,Davis-Bruce,Kimberly Roberts,2025-04-22
+e65e7bf9-b459-4fba-8365-3f31887c61c0,2025-02-03,AC Repair,616.74,Shock Absorbers,"Scott, Johnson and Smith",Michael Mason,2025-05-25
+532d287a-341f-4f5a-b7e4-5a1e86a3c40c,2025-01-31,Transmission Repair,2164.35,Brake Pads,Maxwell-Green,Norma Reed,2025-06-17
+c2812658-cae1-4313-a149-94fe02b94486,2025-01-01,AC Repair,2657.73,Shock Absorbers,Williams Inc,Kristina Bond,2025-04-17
+e60ed0eb-71d9-4d6f-a46f-61f44571212f,2025-04-29,Fuel System Repair,4393.98,Alternator,Roman-Rasmussen,Lisa Myers,2025-04-22
+4b7fed07-fe0b-4d53-aa33-f140d3ba9cb5,2025-06-04,Engine Repair,2926.24,Radiator,"Young, Romero and Kennedy",Amy Tapia,2025-03-03
+96103078-1a4a-4634-9690-d9bf657e933b,2025-04-22,Suspension Repair,653.56,Radiator,Johnson-Nelson,Tiffany Hebert,2025-05-28
+e2133f8d-b4ab-4d8f-a32f-d7d462856e29,2025-01-18,Brake Service,2655.72,Timing Belt,Huff and Sons,Stephanie Newton,2025-07-09
+57ae2f11-aaa0-445c-8492-1180f36a8ecc,2025-02-08,AC Repair,3570.09,Brake Pads,Morrison-Vaughn,Leah Malone,2025-01-24
+6da2c741-632c-4122-bb05-66a96eff69b4,2025-05-21,Suspension Repair,339.02,Timing Belt,Mcdonald-Green,Clarence Rice,2025-02-09
+2750fd75-9997-4769-bfea-c9cd215cc128,2025-06-07,Engine Repair,4824.15,Shock Absorbers,Thompson-Walker,Ryan Glover,2025-05-30
+0cdbd649-dcdb-4fb5-9a84-54b29449149d,2025-05-02,Fuel System Repair,1710.14,Shock Absorbers,"Barnes, Walker and Stewart",Kevin Fitzgerald,2025-03-20
+54f898c8-d2eb-4191-bf00-d1d75cd8f306,2025-06-08,Battery Replacement,3098.2,Timing Belt,"Small, Brooks and Adkins",Kelly Phillips,2025-05-25
+7b94421d-8d28-4c97-af40-a3d75e40a35e,2025-06-17,Clutch Replacement,4503.28,Shock Absorbers,Lin Inc,Laura Nelson,2025-01-13
+40094561-9135-47d3-bb85-e8f6c08168cc,2025-06-17,Battery Replacement,1690.36,Alternator,Obrien Group,Joseph Garza,2025-06-30
+0e2c40ca-d434-4a93-a96f-93225a3c40b9,2025-06-23,Transmission Repair,3132.33,Radiator,Long-Byrd,Rodney Dalton,2025-06-02
+9e958334-ce77-40f3-8e73-c0d8f65f735d,2025-01-31,Transmission Repair,130.56,Timing Belt,Young-Brown,Amanda Carney,2025-03-16
+c895a66f-d78b-444c-b48d-20bf46de0716,2025-04-26,Engine Repair,4416.98,Exhaust System,Lewis Inc,David Terrell,2025-06-18
+219dc046-0824-4a91-b002-b6d8f10009a1,2025-05-26,Battery Replacement,1882.04,Alternator,"Kerr, Anderson and Miranda",Vanessa Le,2025-04-27
+739f4b23-282a-43fd-bc0a-c41d89d0a5fb,2025-01-10,Engine Repair,3036.45,Alternator,"Moyer, Alvarez and Logan",Jennifer Fernandez,2025-03-28
+409b4045-faf3-4d30-9367-49eaa913d523,2025-07-01,Suspension Repair,2307.1,Brake Pads,Brock LLC,Tracy Pierce,2025-02-19
+3791e3ad-2433-414b-a551-fca98a3f6c04,2025-01-20,Tire Replacement,3011.73,Alternator,"Gardner, Watkins and Gallegos",Ashley Wood,2025-07-10
+011ad68f-46eb-4293-9acd-dfb945095b6a,2025-06-11,Fuel System Repair,2593.26,Radiator,"Lang, Clark and Williams",Kevin Pierce,2025-03-09
+72dd093c-5693-4a4e-b2db-e61b33087535,2025-05-06,Engine Repair,4189.58,Timing Belt,Watkins-Sanchez,James Delgado,2025-05-25
+bf7ffed8-e955-4cbc-a6b9-607c095720de,2025-03-18,Engine Repair,3285.97,Timing Belt,Duncan and Sons,Blake Gutierrez,2025-03-11
+cf6575bd-bda3-4bb6-99cd-7c495829b21f,2025-02-07,Battery Replacement,1767.7,Radiator,"May, Lane and Suarez",Michael Ramsey,2025-03-09
+37a043c4-4ea8-49c2-ab49-abd8628265e9,2025-01-04,Suspension Repair,2255.88,Shock Absorbers,Lambert Ltd,Jason Gaines,2025-05-26
+4fc2fa19-c87a-43c8-88d2-e5bd737f1093,2025-04-07,Suspension Repair,3498.06,Exhaust System,Hobbs Inc,Thomas Dawson,2025-06-17
+c700c00e-2354-40a4-a737-981441060f52,2025-05-13,Battery Replacement,533.41,Radiator,Villa-Reeves,Sarah Jones,2025-01-05
+a91bb8c7-a659-4068-bfee-cc82673c8d0a,2025-01-28,Battery Replacement,4815.38,Brake Pads,Smith and Sons,Christine Mason,2025-04-29
+70cc0d8e-0faf-43a9-b523-71083f167f82,2025-03-03,Brake Service,4930.27,Exhaust System,"Mccormick, Miller and Perez",George Thomas,2025-06-26
+8092bea0-36d6-49b4-b3fc-3dcfde7e4552,2025-03-04,Battery Replacement,1800.49,Exhaust System,"Gregory, Wilkinson and Stokes",Adrian Black,2025-05-26
+d61c0f75-663f-4c85-8000-cdd820d8d586,2025-02-25,Battery Replacement,886.84,Shock Absorbers,"Lopez, Pittman and Lee",Eric Hawkins,2025-04-27
+0bd33101-60cd-4a8a-80cb-f704c1b36bae,2025-02-03,Tire Replacement,1235.77,Brake Pads,Edwards and Sons,Jeffrey Yates,2025-03-13
+a745674e-d671-41a6-8af2-5fd7fefde419,2025-07-07,Brake Service,2431.11,Alternator,Lawrence Group,Anthony Walters,2025-02-10
+0d1c989c-6075-48cb-aa14-9a49466e60e4,2025-06-06,Transmission Repair,4752.61,Timing Belt,Phillips PLC,Kimberly Robles,2025-03-04
+6dff51cf-197d-4aff-af08-3d5fe9db4b82,2025-03-04,Engine Repair,1844.8,Brake Pads,"Thompson, Morris and Lee",Jill Richardson,2025-06-17
+96db3cf5-11b3-4e65-b2f5-a5bc29a0f9ad,2025-02-22,Clutch Replacement,4441.85,Shock Absorbers,"Nelson, Valentine and Larson",Alexis Roberson,2025-01-07
+f6f0a619-cf8a-49a6-8d08-4bec38f1636f,2025-01-30,Engine Repair,2332.45,Brake Pads,"Jones, Taylor and Diaz",Timothy Parker,2025-05-04
+20c5bd5c-1f01-4d64-b525-478ad072fa34,2025-01-11,Battery Replacement,687.44,Radiator,Horton LLC,Carrie Finley,2025-02-12
+839f20a5-1fa7-449e-a9d1-145b4d93772c,2025-02-28,Battery Replacement,3769.31,Radiator,Burns-Torres,Jake Castro,2025-05-19
+b18d1e91-180d-4bb7-a802-e6d07981769b,2025-07-08,Brake Service,4115.07,Radiator,Prince-Mccoy,Haley Sosa,2025-02-21
+8f069084-840e-4fb3-88b5-8ba0f6204ff0,2025-06-18,Battery Replacement,3527.76,Shock Absorbers,"Douglas, Grant and Arroyo",Craig Pitts,2025-06-27
+d7a2a699-fb2a-4735-af7b-0ee8a5e9b2e7,2025-01-31,AC Repair,3889.07,Brake Pads,"Stokes, Robinson and Osborne",George Hoffman,2025-04-01
+3f0d7307-2538-49fb-be32-f86c760122a0,2025-06-09,Clutch Replacement,3686.23,Alternator,"Oconnor, Taylor and Ortega",Deborah Baldwin,2025-03-29
+529e5a77-03d3-403d-9394-8ac1b13c0ea5,2025-04-02,AC Repair,1412.06,Exhaust System,"Christian, Harrell and Garrett",Christopher Stewart,2025-03-30
+d3ac94da-0a61-430c-bfeb-3a99165783c2,2025-04-04,Suspension Repair,3098.61,Radiator,Adams-Weiss,Brandon Moody,2025-03-12
+f30cd016-0a11-4d08-a797-8c89d9fdf5af,2025-03-30,Clutch Replacement,709.11,Timing Belt,"Moore, Gregory and Hall",Tina Wright,2025-02-15
+2123e7bc-f24d-41ca-8db8-e04afc7b2a17,2025-01-24,Clutch Replacement,473.52,Brake Pads,Gonzalez-Gaines,Michael Pope,2025-03-08
+78f6014d-c1cb-4fd8-ab58-dd42a0184cca,2025-05-03,Clutch Replacement,2755.61,Alternator,"Edwards, Watson and Martin",Julie Schmidt,2025-03-03
+74b54c80-589a-4459-acef-e1f58763c493,2025-02-03,Brake Service,4202.1,Alternator,Mcclure Ltd,Lisa Small,2025-04-03
+02b3c7b1-6a17-44c5-aed7-c9afca003014,2025-01-27,Brake Service,1578.89,Brake Pads,"Haas, Adkins and Bell",Brian Bryant,2025-01-14
+36bcde7e-ca9a-4509-8380-2c2a88bc4305,2025-04-24,Suspension Repair,2997.24,Brake Pads,"Decker, Carlson and Cardenas",Kevin White,2025-06-25
+5cf814a5-bc2c-4da2-a6cd-7b6d33648b58,2025-03-15,Transmission Repair,3447.45,Timing Belt,Kennedy-Wallace,Christian Johnson,2025-02-19
+8258f0db-99f1-40a9-ad9e-0e2ea24fbc59,2025-06-22,Tire Replacement,4112.53,Shock Absorbers,Stafford LLC,Erica Hubbard,2025-05-10
+2c888885-bee1-4acd-a47b-81666de9229e,2025-05-15,Battery Replacement,749.01,Alternator,"Paul, Pitts and Mann",Kimberly Reed,2025-04-27
+9492a910-a30f-4e9e-ac17-295b4873ff0e,2025-06-06,Battery Replacement,503.49,Exhaust System,Velasquez-Rodgers,Jamie Wilson,2025-05-27
+a6f8ac08-a0f5-4f3c-be0d-8e6c7ae8c37d,2025-06-04,Clutch Replacement,3641.64,Radiator,"Brock, Brooks and Perkins",Scott Rodriguez,2025-04-22
+0d4c4457-43c8-4234-91c6-d9ef048be257,2025-04-26,Engine Repair,1903.49,Exhaust System,Evans LLC,Justin Taylor,2025-02-10
+afd5ae99-384f-4545-b9c4-d1dd07425a1c,2025-06-05,Fuel System Repair,173.17,Brake Pads,Horn-Hughes,Kayla Thompson,2025-03-01
+975f3575-047b-48f4-93c5-566354d3c948,2025-02-23,Engine Repair,3582.77,Timing Belt,Green-Johnston,Phillip Blackburn,2025-05-27
+31d56946-f97d-4802-91e9-4ecb4059c221,2025-01-18,Clutch Replacement,2484.86,Timing Belt,"Rice, Cunningham and Martin",Ronald Kramer,2025-03-15
+a342bb74-0f40-4e7c-89b2-bc0c5f1e6fc4,2025-06-28,Suspension Repair,1185.64,Alternator,"Simmons, Bell and Smith",Darrell Baker,2025-04-26
+e99da484-86b9-437d-8daf-19c79a13e74a,2025-04-29,Tire Replacement,369.87,Timing Belt,Allen LLC,Stephen Smith,2025-02-05
+56568ceb-467d-45c7-b819-86db575d2eb9,2025-02-09,Transmission Repair,435.61,Exhaust System,Monroe LLC,Kevin Bennett,2025-05-07
+0335a1db-12cf-4e4b-bad1-cc65bc249a9c,2025-01-03,Suspension Repair,3190.58,Radiator,"Higgins, King and Wright",Alison Salazar,2025-06-27
+28d08187-0a90-4894-ab2d-a37aa4568144,2025-03-06,Tire Replacement,166.26,Exhaust System,Burns Ltd,Carrie Byrd,2025-01-13
+2f2a0fd6-78ad-4a50-a1d6-87a0cf691751,2025-01-16,Transmission Repair,2915.02,Exhaust System,Long-Owen,Samantha Powers,2025-02-23
+28394502-a075-4371-9810-1a5c70d5e742,2025-02-18,Fuel System Repair,2894.42,Radiator,"White, Johnson and Salazar",Kayla Watson,2025-02-27
+f9b45993-ca89-4b6d-a4d0-a88fa6e94a72,2025-02-01,Tire Replacement,3369.67,Shock Absorbers,Miller-Williams,Joy Martin,2025-04-30
+30df77c1-94d7-4279-8a5c-0e2ba211c8ee,2025-03-15,Tire Replacement,527.25,Brake Pads,Anderson Ltd,Stephen Patton,2025-05-17
+af7d5b89-950c-49be-89df-c05f877be3f3,2025-04-17,Suspension Repair,2418.53,Timing Belt,"Turner, Richard and Mejia",Thomas Powell,2025-01-13
+e6e88a5d-1041-46a2-b7a4-845b154365a6,2025-06-26,Transmission Repair,624.72,Timing Belt,Davis and Sons,Patricia Cox,2025-03-29
+0326d272-7556-4f7b-ae93-70583ccff72e,2025-05-07,Brake Service,1495.97,Timing Belt,Schneider-Dickerson,Shane Jones,2025-01-25
+6dd7d888-5a5b-4da8-a919-5e6489ad9755,2025-07-09,AC Repair,3804.42,Timing Belt,Ross-Mcclure,David Copeland,2025-06-03
+e16498d6-dcbd-4385-95cc-f0190e602ee7,2025-02-28,Transmission Repair,4074.22,Alternator,Smith PLC,Zachary Brown,2025-03-18
+e9dc92ab-5258-42a6-a4a8-5b5d7aada498,2025-01-30,Tire Replacement,1216.77,Exhaust System,"Cox, Brooks and Hale",Jeffrey Bryant,2025-06-27
+37f0803a-b989-4b5c-bd18-bcb54d41e72d,2025-02-07,Transmission Repair,2049.49,Shock Absorbers,Mcmahon-Moore,Tammy Mitchell,2025-01-31
+769a8ad6-ec3e-44f7-877d-d637047d1dc7,2025-01-27,Suspension Repair,3672.05,Shock Absorbers,Moreno Group,Ryan Gregory,2025-06-30
+9ac9b807-41d3-4fa8-9d7d-c845436395e5,2025-07-01,AC Repair,4709.49,Brake Pads,Melendez and Sons,Ryan Johnson,2025-06-04
+ae993887-516a-4b7c-a4b6-c16f8519fc48,2025-04-09,Brake Service,3768.4,Brake Pads,"Williams, Dominguez and Burton",Michael Nash,2025-05-09
+4a78fb9d-8645-4cd3-8f57-b5417444bd01,2025-03-03,Transmission Repair,4381.25,Alternator,Chavez Ltd,Anthony Costa,2025-04-07
+feda468d-5a01-48bd-9bdb-0c16e70a826e,2025-05-25,Clutch Replacement,1923.44,Radiator,Hicks-Simmons,Donald Taylor DDS,2025-01-24
+9fa5dcf3-fe26-406b-b7d6-038cde0be8c9,2025-02-01,Tire Replacement,3082.3,Shock Absorbers,Vargas-Young,Gregory Burton,2025-02-03
+6092a5e7-454a-4751-b4eb-72c928e10666,2025-04-26,Engine Repair,3874.03,Alternator,Warner Ltd,Randy Bentley,2025-06-06
+d1a93134-a0dc-4219-b7bf-821c6b3a5390,2025-03-01,Fuel System Repair,392.64,Shock Absorbers,"Moore, Jenkins and Wilson",Karen Jones,2025-05-02
+02fad6bd-9923-4fd7-8401-2e5ab8c3fac4,2025-05-11,Engine Repair,634.21,Timing Belt,Vasquez-James,Wanda Rodriguez,2025-04-07
+585930b5-744d-4a69-85c2-6dddede40574,2025-04-25,Battery Replacement,4567.05,Exhaust System,"White, Wallace and Lyons",Dr. Jared Skinner MD,2025-03-31
+0ca4dbfc-b513-457c-b104-93d6ccd77e7f,2025-02-04,AC Repair,2539.83,Shock Absorbers,Peterson and Sons,Cynthia Barrett,2025-05-30
+d44f05aa-e17a-47a4-ad07-55d9b7e531c5,2025-07-01,Transmission Repair,1592.0,Exhaust System,Young and Sons,Michael Rodriguez,2025-07-03
+7e30e4f1-4b6c-47e8-8d63-5f33adcb9126,2025-03-27,Clutch Replacement,2715.4,Radiator,"Suarez, Hancock and Silva",David Hooper,2025-01-31
+089960ab-e76d-44c8-84ba-799da9726773,2025-06-27,Clutch Replacement,516.57,Brake Pads,"Anderson, Nichols and Ramos",Jon Jones,2025-02-06
+872d2a2e-c700-4052-ae70-b84bdcc25f05,2025-03-08,Battery Replacement,3132.25,Radiator,Powell-Davis,Amy Chandler,2025-03-13
+58877cb7-7998-496e-86c6-1da4b79f4b46,2025-04-09,Fuel System Repair,1803.93,Radiator,"Horton, Carlson and Woods",Hector Schultz,2025-02-09
+8d2f4023-1830-4cdc-9c31-5f13edec5bbb,2025-06-04,Suspension Repair,1050.28,Exhaust System,Ward-Walker,Francis Stevens,2025-05-21
+c71b870f-6cbe-47ec-9923-e858f7837d7e,2025-03-11,Battery Replacement,4292.02,Timing Belt,Grant Inc,Keith Gardner,2025-04-12
+f9064481-e842-4f2f-83cb-75562fe778f9,2025-04-07,Fuel System Repair,3209.62,Radiator,Buchanan-Sanchez,Sheila Carroll,2025-02-15
+a329a474-ed2c-40b2-a212-7a758bb55cec,2025-02-10,Tire Replacement,1972.4,Shock Absorbers,Davenport-Barron,Amanda Mcbride,2025-01-23
+8a29d75a-d789-4e83-b82b-1ad7d32b1d2e,2025-03-08,Transmission Repair,1417.21,Radiator,Rodriguez Ltd,Renee Wiggins,2025-03-06
+3f3f840c-8f34-447b-9619-d50c9f84ffbc,2025-04-19,Fuel System Repair,852.88,Exhaust System,Brown-Velasquez,Robert Farmer,2025-03-17
+896f570e-f95c-425e-aa0d-752ed0ee5702,2025-01-14,AC Repair,3386.78,Alternator,Wood and Sons,Lance Barton,2025-04-22
+9c5ee29d-a295-4d89-af1e-7b2ec1709387,2025-04-08,Tire Replacement,4074.79,Exhaust System,Rodriguez Ltd,Kristin Rogers,2025-01-18
+6f4f8c5b-6574-4610-9759-288ecca3cae2,2025-07-06,Tire Replacement,1633.79,Brake Pads,Frank Group,Timothy Cline,2025-01-23
+bd89d464-e521-4605-88d4-324d98d8e79c,2025-04-03,Clutch Replacement,4212.24,Brake Pads,Walter Group,Heidi Robinson,2025-05-21
+8be7cd53-c774-49d5-8b1f-bf72e5f4d83e,2025-05-25,Clutch Replacement,4884.28,Shock Absorbers,Chavez-Brown,Micheal Allen,2025-03-01
+8bfbfa91-26bc-476f-b21f-ef78d61db146,2025-02-11,AC Repair,1220.91,Exhaust System,Day-Gonzalez,Norman Watkins,2025-01-10
+2a4237fd-5616-4810-9099-68bbee5cabc5,2025-06-29,Tire Replacement,3079.97,Exhaust System,Henderson-Smith,Frank Wilson,2025-05-21
+60475693-701b-4958-9da1-98f32852ee79,2025-02-26,Tire Replacement,2750.39,Alternator,Vargas-Phillips,Katherine Myers,2025-02-24
+fc5b4cd7-1946-4ce1-b8e3-ce4bb2444fe2,2025-07-04,Clutch Replacement,729.39,Radiator,"Collins, Williams and Harvey",Madison Oliver,2025-03-09
+b5e0638f-012e-4057-a640-0673b0b88c23,2025-04-18,Battery Replacement,518.71,Timing Belt,Gill-Harris,James Ortiz,2025-06-17
+7f533470-468c-4b94-aabf-7f5c26b999b5,2025-06-12,Clutch Replacement,323.74,Alternator,Bennett and Sons,Jonathan Turner,2025-04-20
+b0e5015b-96dc-4594-a61c-134d730f7f8c,2025-03-13,Brake Service,3148.67,Exhaust System,Vargas-Lyons,Ashley Andrews,2025-07-03
+26b3d04c-5c85-44c0-817d-8d9c35e92700,2025-01-25,Fuel System Repair,4787.13,Exhaust System,Hamilton LLC,Stephanie Hale,2025-03-05
+007ab407-bfe7-410b-93c1-ea880959e953,2025-02-09,Fuel System Repair,3052.44,Alternator,Mora Group,Bridget Sheppard,2025-03-24
+bb20f4d8-02d3-4618-bfae-1f2cfe18b1b7,2025-06-15,AC Repair,1425.75,Exhaust System,Gilbert-Hughes,James Stone,2025-04-02
+36eb86d7-fdf7-4e37-9870-7976619f8574,2025-05-22,Engine Repair,3561.42,Brake Pads,Richard and Sons,Carl Burns,2025-06-16
+516a9445-ceb3-420e-b946-0b8727c78f39,2025-04-02,Suspension Repair,4822.0,Brake Pads,Ward Group,Michelle Owens,2025-05-15
+30defaa8-4acb-4872-81a4-b955288d65a0,2025-02-28,AC Repair,3971.02,Alternator,Ward PLC,Michelle Ortiz,2025-06-11
+37cde591-3983-46a0-86e4-cd6d8d916b3b,2025-06-23,Clutch Replacement,425.2,Brake Pads,Garcia Inc,Leslie Mills,2025-04-05
+a7c3f31a-1246-4d23-9fbc-74cf5bbd66d2,2025-03-18,Transmission Repair,2141.74,Brake Pads,Chandler and Sons,Catherine Griffin,2025-03-09
+1698a7d3-5fdb-479b-a812-da82f7e0af56,2025-01-25,Brake Service,4789.01,Alternator,"Cook, Wallace and Smith",Dwayne Jimenez,2025-01-04
+d3a80d5a-c9bf-421f-bce0-1947eec5ee0a,2025-01-23,Transmission Repair,3359.86,Shock Absorbers,Decker-Owens,Dennis Brown,2025-03-25
+cbe45120-1c63-4696-940d-324a2f910619,2025-06-25,Battery Replacement,1333.34,Radiator,"Jones, Rojas and Wong",Kimberly Scott,2025-01-13
+23f7a591-72c6-4433-9005-1b98e004ea33,2025-01-19,Fuel System Repair,3870.79,Alternator,Smith-Sharp,Rachel Huynh,2025-07-06
+ccf2ae12-c932-43e7-9fb3-260fd1f6270d,2025-03-31,Fuel System Repair,468.65,Brake Pads,Gomez-Shelton,Margaret Robbins,2025-03-06
+aeff5ab5-1e20-46e4-aa23-6fb5547e3d39,2025-02-06,Fuel System Repair,4096.63,Exhaust System,Hansen LLC,Judy Navarro,2025-04-29
+b7e443f0-60a2-4ec8-89c6-a5fffdea78d9,2025-03-04,Transmission Repair,2405.25,Shock Absorbers,"Cole, Hicks and Brown",Lawrence Rodriguez,2025-02-15
+66df9cdc-4618-494a-bfc0-268c6f3b6a55,2025-04-06,Fuel System Repair,3126.26,Brake Pads,Baker Inc,Gabriel Kennedy,2025-01-05
+04998001-ec50-44f6-9509-46a7a67f3731,2025-02-21,Clutch Replacement,3673.49,Alternator,Manning-Moore,Cody Merritt,2025-02-14
+4aba3702-995f-4ed0-aab8-006b8c225f7a,2025-02-06,Engine Repair,1754.21,Exhaust System,Walls-Larson,Michael Holland,2025-04-21
+3ae0f7f9-c53f-4adc-bfe8-703fc79cbcc0,2025-07-06,Engine Repair,4074.57,Alternator,Brown PLC,Michele Gonzalez,2025-02-16
+3920312f-630f-4f9b-b061-caac781f208f,2025-06-29,Brake Service,2683.9,Radiator,Schwartz-Vazquez,Michelle Cowan,2025-05-15
+45610086-4cbe-4d4b-bf50-aacdce8df1ff,2025-05-03,Transmission Repair,2388.07,Brake Pads,Williams-Salazar,Charles Silva,2025-02-26
+464c7885-f623-483a-97ef-db4f3c4757b7,2025-03-14,AC Repair,4949.66,Exhaust System,Fowler Inc,Joshua Cooper,2025-05-08
+a642bee8-a152-47a7-84ea-b3fd3a91c2b2,2025-07-07,Fuel System Repair,4288.63,Brake Pads,"Washington, Washington and Klein",Cathy Gilbert,2025-03-17
+55e6789b-4432-405e-a024-faf4e431ecbe,2025-04-09,Battery Replacement,3557.66,Brake Pads,"Smith, Bray and Cox",Ashley Mcpherson,2025-06-11
+6aa1de1b-0855-4945-9a57-8fc629f7adee,2025-06-01,Transmission Repair,3496.8,Alternator,"Scott, Smith and Owens",Dylan Cortez,2025-01-19
+f041dd6f-98a7-441c-8d5a-f55b24fdcaea,2025-02-12,Suspension Repair,2240.8,Exhaust System,Kim-Wang,Tamara Mckay,2025-01-29
+0574ac45-d10b-484a-8094-fc3c7f4ed9d4,2025-07-03,Fuel System Repair,3156.0,Shock Absorbers,Warren-Stanton,Suzanne Pierce,2025-01-31
+42876fae-c446-471b-b3a2-d8d2d5ecc03a,2025-05-17,Clutch Replacement,4187.68,Radiator,Castro-Brown,Jeffrey Richardson,2025-07-04
+b8927e60-50da-420d-a287-0dc202141673,2025-03-05,Engine Repair,490.09,Timing Belt,Ward Inc,Stuart King,2025-05-18
+b18b43a8-8990-43fc-9ddb-5a04671e562d,2025-03-26,Fuel System Repair,3127.57,Alternator,Steele Ltd,Dennis Graham,2025-02-04
+a09d8ffb-8d65-4217-b66e-34b04a69c5a3,2025-02-06,Engine Repair,2667.99,Shock Absorbers,"Nguyen, Garcia and Valdez",Emily Brown,2025-05-05
+895c1960-51e9-48f4-a951-79fb9ad0cde8,2025-01-22,AC Repair,1813.99,Timing Belt,Carter Inc,Donald Cummings,2025-01-30
+485057f5-d418-45d1-a037-4f3d1547d0d9,2025-02-02,Brake Service,3065.99,Shock Absorbers,"Grant, Wilson and Jones",Donald Casey,2025-03-08
+f5870889-d73c-4236-893e-101654d903e3,2025-06-19,Fuel System Repair,4478.68,Alternator,Campbell LLC,Hannah Green,2025-01-06
+d91f76dc-8360-4856-9bc6-d3bf8edb8f43,2025-03-03,Suspension Repair,498.64,Timing Belt,Pittman-Turner,Melissa Rivera,2025-03-31
+c5af7011-7479-41ae-b151-9f78afc2e67b,2025-05-15,Battery Replacement,1635.81,Brake Pads,Anderson LLC,Jonathan Rodriguez,2025-05-19
+ef7c36bc-7b40-4767-9b8f-4066d06f466b,2025-02-17,Brake Service,4713.0,Brake Pads,Griffin-Taylor,Ronald Ashley,2025-03-26
+9a026e58-67d3-42d6-9bf0-735a50682b5e,2025-01-06,Transmission Repair,1557.68,Brake Pads,Murillo LLC,Madison Rodriguez,2025-01-11
+74971939-2da5-427d-8ec3-7f266bf68692,2025-05-03,AC Repair,1973.52,Radiator,Butler LLC,Jerry Avila,2025-05-29
+8d381a5d-a7ac-4f41-8fcc-6dc78dc31c68,2025-02-06,Fuel System Repair,4726.08,Alternator,Green Group,David Williams,2025-06-04
+7111da4d-b137-4d35-823b-001d0e9315d1,2025-06-21,Battery Replacement,813.52,Timing Belt,Sherman-Harris,Mary White,2025-01-21
+f8639fea-1939-4c51-b218-149f358d1ccb,2025-05-12,Transmission Repair,4909.67,Brake Pads,Robertson-French,Taylor Lane,2025-06-10
+cba28a4a-b22d-4618-a390-b65384b9c7d9,2025-01-11,Tire Replacement,887.37,Alternator,Vasquez LLC,Mr. Henry Myers,2025-07-08
+6bcf9e96-7575-414a-8b00-888dc575e83a,2025-02-27,AC Repair,153.41,Exhaust System,Jordan Inc,Ashlee Robinson,2025-05-27
+b058ddcf-8b8a-481a-82f9-bda1d83a932e,2025-06-15,Tire Replacement,2753.81,Timing Belt,"Sanchez, Hancock and Dalton",Cheryl Baker,2025-05-09
+e7ef3bb9-bd17-4298-874a-7885d4084148,2025-03-15,AC Repair,4943.96,Brake Pads,"Smith, Mcgrath and Donovan",Michael Johnson,2025-05-05
+aeef055b-356b-4b8d-bf40-30d9f88d0fb3,2025-04-09,Engine Repair,4698.35,Brake Pads,"Tate, Hess and Cuevas",Tina Sullivan,2025-04-05
+4fa2c610-c3f9-41b2-9e8c-caaa609bac7b,2025-05-06,Clutch Replacement,836.76,Timing Belt,"Gay, Nielsen and Morales",Steven Wheeler,2025-02-27
+dddb6b85-bf03-44da-9f47-f932f43a5b70,2025-06-18,Transmission Repair,1312.62,Exhaust System,Horton Group,Jamie Greene,2025-06-24
+ca7c54b7-147a-4789-aca6-5ba0ac02b889,2025-03-12,Transmission Repair,4220.87,Brake Pads,"Perez, Jacobson and Wright",Jennifer Lopez,2025-06-04
+d786b321-f788-4310-8506-f4d97b094669,2025-03-28,Engine Repair,2373.78,Brake Pads,"Tyler, Parker and Sullivan",Brandi Howard,2025-06-09
+51ce4ec3-7fe6-4e50-8786-1aa81996546c,2025-05-26,Tire Replacement,3793.86,Radiator,"Frey, Tucker and Smith",Gregory Alexander,2025-03-03
+3db77c44-7625-473f-9dbb-c6cefd31981d,2025-05-16,Tire Replacement,1680.77,Alternator,Ramirez PLC,Thomas Mckenzie,2025-02-13
+98904e14-56de-4b19-b606-fe87b0c31a70,2025-04-06,Fuel System Repair,2392.96,Exhaust System,Jones-Thompson,Matthew Curtis,2025-06-27
+1390bf64-c58c-4643-9d5d-f7f7749bf52d,2025-04-15,AC Repair,2138.14,Timing Belt,Santiago-Jenkins,Michael David,2025-04-15
+c78cef1c-8d26-46c0-aa25-b2b4f3f89d79,2025-01-06,Engine Repair,723.56,Timing Belt,"Gonzalez, Sampson and Mitchell",Lynn Rangel,2025-01-30
+03fe0f83-9bf6-4d21-95ae-49f578cc499e,2025-02-25,AC Repair,2791.87,Shock Absorbers,Dominguez Ltd,Carl Williams,2025-05-07
+749ef4d5-b3e6-44b9-884d-a64209d7ab2d,2025-01-03,Battery Replacement,2790.26,Exhaust System,Mann-Miller,Thomas Trevino,2025-02-05
+27b49fb9-1bbe-4271-a36f-7920dfa6da36,2025-05-25,Brake Service,521.64,Shock Absorbers,Johnson and Sons,Larry Smith,2025-07-03
+6e7a06fa-a5b1-4e42-89d4-eebd6819b653,2025-01-09,Suspension Repair,4768.02,Alternator,"Lewis, Stafford and Hickman",Rachel Brown,2025-03-11
+c8319c1f-bda8-4aef-bfe5-4171a9f6847b,2025-05-12,Battery Replacement,2573.66,Shock Absorbers,"Fry, Smith and Weaver",Elizabeth Wilcox,2025-03-13
+76eea6fb-71ed-42c7-9520-716d0180296a,2025-01-11,Suspension Repair,2162.84,Timing Belt,"Pham, Stewart and Bailey",Jason Richardson,2025-05-01
+ddddf64c-066c-4a00-8872-2fa0c6fd6ce4,2025-04-08,Fuel System Repair,1478.77,Exhaust System,Cobb-Holt,Sarah Kennedy,2025-05-14
+926503e0-0c75-4527-89a6-e0b69d228b1e,2025-01-10,Engine Repair,2912.39,Timing Belt,"Diaz, Stark and Campbell",Harry Ellis,2025-07-08
+91585897-1787-4aeb-a5de-4c1ef9eed780,2025-05-18,Clutch Replacement,1323.9,Radiator,Levy PLC,Robert Anderson,2025-05-29
+b1694e8a-4498-400e-aabf-5c9798fb6f41,2025-04-17,Engine Repair,3942.98,Brake Pads,Spencer-Rios,Stephanie Summers,2025-05-28
+0c5e41ab-554d-4a6a-a123-ea7477d6474f,2025-04-17,Brake Service,4506.78,Exhaust System,Odom-Thompson,Pamela Hayes,2025-01-16
+c307691d-5922-4b6e-a4ec-298c5ffda5dd,2025-02-19,Clutch Replacement,1272.08,Alternator,Russell-Rowe,Gary Vang,2025-02-21
+6347504d-69e9-47af-b9e1-3a6f7ad8932f,2025-04-11,Transmission Repair,3306.12,Brake Pads,"Anderson, Jackson and Bass",Kevin Jackson,2025-05-26
+381634d9-5e79-4608-b9b9-9f6ee7cfc7ca,2025-02-17,Suspension Repair,3962.44,Exhaust System,Allen PLC,Dawn Strickland,2025-05-22
+a55c0772-3739-42ee-82a6-7c2c11413747,2025-02-04,AC Repair,1579.99,Shock Absorbers,Morgan-Collins,Jeremy Kennedy,2025-01-31
+9c156b7f-efd2-49fb-b237-47ccd2b1d934,2025-04-20,Fuel System Repair,1734.39,Shock Absorbers,"Gregory, Garcia and Vargas",Jeffrey Little,2025-01-15
+35ad79a9-1181-4493-91a2-ef52f6b325b9,2025-04-20,Transmission Repair,178.37,Radiator,Hurst and Sons,Katherine Kennedy,2025-02-04
+5a5918aa-257c-4680-a945-d9bf67286b5b,2025-01-25,Clutch Replacement,4301.97,Alternator,"Lee, Craig and Hansen",Mike Wilkins,2025-06-21
+f4bc58b3-b8b2-406a-89ce-66f27b1828ef,2025-04-14,Brake Service,1265.78,Shock Absorbers,Stone Group,Jeremy Larson,2025-04-01
+e354cab4-0d9c-4536-b847-6c8062f71e15,2025-03-16,Brake Service,3674.98,Radiator,Walker LLC,Sandra Torres,2025-02-20
+dd9b22ad-f835-4ee3-9d53-6981885e48c9,2025-02-10,Clutch Replacement,790.11,Shock Absorbers,"Burns, Collins and Schaefer",Kyle Peterson,2025-05-06
+41fce93a-df5a-4729-a963-cb197538825d,2025-05-21,Brake Service,3180.31,Shock Absorbers,Flowers PLC,Matthew Nunez,2025-04-26
+c27d8d58-3f18-48c8-9c06-1aa499fa98e4,2025-05-25,Transmission Repair,663.72,Shock Absorbers,Torres PLC,Justin Barker,2025-05-17
+246ecd43-bd7c-48a4-8f54-38b9cc1f750a,2025-01-09,Suspension Repair,456.86,Timing Belt,"Hartman, Cooper and Young",Alicia Arnold,2025-05-15
+7802032f-2753-42b7-a340-0b295ce6721c,2025-05-17,Battery Replacement,3670.82,Brake Pads,Cisneros-Hill,Kristy Gonzalez,2025-05-18
+243c1ff2-6999-44e2-abdc-c0ad2d76e6de,2025-05-19,Engine Repair,289.34,Exhaust System,Combs-Huang,Tammy Wright,2025-03-22
+981117e2-be16-4c7a-8c5b-da9c5414ed64,2025-04-09,AC Repair,4772.61,Radiator,Flores and Sons,Joseph Moreno,2025-06-08
+8848a345-eaf2-487d-902f-cf29ec74cc41,2025-06-07,AC Repair,2931.15,Shock Absorbers,Parsons-Nguyen,Rhonda Lopez,2025-05-31
+b142a5db-2cd4-48f9-85c1-18ef7dee20d9,2025-01-26,Suspension Repair,309.1,Shock Absorbers,"Liu, Parker and Adams",Timothy Haynes,2025-03-08
+0011eaee-26e8-4351-b453-835671e3cfd1,2025-07-09,Transmission Repair,235.68,Exhaust System,"Wood, Sanchez and Reed",Caroline Montes,2025-04-03
+53586c55-70d1-4fb9-a6a8-43dd7efb7553,2025-03-24,Clutch Replacement,3801.67,Brake Pads,Tucker LLC,Tony Spencer,2025-06-22
+1b7f8a0c-86dd-40ed-9267-0ef4171179e1,2025-03-20,Battery Replacement,4934.46,Alternator,"Young, Boyer and Nguyen",Marissa Johnson,2025-04-03
+6b520ed4-bc7a-49d6-9dfe-8ccbc323fcc9,2025-03-26,Brake Service,3189.72,Brake Pads,"Moran, Hansen and Ryan",Debra Vazquez,2025-02-22
+8c173456-2e96-45f7-ac26-aa413fb2d892,2025-02-04,Fuel System Repair,4277.25,Exhaust System,"Christensen, Pena and Wilson",Andrea Kent,2025-02-26
+132c03f4-6511-4604-8756-6625cc3b6915,2025-01-31,AC Repair,3840.12,Brake Pads,Gonzalez-Freeman,Maria Phillips,2025-05-02
+e3ef356a-df65-4b54-b214-77fe2e7ab95c,2025-03-27,AC Repair,4220.67,Alternator,"Thomas, Ramirez and Roberts",John Ramos,2025-05-04
+d0957ac5-98f4-4848-b5b2-8d4f4805b22d,2025-01-16,Battery Replacement,394.8,Shock Absorbers,King Group,Alexis Moreno,2025-04-17
+3f6687f9-3c9b-4818-a554-9c8f001e1af5,2025-05-09,Engine Repair,680.61,Shock Absorbers,Salazar LLC,Michael Henry,2025-01-09
+fd71f035-3335-4431-9a59-a9ac8ab56465,2025-02-26,Transmission Repair,4643.47,Brake Pads,"Dean, Robles and Smith",Jorge Grant,2025-03-05
+9a843cbd-aec9-4774-b721-3070e9dec651,2025-06-07,Brake Service,1367.2,Alternator,Wallace PLC,Mr. Sean Friedman DVM,2025-05-09
+ce48d3a7-e013-41fc-9a2e-77151b56bf0f,2025-01-24,Clutch Replacement,3277.64,Radiator,Nolan-Cummings,Mark Smith,2025-06-04
+8be72452-2ef2-46db-be5e-b3d0867fec1f,2025-01-16,Brake Service,4757.66,Shock Absorbers,Novak-Hester,Mark Gonzalez,2025-02-16
+29a174c5-7600-47b4-9eaa-603e33e286ea,2025-02-25,Clutch Replacement,4911.09,Brake Pads,Humphrey-Vargas,Tara Pena DDS,2025-07-02
+01f0dae4-f653-4326-a526-9d5a224fd303,2025-01-08,Transmission Repair,2060.64,Alternator,Lee-Randall,Elizabeth Chandler,2025-03-23
+2b5549ee-40b2-4e48-9f90-4e575d844879,2025-03-24,Battery Replacement,1297.5,Exhaust System,Lloyd and Sons,David Jackson,2025-04-23
+666fda8a-36cf-45e1-8aa1-06c0d0a52d92,2025-01-26,AC Repair,2655.94,Brake Pads,Patel Group,Shannon Hunter,2025-07-06
+2469da93-c01e-4363-a355-5918d6ed21b6,2025-03-12,Clutch Replacement,2481.23,Timing Belt,Hahn and Sons,Micheal Johnson,2025-03-25
+ff74b0bc-ad28-48de-a79b-97be96fb40a3,2025-05-30,Brake Service,2560.96,Radiator,White-Foster,Allison Harmon,2025-03-20
+17471e00-ab4c-4b25-8c5f-d3884ff553e1,2025-06-24,Engine Repair,4082.99,Brake Pads,"Reeves, Reed and Rodriguez",Gerald Peters,2025-01-31
+43c41888-39f4-481f-bbfb-848c83b74d5a,2025-05-24,Tire Replacement,4419.05,Shock Absorbers,Duran-Huang,David Garcia,2025-01-22
+433727f0-eed3-4a76-bb0c-01047a8401a3,2025-01-06,Brake Service,1602.42,Shock Absorbers,"Wagner, Sanchez and Young",Kathleen Caldwell,2025-02-19
+ef2e5ccb-93c1-449c-aa0a-a4f69ffd1d9f,2025-03-06,Clutch Replacement,658.54,Shock Absorbers,"Evans, Smith and Ewing",Jennifer Gordon,2025-01-01
+63220713-df1c-4293-b8de-3c182b54c34d,2025-06-04,Clutch Replacement,209.42,Brake Pads,Evans Ltd,Michael Thornton,2025-06-07
+cc689adc-67a0-40c8-a367-b895ba86ec83,2025-06-22,AC Repair,1131.77,Brake Pads,Hanna-Mccarty,Julie Brown,2025-05-18
+9b7e5758-8504-4c96-9b96-199b3c1105a2,2025-06-13,Fuel System Repair,3877.39,Alternator,Esparza and Sons,Jennifer Walker,2025-04-28
+df0bd82b-3fa5-4dac-ab5f-dbcbb39d950d,2025-03-08,Brake Service,3605.42,Exhaust System,Brock-Long,Timothy Lester,2025-07-10
+e782d03d-3956-429d-b765-51e55bc92fdb,2025-04-06,Clutch Replacement,2668.88,Alternator,"Oconnor, Harper and Clark",Mr. Austin Bradley DVM,2025-01-22
+df42525a-5ba9-4377-8457-5bf5bf84a9d0,2025-05-25,Transmission Repair,1892.82,Brake Pads,Turner Inc,Jimmy Prince,2025-03-26
+4d55778e-3e64-40f1-9532-91176b6dc76a,2025-03-24,AC Repair,984.71,Brake Pads,Garcia-Martin,Brandy Ortiz,2025-03-19
+ed72b24f-33c3-40e2-b517-077806499d35,2025-05-21,Tire Replacement,1012.07,Shock Absorbers,Holloway Group,Erik Michael,2025-04-02
+c4748b0b-3363-44c6-859c-d5b0bcfe3fed,2025-04-05,Clutch Replacement,1567.87,Brake Pads,"Murphy, Medina and Frey",Dawn Davis,2025-01-06
+eec01289-d4c2-46c1-aefd-563e39c99c72,2025-02-15,Battery Replacement,2370.08,Alternator,Carter-Miller,Jacqueline Kent,2025-03-12
+c4503210-98f1-4e51-90a7-99b15c9eec9a,2025-06-25,Fuel System Repair,2619.88,Alternator,"Herrera, Bailey and Kelly",Ronald Weaver,2025-01-20
+e568e43c-3af1-4440-9122-ee66f03a44a1,2025-05-19,Transmission Repair,3261.99,Radiator,Mcdowell and Sons,Jonathan Lynch,2025-06-04
+ca553c39-0435-438b-9015-188dc94c42d0,2025-07-04,Engine Repair,1293.73,Exhaust System,Davis Group,Kelly Thompson,2025-05-05
+2f4dad60-1c30-44b3-bfda-7e51140c721b,2025-02-14,Tire Replacement,2106.2,Timing Belt,Turner LLC,Dr. Derrick Jefferson,2025-04-02
+b3c056c9-93c8-483d-b1d4-bedd5747b345,2025-05-19,Engine Repair,179.57,Exhaust System,"Byrd, Smith and Gibson",Crystal Atkinson,2025-02-17
+da3e4ef0-d3f3-468d-b602-9cef5176d279,2025-05-07,AC Repair,4061.02,Shock Absorbers,Jennings-Gibson,David Collier,2025-06-03
+5c5b4eff-c447-44b5-b695-e784a515f57f,2025-03-31,Clutch Replacement,4966.01,Exhaust System,Richardson-Garrison,Jose Chaney,2025-02-25
+34baea66-1f4d-4b68-932a-da1301689756,2025-06-07,Transmission Repair,3167.88,Alternator,Stewart and Sons,Dustin Mendoza,2025-02-07
+81119111-5997-46f2-81e7-7602fc856723,2025-06-14,Fuel System Repair,2098.24,Shock Absorbers,Boyer-Sullivan,Kevin Pruitt,2025-04-20
+f2f1586d-6e1c-4671-9a9a-de0f69cf70cd,2025-05-16,Clutch Replacement,3145.86,Alternator,Hester-Johnson,Willie Herrera,2025-06-10
+4997370b-0c03-4b8a-a6db-a4a31d5db2a6,2025-05-21,Transmission Repair,3512.25,Exhaust System,"Pearson, Smith and Price",Lisa Patel,2025-01-25
+36dbd371-8c3e-45e1-8d01-c83850f7093f,2025-04-21,AC Repair,1240.43,Radiator,"Garrett, Hawkins and Watson",Scott Martin MD,2025-04-25
+36b09cfd-8980-4889-9e53-e33e0fca8de4,2025-05-13,Brake Service,1486.38,Radiator,"Mccullough, Gutierrez and Arroyo",William Boyer,2025-05-31
+000ac184-b65e-42fd-a0a6-31f135fbf4d3,2025-06-26,Transmission Repair,1496.82,Shock Absorbers,Mcconnell-Colon,Eric Acevedo,2025-01-24
+7bcb2b10-86ce-4cc8-9c15-03d729e05925,2025-02-12,Brake Service,431.38,Shock Absorbers,Hayes Inc,Kathryn Bell,2025-04-09
+716f58ee-e061-4162-a59f-02b17b2b89ab,2025-07-09,Clutch Replacement,3355.64,Alternator,"Arnold, Nelson and Kramer",Danielle Walls,2025-05-28
+a97a75e0-17df-4d1a-b811-ab1155d6fd05,2025-02-27,Engine Repair,3134.4,Radiator,"Wright, Gray and Reyes",Kimberly Rivera,2025-06-13
+d6e21a0b-8709-4d0c-b516-994cd97f0bd5,2025-02-09,Battery Replacement,1190.73,Alternator,"Simmons, Baker and Thornton",Sherri Thompson,2025-05-11
+35187b8c-ffca-4610-a2c9-50c90ee4e515,2025-03-17,Engine Repair,203.16,Exhaust System,Johnson-Harris,Jonathan Little,2025-05-18
+af35fb42-afbc-4ade-ab91-0df585297e14,2025-02-18,Engine Repair,1344.1,Shock Absorbers,Lam-Clark,Lauren Cooper,2025-06-16
+fbf936e7-a1da-4cea-9928-e832f685213c,2025-03-28,Transmission Repair,4343.74,Radiator,"Ryan, Gordon and Butler",John Ho,2025-05-14
+72397838-b407-41ab-835a-98ab7d543828,2025-03-30,Battery Replacement,4173.72,Radiator,Brown LLC,Johnny Middleton,2025-02-27
+7a110759-a8ee-4384-8686-bf384a849add,2025-01-16,Brake Service,926.07,Alternator,Obrien-Bennett,Brendan Smith,2025-06-17
+30a182a5-4324-4c92-bd66-9c9820c5dd3c,2025-05-08,Tire Replacement,1600.69,Timing Belt,"Oneill, Strickland and Johnson",Edwin Rodriguez,2025-05-30
+66f08a36-c8bf-4019-9fe9-be36407cc591,2025-03-08,Tire Replacement,3159.18,Radiator,Nelson-Williams,Raymond Parker,2025-01-20
+33f38fd5-e3a3-4f3f-b32f-a943bc6c449c,2025-02-23,Transmission Repair,1152.11,Timing Belt,"Coleman, Myers and Rodriguez",Jane Rojas,2025-01-02
+a692a9b6-e025-46ad-8154-6c40e6099dd3,2025-05-22,Brake Service,4867.1,Radiator,"Johnson, Mcbride and Robinson",Kyle Hoover,2025-01-01
+29154426-035e-42dd-813c-b24a8159bcd5,2025-02-23,Suspension Repair,3455.07,Exhaust System,Munoz-Goodwin,Jason Perez DVM,2025-06-29
+2a710e48-5bdf-49f7-a111-47075f05d1fe,2025-06-30,Suspension Repair,3798.72,Exhaust System,Riley PLC,Pamela Fox,2025-06-01
+4c9d32e7-3686-4f55-b06f-daa59c667f08,2025-03-03,Brake Service,994.38,Shock Absorbers,"Ewing, York and Randolph",Calvin Hammond,2025-06-21
+dcbf1aa8-91f9-4f59-bb12-ce9991d22549,2025-04-13,Tire Replacement,1873.9,Shock Absorbers,Calderon-Jones,Andrea Costa,2025-05-28
+fb3815cf-801b-4236-bc1d-3d1b07ed012c,2025-05-24,Fuel System Repair,3878.35,Timing Belt,Johnson LLC,Crystal Aguilar,2025-04-03
+0f96e766-0fe9-4c76-aa36-b2b5387a8672,2025-06-12,Tire Replacement,3944.63,Brake Pads,"Osborne, Edwards and Wood",Daniel Lewis,2025-06-28
+c7fea3d7-5f43-4499-ba50-2f33bcbc6f85,2025-01-17,Battery Replacement,1798.53,Radiator,"Sims, Hawkins and Gutierrez",Karina Parks,2025-03-01
+df21abc6-f7a8-42ff-8eff-8b5b748321f9,2025-03-06,Battery Replacement,2315.22,Exhaust System,"Esparza, Perkins and Harris",David White,2025-06-20
+c456553e-eb6b-42e4-be57-13aad8e896a0,2025-03-06,Clutch Replacement,216.67,Timing Belt,"Wagner, Flores and Rhodes",Jorge Schultz,2025-02-08
+e4ecaa57-bf03-4de7-8722-2424aefecc18,2025-06-18,Fuel System Repair,1259.63,Exhaust System,Ryan-Parker,Hector Diaz,2025-03-28
+a4308421-36e1-417c-a143-fb8524b4010e,2025-04-09,Suspension Repair,4595.25,Timing Belt,Holmes LLC,Andre Simmons,2025-04-02
+5d36e4dc-4ffd-48d5-b733-10e5b7183f27,2025-06-24,Suspension Repair,3581.34,Exhaust System,Smith Inc,Joshua Green,2025-05-14
+7b1d1044-1a2e-4b20-8676-c93db9f195a5,2025-05-03,Engine Repair,4485.48,Brake Pads,"Romero, Love and Chapman",Melanie Brock,2025-01-01
+bed505cc-7d44-4018-bf5a-5be1ad691bbc,2025-06-05,Suspension Repair,4062.43,Timing Belt,Gomez-Green,Claudia Long,2025-01-12
+d1c561b3-2287-4e74-90ec-0b4cd92b64e7,2025-03-07,Suspension Repair,537.18,Brake Pads,Greer Ltd,Luke Hawkins,2025-01-26
+b53cfded-9adc-455e-acac-145c38d01a4c,2025-03-02,Transmission Repair,159.64,Shock Absorbers,"Ramos, Peters and Castillo",Charles Rodriguez,2025-05-21
+52cffef9-b803-4734-9ce3-879ac654e201,2025-02-17,Brake Service,3325.42,Timing Belt,Barker LLC,Jennifer Brown,2025-03-24
+1628cbb9-dce1-49a0-9fea-e94bdf21a51a,2025-04-28,Tire Replacement,2843.18,Exhaust System,Nash Inc,Ryan Villegas,2025-05-15
+e12d8787-14cf-464f-89a5-41433a3d3de2,2025-03-29,Brake Service,2328.25,Timing Belt,Boyd Ltd,Marcus Jones,2025-05-18
+bcf275c1-fc82-4bd8-8897-4a1fcb9beb48,2025-04-27,Battery Replacement,3585.47,Shock Absorbers,Garcia Inc,Joshua Gutierrez,2025-01-07
+b917cedb-fbce-475c-883d-085e4a8dfffe,2025-05-26,Tire Replacement,2252.93,Shock Absorbers,Rodriguez and Sons,Victor Hubbard,2025-03-05
+2178a76d-1cfa-4bfb-9a38-bd5977179c0b,2025-06-29,AC Repair,3029.5,Brake Pads,"White, Pearson and French",Jennifer Hurley,2025-01-05
+6cce0201-0fcf-4fcd-842f-ff9cacf1f1c0,2025-02-01,AC Repair,2856.76,Brake Pads,Smith LLC,Tammie Brown,2025-02-05
+197af58b-0365-49b9-a237-1151c4f57ed8,2025-02-26,Transmission Repair,4888.1,Shock Absorbers,Carter Inc,Melissa Davidson,2025-06-20
+0af15995-9339-4c2b-b679-71b4a1f6734e,2025-07-05,Clutch Replacement,106.23,Alternator,"Davidson, Tucker and Clark",Karl Roberts,2025-02-22
+58173984-535f-4206-97d6-b9078c4184d6,2025-04-06,Tire Replacement,1953.57,Radiator,"Hickman, Lewis and Martin",Morgan Nelson,2025-04-02
+12864536-08f2-4e25-a2f3-73b5cd653cf0,2025-04-21,Engine Repair,4554.2,Alternator,"Torres, Cox and Garcia",Daniel Schneider,2025-01-17
+f3c32de5-47b8-4a9c-962e-ad484fe2b825,2025-03-20,Fuel System Repair,4790.47,Alternator,Cox-Hess,Taylor Foley,2025-01-31
+6ca993a4-39ab-4883-ae58-f49432622a6c,2025-04-26,Tire Replacement,611.49,Brake Pads,"Woods, Frederick and Thomas",Tammy Gill,2025-02-03
+d96c92ee-81ae-4402-ae87-a3526aa3e5fb,2025-04-20,Brake Service,4814.83,Radiator,Singleton-Walker,Victor Herring,2025-04-30
+16037262-11b6-4e22-948d-7254f1ca0ed1,2025-03-27,Suspension Repair,257.45,Radiator,"Clark, Schneider and Williams",Donald Lucero,2025-06-30
+7d37dd12-d3b1-4828-8d0e-20e6d8e26f24,2025-04-24,Battery Replacement,428.01,Brake Pads,"Freeman, Kidd and Carter",Timothy Merritt,2025-06-05
+507def87-c802-40b0-970b-d8a4f3b02d36,2025-03-16,Brake Service,964.74,Radiator,"Beck, Williams and Davis",Sara Butler,2025-06-13
+61b4c65b-a2af-408c-ae5b-d14d47dc242f,2025-06-14,Transmission Repair,3431.56,Shock Absorbers,Rice LLC,Margaret Henderson,2025-01-13
+72c2ef37-5258-44c4-b7fb-2068c4c88f91,2025-03-13,Transmission Repair,3565.48,Exhaust System,Garcia-Alexander,Johnathan Harris,2025-05-28
+e00c83ef-a74c-4f36-979c-2e557ce8d8e7,2025-03-08,AC Repair,3461.28,Radiator,Brown and Sons,Julie Robinson,2025-06-01
+abe2f7d8-11e5-4c6b-b4e8-3d2b3a1cfb8e,2025-03-12,Brake Service,849.19,Brake Pads,Adkins Ltd,Lance Holt,2025-01-16
+e688547b-2e55-4ec0-901e-150740369ffd,2025-04-09,Fuel System Repair,4619.67,Shock Absorbers,Herrera Ltd,Jennifer Odom,2025-07-05
+99cf491e-3c6c-4b16-9c0e-66b24395654d,2025-03-26,Tire Replacement,2098.42,Exhaust System,"Mcconnell, Griffin and Buchanan",Brenda Fleming,2025-02-05
+24f62ea0-9945-4816-84a1-7fa79b01a791,2025-05-13,Battery Replacement,1578.01,Exhaust System,Freeman-Griffith,Jessica Miller,2025-05-13
+6bf09010-ae8f-40aa-a1f2-a884344b82de,2025-02-23,Battery Replacement,1961.27,Shock Absorbers,Burns and Sons,Matthew Rogers,2025-02-23
+0847e237-11e1-4933-8cd4-d7901ef322f4,2025-04-21,Suspension Repair,4512.47,Timing Belt,Terry-Robbins,Chad Guerrero,2025-05-15
+c937a50a-d505-4a1b-a9d3-9ab1351de99e,2025-05-06,Engine Repair,226.7,Timing Belt,"Nguyen, Mcdonald and Bell",Ethan Glass,2025-03-10
+b2a3ec0d-aa92-452e-811c-d733e2940193,2025-03-18,Clutch Replacement,3388.24,Timing Belt,Collins-Sheppard,Rachel Robinson,2025-02-07
+f0b96527-f23b-42e9-97fe-c31b097a5caf,2025-03-05,Engine Repair,496.04,Timing Belt,Drake Inc,Sheila Richmond,2025-05-23
+ebb9c6f2-2290-4603-b172-9b886dce9af4,2025-03-16,Engine Repair,4598.84,Alternator,"Robinson, Johnson and Dorsey",Todd Hernandez,2025-05-09
+eeeb4df7-6e95-4cc0-9805-18414e461341,2025-04-15,Engine Repair,4578.91,Radiator,Diaz-Coleman,Michael Fuentes,2025-06-03
+62ec92b4-eb0b-4e8e-98c5-609d53e4216b,2025-04-03,Brake Service,4784.31,Alternator,Morrison and Sons,Cheryl Marshall,2025-06-16
+a350107a-fa78-41c7-8468-03f8005c94cc,2025-04-10,Suspension Repair,3563.28,Alternator,Winters Inc,Monica Price,2025-03-25
+e939003a-bb09-4ea9-af89-fe05e1db8674,2025-03-23,Brake Service,2302.52,Alternator,"Glover, Martinez and Wood",Kelly Stanley,2025-01-20
+571774e3-73cf-46bd-b389-3f458540373d,2025-07-04,Tire Replacement,2018.96,Brake Pads,Stein and Sons,Theresa Anderson,2025-01-18
+e8ad3367-165c-4479-891d-c32bf2f17413,2025-06-16,Tire Replacement,509.48,Timing Belt,Parker-Anderson,Megan Lawrence,2025-02-19
+28afa13f-dc07-448a-a31d-939074487d37,2025-04-20,Engine Repair,4763.39,Exhaust System,Pitts PLC,Angela Fuentes,2025-02-08
+8fdf3d11-ff29-491d-867c-0e2fea2b4181,2025-01-31,Fuel System Repair,354.33,Shock Absorbers,Nguyen-Huerta,Taylor Holland,2025-05-06
+b1b73782-15aa-4b57-8ab7-e62845f016b5,2025-03-13,Clutch Replacement,3907.02,Brake Pads,Meyer-Fletcher,Lisa Compton PhD,2025-05-26
+00df2fd8-8206-48fe-89f3-5650773b1051,2025-01-04,Engine Repair,2386.12,Shock Absorbers,Olson Group,Christopher Dunn,2025-07-09
+b1ef7623-9278-4f1f-b546-d7b923ac43bd,2025-05-13,Clutch Replacement,2388.56,Alternator,Murphy Ltd,Sandra Ortega,2025-01-18
+ee8895f7-8fca-42e3-8b76-ac325ad84e30,2025-05-19,Transmission Repair,2693.74,Timing Belt,"Carter, Webb and Smith",Steven Smith,2025-06-10
+9c893500-2384-4001-b637-589bdd9887d8,2025-03-24,Fuel System Repair,2218.29,Exhaust System,"Moore, Wallace and Gray",Adam Massey,2025-04-20
+0e631cc3-23d0-41a9-b27a-375f2b27896e,2025-02-09,Suspension Repair,4548.88,Radiator,Walter Ltd,Laura Garcia,2025-05-07
+dc12bf19-ccbf-44b5-a502-7bc5ab5378f0,2025-02-18,Suspension Repair,1397.95,Exhaust System,"Hernandez, White and Pierce",Amber Joseph,2025-01-19
+74a2383a-b261-46e5-8ae8-5a0d467972eb,2025-01-10,Brake Service,857.31,Timing Belt,White-Howard,Mary Spence,2025-06-19
+bfedd9f1-2e04-49fa-9b8f-a2d8ba76352c,2025-06-12,Suspension Repair,1484.16,Exhaust System,Perkins PLC,Scott Bell,2025-04-20
+b38d9989-53b3-458d-9077-e497f94ee73b,2025-03-14,Brake Service,2948.08,Exhaust System,"Ruiz, Stewart and Wallace",Dalton Williams,2025-04-03
+fa4b1a33-cd8c-46dc-b7ad-a0e1f4aa786c,2025-06-23,Battery Replacement,617.29,Alternator,Taylor PLC,Paul Howard,2025-06-14
+45dc76c1-49de-44b9-b90d-9e227825d37a,2025-04-12,AC Repair,2953.82,Radiator,Gonzalez Ltd,Nicole Mccann,2025-01-20
+ef18d11b-35ec-40d0-89d7-a56ae4486b39,2025-04-12,Fuel System Repair,2417.15,Exhaust System,Nguyen-Williams,Anita Ramirez,2025-02-13
+f1a51849-c694-44b8-b3ad-ccc9bcd158d2,2025-03-13,Suspension Repair,2187.84,Alternator,"Hester, Miller and May",Kayla Rivera,2025-05-14
+b828a2a1-3658-44c5-a5be-ec7a7c7cbb1c,2025-01-23,Battery Replacement,3415.83,Exhaust System,Long Ltd,Mr. Joseph Spencer,2025-07-02
+30809828-511c-4402-ae41-d9d7edbdce97,2025-02-08,Fuel System Repair,4813.13,Shock Absorbers,"Hughes, Fields and Sanchez",Megan Anderson,2025-06-26
+22362bc0-324a-470e-89a2-6c584f85950e,2025-05-09,Brake Service,1470.23,Radiator,"Mcclure, Young and Montgomery",Ashley Robbins,2025-04-28
+c9d5660a-66d4-4d78-8f58-e5f5c3fee9a0,2025-05-06,Engine Repair,4532.03,Alternator,"Griffin, Stewart and Snyder",Michelle Turner,2025-06-02
+76fd8aa9-1f88-466d-bd8a-bc6fd18e6a9d,2025-01-31,Tire Replacement,4286.02,Alternator,Sutton PLC,Louis Elliott,2025-06-19
+983d118a-5b31-4f25-b327-1f8747f859fd,2025-02-19,AC Repair,1340.44,Shock Absorbers,"Bullock, Thomas and Martinez",Stephanie Adams,2025-05-18
+e8b012cd-b19a-4b07-a180-a941e7b5e2ff,2025-04-17,Transmission Repair,3465.71,Timing Belt,Rhodes Group,William Rodriguez,2025-07-06
+55168edb-56f5-4cf4-9f3c-9cb31229568f,2025-03-01,Battery Replacement,2240.57,Alternator,Ross-Grant,Brianna Walker,2025-04-07
+6757586b-5b38-4df2-8dd3-195ccdb94590,2025-04-10,Tire Replacement,117.91,Exhaust System,Fleming-Holloway,Abigail Myers,2025-03-12
+86b79db2-36b1-4534-b254-7b4d7ec84956,2025-06-06,Clutch Replacement,4154.88,Alternator,Bradley PLC,Matthew Walker,2025-01-14
+31a3ae81-d59a-44a1-9b7f-55358653babf,2025-06-12,Tire Replacement,831.13,Alternator,Hawkins Ltd,David Clarke,2025-04-30
+05c8ec57-f1ad-4155-ab51-e8ffdc0bcbcb,2025-03-26,AC Repair,1949.03,Timing Belt,Lowe Inc,Catherine Gross,2025-04-02
+eb864150-0bed-4523-8ef0-a29fdee6990a,2025-02-16,Engine Repair,2384.02,Brake Pads,Hamilton Inc,Jesse Cardenas,2025-05-10
+2dd30d24-7ccb-44f7-a899-1c3abb4b1f82,2025-01-27,Suspension Repair,285.65,Timing Belt,Parker-Horne,Daniel Arnold,2025-05-15
+c42238f5-b7e6-4496-8ae8-9808078648ef,2025-06-09,Engine Repair,4123.89,Shock Absorbers,Stein Group,Hannah Frost,2025-03-07
+a59637fa-e93a-42d1-8034-7be6a91da387,2025-02-14,Brake Service,2772.5,Brake Pads,Williams Ltd,Angela Morgan,2025-06-08
+0dc016d6-b5af-4e8d-b9be-ee20ffe5d937,2025-03-21,Engine Repair,814.27,Brake Pads,Rivera Ltd,Ronald Frazier,2025-07-05
+002d6bf8-e878-4e99-b3b8-3cf48ad72050,2025-02-18,Tire Replacement,2317.22,Alternator,Lopez Inc,Nicholas Gallegos,2025-03-22
+c846c89f-04ee-4364-aac0-70877d541cb5,2025-01-23,Tire Replacement,2631.05,Shock Absorbers,"Lopez, Shaffer and Hill",Thomas Williamson,2025-01-18
+c26a7856-901a-42d8-8f43-3bbd2b50283b,2025-07-10,AC Repair,3053.62,Radiator,Rodriguez Group,Brandon Martin,2025-05-24
+02e745ec-1824-4d33-aaa4-e01a93c333bf,2025-01-18,Fuel System Repair,3129.83,Brake Pads,Giles Group,Jeffrey Jimenez,2025-02-20
+52b479d4-247c-4bdf-82a1-5791f4e2db2a,2025-01-26,AC Repair,2302.85,Radiator,"Martinez, Miller and Murray",Carolyn Chapman,2025-06-25
+40749d52-1dfb-4d1a-bff2-c1e73075dd4c,2025-06-09,Transmission Repair,389.41,Timing Belt,"Schultz, Wilson and Davis",Andrea Smith,2025-03-19
+1c672296-5177-462e-b88f-a44033e29a33,2025-05-29,Transmission Repair,1160.03,Alternator,"Bryan, Bennett and Molina",Christian Yates,2025-04-07
+585fe056-bebb-4c15-977b-eb2cd6aa08d8,2025-05-27,AC Repair,2290.32,Alternator,"Lester, Cruz and Rosario",Steven Stevenson,2025-03-27
+8204f831-7bfa-4faa-9682-e457e367dbf9,2025-05-14,Fuel System Repair,4502.73,Radiator,Rangel-Mason,David Tanner,2025-04-26
+8b2c0498-f76d-42a8-a8d9-b96017c4df6f,2025-01-10,AC Repair,3000.54,Brake Pads,Martinez Inc,Michael Sullivan,2025-04-20
+388482ef-bbdf-44f6-b4e0-754e31803d91,2025-04-09,AC Repair,2211.22,Brake Pads,Nelson-Long,Joshua Wagner,2025-02-07
+3b128f56-d220-44bb-ab07-852c2d2a9c72,2025-01-03,Battery Replacement,202.5,Alternator,"Allen, Hansen and Martin",Justin Lindsey,2025-05-14
+7e0a8d25-1b5a-4780-beef-74544ebba198,2025-07-04,Clutch Replacement,4613.38,Alternator,Williams Ltd,Madeline Hendricks,2025-01-18
+1704fde0-5274-4768-a25d-88d65446a7b1,2025-03-23,Clutch Replacement,819.31,Alternator,Bird-Brown,Michael Gibson,2025-06-26
+4b95aa23-9655-438a-bf85-7d3c3b497f45,2025-06-18,Battery Replacement,903.15,Radiator,"Mccann, Murphy and Ruiz",Jessica Wilson,2025-06-21
+29a8ecab-8f0c-4d55-b39b-788d58d031bd,2025-04-16,Suspension Repair,903.78,Alternator,Hunter LLC,Ruth Turner,2025-02-09
+49b32865-3ee6-4c3c-9a6c-6d568f688d5f,2025-03-18,Engine Repair,675.64,Alternator,"Horton, Cochran and Davis",Julie Wright,2025-05-11
+49728974-d306-4b07-816d-18f167f99e6c,2025-07-04,Clutch Replacement,874.83,Exhaust System,Hart-Lyons,Samantha Meyers,2025-04-09
+74d34a7d-6eb9-46e3-afe3-11175198cfee,2025-03-06,Engine Repair,594.58,Shock Absorbers,Smith LLC,Trevor Davis,2025-01-07
+a3d2f308-1f2d-49a2-bb24-307fe688f72f,2025-04-25,Transmission Repair,2392.19,Alternator,Cummings Ltd,Alexandra Williams,2025-02-21
+9860b212-1dae-48ef-9539-b33864e63ff0,2025-05-18,Transmission Repair,443.98,Exhaust System,Bryant and Sons,Jamie Gay,2025-05-11
+a424907c-5df8-44f2-b230-a1c16187f532,2025-03-14,AC Repair,600.64,Brake Pads,Wilson-Rodriguez,Nicolas Edwards,2025-01-19
+68232c10-5d6d-4bda-80ab-02996b7b2344,2025-02-12,Engine Repair,3741.27,Alternator,"Mahoney, Gonzalez and Brown",Heather Taylor,2025-03-07
+6e423c6b-8aec-4e4b-b743-9544a021ff31,2025-05-17,Transmission Repair,2237.57,Exhaust System,"Nicholson, Pineda and Dillon",Austin Sampson,2025-01-02
+b4393c6e-0b52-4b8b-9a63-8141f48716e9,2025-06-29,Battery Replacement,4082.09,Radiator,Boyer-Campbell,Jennifer Williams,2025-05-08
+b47cb906-087a-4f0e-b214-7e164f030a9d,2025-01-20,Engine Repair,2076.51,Exhaust System,Castro LLC,Matthew Mcclain,2025-07-07
+5c69dc09-455a-4ebc-b673-5bc8227191ea,2025-05-18,Brake Service,3906.59,Exhaust System,"Miller, Mcpherson and Baker",Ernest Rodriguez,2025-04-07
+11370300-6a74-4fb1-baad-9245f2e30484,2025-01-05,Engine Repair,4782.78,Shock Absorbers,Love-Armstrong,Cindy Thompson,2025-02-27
+eb982644-7330-453a-94d3-f32b66d5ff85,2025-05-07,Battery Replacement,2240.79,Exhaust System,Davis PLC,Donna Thomas,2025-05-14
+574d1813-d506-49eb-8a29-eef0acef69ef,2025-03-28,Fuel System Repair,1048.84,Brake Pads,Travis LLC,Kevin Bullock,2025-06-26
+f61110f6-2487-4ca1-a07d-b56a1ca8c06d,2025-04-19,Clutch Replacement,2736.76,Brake Pads,Tran-Young,Kevin Ramsey,2025-03-31
+4271f649-821d-4674-b644-64232c789d22,2025-05-25,Battery Replacement,3812.01,Shock Absorbers,Gonzalez PLC,Regina Jacobs,2025-06-21
+86d84b02-9271-4ec7-a541-4cc99b74932d,2025-05-18,Transmission Repair,197.64,Brake Pads,Hoffman-Perez,Daniel Brooks,2025-06-11
+eb238073-eb7c-4537-9cef-4813284b181c,2025-02-14,Fuel System Repair,4847.91,Timing Belt,"Pratt, Nichols and Scott",Cynthia Keller,2025-06-21
+4dfe1485-8541-4c59-866d-827767fb26fc,2025-04-09,Transmission Repair,4403.83,Radiator,Martin Ltd,Dr. Cheryl Newman MD,2025-01-31
+bab4e505-e7b8-4871-bb39-bd05cec9fd78,2025-04-24,Brake Service,2067.85,Brake Pads,Andrews-Bradford,Jennifer Lambert,2025-02-19
+d9e80e8d-6572-4e21-ac3e-483f3ec1ae55,2025-07-06,Tire Replacement,2053.8,Shock Absorbers,Jones-Munoz,Erin Juarez,2025-05-18
+ed66c40c-a22d-410d-a3c9-ffaffed9d7f0,2025-05-23,Brake Service,599.02,Timing Belt,Jones-Davis,Nicholas Ellis,2025-05-28
+a415b425-e319-4e87-ac80-7809df4ee397,2025-06-28,Brake Service,4914.09,Timing Belt,"Jensen, Brown and Miller",Amber Lewis,2025-07-09
+046242c1-e928-4318-879e-bf2674b68c1d,2025-06-11,Fuel System Repair,2620.25,Alternator,Kelley PLC,Laura Daniels,2025-04-19
+3e84ea51-e118-471e-839e-9cc6e75a6216,2025-07-03,Brake Service,3932.11,Alternator,Dickerson-Brooks,Trevor Sanchez,2025-04-11
+d07903e9-909f-4f2b-baa7-23909d476651,2025-02-05,Transmission Repair,970.05,Radiator,"Anderson, Young and Perry",Austin Smith,2025-01-06
+e0274553-5c16-43c7-81e7-bfc4cb763adf,2025-05-16,Battery Replacement,2784.35,Alternator,"Brown, Ellis and Hill",Jennifer Christensen,2025-04-09
+d50d105c-faa1-4b40-80b4-2a9efa471cf3,2025-05-07,Suspension Repair,2435.95,Exhaust System,"Phillips, Huff and Foster",John Smith,2025-04-06
+3df98666-63b7-45bd-a33c-4f061026cb67,2025-03-30,Transmission Repair,1958.58,Brake Pads,Carter-Jones,Joshua Anderson,2025-03-27
+bdf9d30e-202c-4911-a831-152d838536d9,2025-04-02,Engine Repair,4196.75,Shock Absorbers,"Steele, Fox and Clarke",David Trujillo,2025-02-25
+babad79c-3b59-49db-9795-563b0842506d,2025-05-03,Transmission Repair,3162.3,Shock Absorbers,"Jenkins, Hernandez and Trujillo",Jeffery Ali,2025-04-26
+05f5a139-12a2-4b10-8811-fa6d11b53ca4,2025-05-10,Battery Replacement,551.32,Alternator,"Johnson, Pearson and Trujillo",Lauren Roberts,2025-01-10
+ad27d857-b715-400b-b239-f42a9752a031,2025-05-28,Brake Service,4462.73,Brake Pads,Christensen Group,Margaret Mcguire,2025-04-23
+0cbd4ca4-7b66-44e9-aec8-8b1672720f94,2025-05-22,Engine Repair,1928.32,Brake Pads,Harrington Ltd,Jason Le,2025-04-20
+21275bf4-23b1-4209-b3d5-d50c11a13f35,2025-01-31,Fuel System Repair,1494.57,Brake Pads,Navarro Inc,Daniel Bowman,2025-03-22
+2d542260-60be-49f8-8341-d200895442df,2025-03-03,Fuel System Repair,2409.29,Exhaust System,Abbott-Haynes,Ashley Mendez,2025-03-18
+5b37bd25-1030-4768-a2ce-e73764ff1cd3,2025-06-06,Battery Replacement,4509.43,Shock Absorbers,"Campbell, Mueller and Parrish",Kim Mitchell,2025-06-13
+e8a7bb72-643b-4bb7-9f3b-402cbb25050a,2025-02-19,Transmission Repair,265.02,Radiator,Mendez-Bennett,Keith Fletcher,2025-03-14
+e7ec490c-1a47-42f9-ac16-43842d28afa8,2025-01-02,Fuel System Repair,2393.58,Timing Belt,Hudson Ltd,Jackie Beard,2025-03-31
+b4c7ba10-a53c-4b5c-9210-13db611d9fb2,2025-01-29,Engine Repair,4674.15,Brake Pads,Gonzales PLC,Lisa Morales,2025-04-24
+cd95363a-509f-44f3-9233-11de181e949f,2025-04-17,Suspension Repair,2873.49,Radiator,Rodriguez Inc,Gerald Miller,2025-05-12
+ce62e4af-5500-402c-9993-7ba4993379e0,2025-01-07,AC Repair,2321.93,Exhaust System,Bonilla Ltd,Brenda Davis,2025-02-17
+a34979fa-629c-4b5e-8d77-8393fba030c6,2025-03-01,Engine Repair,4522.36,Shock Absorbers,"Ramsey, Powell and Roberts",Jeffrey Mathis,2025-05-29
+33b5a139-2da9-4c66-89a3-2aabb95c7f64,2025-01-18,Battery Replacement,4592.88,Timing Belt,Watson-Mccormick,Jeremy Graham,2025-02-22
+4dec2c0c-d1eb-4e40-b1ac-911568a7bf24,2025-02-09,Brake Service,2585.53,Exhaust System,Reed and Sons,Robert Gonzalez,2025-05-10
+e8f45344-c7f0-4c8e-b17b-e313b8e7b665,2025-02-05,Brake Service,4324.52,Radiator,Baker-Gillespie,Jennifer Davis,2025-02-15
+6d7083f9-4dcc-4cdc-b1f5-5425b6d5707d,2025-05-04,AC Repair,938.85,Timing Belt,Jordan Inc,Kimberly Walker,2025-05-19
+3158c198-8284-48b2-ad97-61390ad63552,2025-01-02,Fuel System Repair,3658.62,Alternator,Schneider-Krause,Mark Daniels,2025-01-30
+0be73a19-8d50-4e87-8536-f433b62830d4,2025-01-14,AC Repair,1290.87,Timing Belt,"Stewart, Miller and Sims",Curtis Hobbs,2025-02-10
+814615a6-2919-405f-8d09-292463517a3c,2025-03-14,Brake Service,4381.46,Timing Belt,Mills Inc,Kelsey Garcia,2025-05-01
+b3b5996a-e454-4b84-a64c-8d97b8ab3584,2025-04-05,Tire Replacement,719.23,Radiator,Atkins-Martinez,John Riggs,2025-05-22
+b1450bb2-7c55-4479-9561-660cb4c69784,2025-07-04,Battery Replacement,788.72,Exhaust System,Bray-Hamilton,David Chavez,2025-06-03
+7a4d528c-b480-4d65-be9d-c72c542f4dff,2025-03-16,Transmission Repair,1445.7,Exhaust System,Rivera-Delgado,Marc Snyder,2025-02-20
+6160d7be-2908-4f96-b22d-abd47f85884c,2025-05-16,Suspension Repair,520.21,Shock Absorbers,Browning LLC,Darren Moore MD,2025-05-08
+620fb904-ac47-427b-a3a6-b03a35515bc2,2025-07-01,Battery Replacement,4924.85,Timing Belt,Barber-Waller,Kimberly Edwards,2025-06-05
+df3693cc-12c8-4b30-8450-e17fdd68ea60,2025-06-30,Transmission Repair,534.54,Timing Belt,Boyd-Davis,Christopher Hensley,2025-02-12
+6e241565-2058-4254-8639-0dac9bbc7d2a,2025-01-06,Engine Repair,1246.96,Radiator,"Morales, Powell and Chavez",Martin Lee,2025-02-23
+14bb7a5f-a552-4125-be3b-de4f638b8850,2025-03-30,AC Repair,3189.27,Brake Pads,Jones Inc,Johnny Brennan,2025-05-18
+bd8ef4a0-f382-4b13-bd16-9ffdc3da9045,2025-03-29,Fuel System Repair,4544.22,Brake Pads,Mason LLC,Stephen Valentine,2025-06-13
+eadd0add-4cf2-4fdf-a136-bce82d87d1de,2025-07-05,Brake Service,3302.76,Brake Pads,Boyd PLC,John Cobb DDS,2025-06-10
+1ce0ee7d-8628-41d7-946b-05dba4e8429f,2025-04-25,Battery Replacement,626.3,Alternator,Johnson and Sons,Rodney Trujillo,2025-04-21
+4ea98b18-c723-476f-8f73-59f43074359c,2025-04-04,Engine Repair,444.38,Brake Pads,"Mitchell, Warren and Clements",Mario Nguyen,2025-07-03
+73d30699-9574-4037-80e3-aa1e628af6a6,2025-05-07,Brake Service,4394.68,Brake Pads,Silva and Sons,Mr. James Ochoa DVM,2025-07-01
+de6a0081-28e7-493b-a158-5ec538231adc,2025-03-09,Clutch Replacement,1647.2,Exhaust System,"Bates, Wong and Porter",Denise Blair,2025-07-10
+60690b62-bbf8-47c5-80a9-1b98773a4d0c,2025-04-17,Fuel System Repair,329.7,Exhaust System,Gonzalez-Church,John Bauer,2025-03-09
+cd014ca1-497f-45de-8dcf-bd52664c971f,2025-02-07,Transmission Repair,1058.85,Brake Pads,Lloyd LLC,Lisa Harris,2025-07-04
+e2353632-eee6-4b60-8d95-71f49e336005,2025-03-29,Fuel System Repair,4341.14,Brake Pads,"Dunn, Carpenter and Gonzalez",Brandon Smith,2025-01-03
+73e8f833-284c-4525-9024-eb61343ce2e1,2025-01-12,Clutch Replacement,1854.89,Radiator,Stokes Group,Troy Allen,2025-01-25
+19cb3414-03fc-40ff-ac9d-fddb0382f699,2025-06-23,AC Repair,1291.76,Timing Belt,Nelson-Nelson,Eric Pierce,2025-01-14
+71a6ac79-33b6-4652-94f3-f234c8c0ed9f,2025-05-05,Engine Repair,4226.34,Alternator,"Lane, Mcmahon and Ferguson",Jennifer Robinson,2025-05-04
+e544132f-e349-4d9c-90ee-8a38bd8e9a52,2025-02-06,Transmission Repair,847.39,Timing Belt,Ball-Conner,Jessica Dillon,2025-01-31
+b7db0059-524e-441b-ac4b-d1e03859a028,2025-03-04,Suspension Repair,3130.63,Shock Absorbers,Hall and Sons,David Massey,2025-05-24
+39c32a2a-7a54-451c-97bf-0fcce6399d95,2025-03-13,Clutch Replacement,4764.68,Alternator,Knight-Mcclure,Anthony Thompson,2025-07-09
+5e84ce37-e3b8-423c-9cbb-4549bb94d97d,2025-01-07,AC Repair,866.73,Exhaust System,"Holder, Coleman and Young",Steven Castro,2025-04-23
+5deea3c8-c8d4-4d1c-96ab-54d01689016f,2025-07-07,AC Repair,1057.13,Radiator,Shelton Inc,Cory Callahan,2025-01-04
+5753dc65-f76c-4b34-84ae-32f5fabe7598,2025-01-26,Tire Replacement,3842.72,Alternator,Dominguez LLC,Michelle Zavala,2025-03-22
+5ab3648e-defa-4bfa-8b6f-cba817dc94c9,2025-02-15,Engine Repair,1098.13,Exhaust System,Rodriguez Group,Alexandra Morrison,2025-01-18
+6531e948-baaa-4b68-935a-b158f47c02a1,2025-06-06,Brake Service,2895.44,Exhaust System,Jones-Hall,David Rivera,2025-06-11
+8872304e-5ffe-42fc-9a7d-dd059d058ad0,2025-07-07,Brake Service,1635.53,Brake Pads,Adams Ltd,Eric Mann,2025-07-03
+ff343a84-f097-4f01-8cb3-93e5beafd1b7,2025-05-03,Engine Repair,4372.38,Brake Pads,"Moran, Johnson and Jones",Erin Perkins,2025-02-13
+f15c1028-b915-4869-a9aa-0935f17b7b06,2025-05-26,Tire Replacement,1213.44,Brake Pads,Walsh-Herrera,Tina Stevens,2025-04-20
+30d0122a-f186-4b1a-8ce3-91d7fa4e8f91,2025-01-30,Clutch Replacement,3080.58,Radiator,"Hernandez, Webb and Gonzalez",Diane Young,2025-04-20
+7a35cb48-5ac1-4ac5-ab4c-93c7d1b11cd8,2025-02-28,Transmission Repair,3304.38,Radiator,"Russell, Brown and Gross",Susan Kidd,2025-03-06
+2c03c447-f455-497f-9733-52ca5d9cacb4,2025-03-25,Clutch Replacement,1838.41,Alternator,Osborn-English,Nicole Ramsey,2025-01-23
+bb0de01a-d4e5-4370-8552-e2e8198db330,2025-04-17,Tire Replacement,4108.86,Shock Absorbers,Dalton-Parker,Jeffery Howard,2025-04-11
+7cd00493-7408-47c9-abe0-d478e9c1da31,2025-07-02,Suspension Repair,233.98,Timing Belt,Hunter-Harris,Pamela Richardson,2025-04-20
+fbcb4b09-f811-4e61-96d0-ca5d81312bda,2025-05-07,Brake Service,4443.68,Brake Pads,Drake-Contreras,Christy Spencer,2025-04-30
+25fa1e94-c2f4-4005-82e8-e776482af176,2025-05-19,Transmission Repair,1152.5,Radiator,Cobb-Wilkins,David Mason,2025-05-20
+d82673af-7168-440d-929a-2bc6b3548d47,2025-05-12,Engine Repair,2024.1,Alternator,Freeman-Jimenez,Michael Scott,2025-02-09
+3e0370da-0ba2-46e9-b8d1-400a6a561be7,2025-04-16,Fuel System Repair,832.0,Radiator,Martinez Inc,Roger Rogers,2025-05-21
+3d0f148a-d701-4233-b4a3-caff5843ae11,2025-01-12,Tire Replacement,1065.96,Brake Pads,Rodriguez Inc,Lauren Palmer,2025-04-27
+53c02bfd-9972-460e-a2d2-03bee0e8641f,2025-02-22,Suspension Repair,966.6,Alternator,"Hartman, Martinez and Edwards",Brandy Hale,2025-02-16
+431d1caf-622d-49bc-af5c-b917bc920442,2025-04-25,Battery Replacement,4181.56,Alternator,"Taylor, Bridges and Mitchell",Alyssa May,2025-04-18
+ed0f90f0-b370-4252-80c0-8fb46dc95f9f,2025-06-02,Brake Service,1987.44,Brake Pads,"Harvey, Wright and Higgins",Eugene Adams,2025-06-03
+f9fe90fe-d547-4ebd-8370-0a5a0f5e3d4b,2025-06-30,Brake Service,2170.17,Exhaust System,Hughes PLC,Christopher Beasley,2025-01-30
+d9cb9377-d4a1-4125-8352-09e88f73906a,2025-05-15,Engine Repair,4302.65,Shock Absorbers,"Ruiz, Shelton and Marshall",Brent Cobb,2025-04-15
+49b33209-dfb3-45bf-8b22-ef08aeb6121f,2025-02-19,Clutch Replacement,251.55,Alternator,"Ford, Cain and Maynard",Ivan Flores,2025-05-19
+33e32b6f-4cbf-40ae-800f-42b632b7e2ec,2025-03-15,Transmission Repair,3734.83,Brake Pads,"Wilson, Russell and Jensen",Cassandra Archer,2025-01-26
+d2189110-9fa3-4a2f-9768-7b3d1c6dbaea,2025-06-23,Fuel System Repair,1997.82,Timing Belt,"Castro, Mendoza and Carson",Sarah Mercer,2025-01-29
+36879367-3dde-4652-bb53-be875952c35c,2025-06-02,Tire Replacement,4641.39,Alternator,Wilson-Juarez,Kristina Edwards,2025-05-02
+44879263-5cc0-4e46-9afa-0ad5c598e8c2,2025-05-07,Suspension Repair,4770.97,Exhaust System,Morris-Carpenter,Ashley Hanson,2025-05-14
+556fb598-6aa8-4097-a372-64d8aa3ac745,2025-02-13,Clutch Replacement,1787.39,Alternator,Spencer Ltd,Luis Collins,2025-06-09
+8e050ffd-37ae-465a-a31a-c1224b7ce1fa,2025-06-14,Transmission Repair,3013.13,Brake Pads,Wilson-Martin,Angie Johnson,2025-02-25
+2c8eeb12-f43d-48b0-9acf-8832d8c146be,2025-04-18,Engine Repair,3881.25,Brake Pads,Baker and Sons,Theresa Durham,2025-02-27
+44956428-cd72-41a8-b5c7-250c55ff6ad1,2025-02-16,Fuel System Repair,556.25,Exhaust System,Ramirez-Collins,Chris Solomon,2025-05-30
+4269996e-be81-4bb4-9bd4-7f6f3205bde0,2025-07-09,Clutch Replacement,4937.98,Timing Belt,Porter-Martin,Elizabeth Merritt,2025-01-24
+95e738cb-ffbd-49dd-8163-edb8f8cb0dc0,2025-05-25,AC Repair,2938.92,Radiator,"King, Edwards and Cantrell",James Carlson,2025-02-09
+3ab09bf4-bc87-4431-b174-2aa0f8088c1c,2025-05-25,AC Repair,4979.19,Shock Absorbers,Green-Hayes,Robert Reed,2025-04-16
+23eac31a-ca88-44ec-bacc-39f928aa9217,2025-02-28,Tire Replacement,1739.53,Radiator,Love and Sons,David Noble,2025-06-09
+b935e772-5e76-45e2-9107-ad2c58054fe2,2025-05-23,Suspension Repair,193.29,Alternator,"Owen, Rivera and Cantrell",Abigail Walsh,2025-03-06
+0c37d1fc-1bba-43d5-9d25-aab845d118ab,2025-05-17,AC Repair,1963.94,Alternator,Jackson Ltd,Mitchell Glass,2025-03-17
+bdbe9146-4dec-44b0-97cd-c7d03a00a6cd,2025-04-09,Transmission Repair,393.34,Brake Pads,Gutierrez-Pope,Andrew Harris,2025-01-06
+9c0b99fb-554c-4155-8354-4274dd9de8d7,2025-06-03,Fuel System Repair,2556.2,Alternator,Williams Ltd,Jason Le DVM,2025-01-11
+ba460074-dc8f-4576-96b1-63effaaa797f,2025-01-15,Battery Replacement,2641.74,Timing Belt,Wilcox-Gilbert,Jill Mason,2025-02-05
+8b4511f5-4877-41e5-a5c1-4d5a73b9ccc2,2025-04-07,Clutch Replacement,3970.31,Alternator,"Martinez, Garcia and Lewis",Robert Braun,2025-05-08
+4751db0e-d3b9-4986-8e04-bf4023079584,2025-05-04,Battery Replacement,2705.41,Shock Absorbers,Palmer Inc,Stephanie Whitaker,2025-02-22
+28b4e8f6-d9b1-4325-958c-6536af3863ef,2025-04-07,Engine Repair,1534.17,Alternator,"Downs, Vaughan and Graham",Stanley Macias,2025-04-07
+2ff1816c-9b51-4d17-a82e-63e1aab9666d,2025-07-04,Transmission Repair,456.06,Radiator,Arroyo PLC,Christopher Thomas,2025-05-11
+9b8f54cc-94b1-44d1-b81a-cd4ea5af0c78,2025-04-14,Engine Repair,3235.97,Exhaust System,Cannon Inc,Eric Ford,2025-03-03
+8e5ee12b-eff2-48c5-8ef5-e0e15279f37a,2025-01-28,Brake Service,3664.12,Timing Belt,"Rogers, Clark and Andrews",Kyle Moran,2025-03-21
+340df2aa-c8b3-4a1f-b7bc-8a3e21b4eaee,2025-05-12,Transmission Repair,1771.78,Brake Pads,Lee-Campos,Adam Cortez,2025-07-10
+4c901256-b907-4bb0-b81f-a5d5737c41e3,2025-02-24,Suspension Repair,2716.58,Exhaust System,Schmitt-Lowe,Garrett White,2025-03-07
+ec1b97a0-b8ce-4912-b00d-c6216c7bd6de,2025-05-25,AC Repair,1076.46,Exhaust System,"Chavez, Porter and Hughes",Chad Moore,2025-03-18
+83a165c2-1a18-4b28-8f4b-72de7cef30fc,2025-05-28,Transmission Repair,3497.04,Alternator,Martin-Watson,Nicole Obrien,2025-01-14
+2e8f7e35-d76c-4108-a285-e4b6d4ad9ea1,2025-01-02,Tire Replacement,4284.59,Alternator,"Sanchez, Wright and Murillo",Nicole Miller,2025-04-27
+72cd8c35-9f56-47b9-98e4-969b4536a9b3,2025-03-12,Tire Replacement,3590.12,Timing Belt,White-Ramirez,Kristen Chambers,2025-06-14
+5f284752-3641-419e-9bf0-e3871b62e5a5,2025-04-04,Engine Repair,3912.96,Radiator,Schroeder-Jones,Devin Hampton,2025-05-24
+97741450-3911-4cd2-b8e8-4d08e7fa7e82,2025-06-20,Battery Replacement,664.44,Shock Absorbers,Anthony Ltd,Michael Porter,2025-02-24
+2c295fc7-69f8-4b49-8e6a-b71bdbd610e8,2025-06-01,Clutch Replacement,1815.47,Brake Pads,"Park, Kim and Griffin",Amanda Rose,2025-02-17
+6311b8b7-dd23-4fec-aece-7b88baa7216f,2025-03-07,Clutch Replacement,2475.76,Exhaust System,"Castro, Cooper and Erickson",Mackenzie Mathis,2025-01-08
+bb73324d-92ad-4360-bc34-aa367c51129a,2025-05-08,Fuel System Repair,2137.06,Brake Pads,Hopkins Ltd,Shannon Nelson,2025-01-18
+bdec723f-9c6b-493f-bfde-4643f6572fdd,2025-02-03,Suspension Repair,2721.5,Shock Absorbers,Frey-Kim,John Bender,2025-03-26
+50bbd2bc-daa5-4fc6-8ad8-62641a12467c,2025-03-08,Engine Repair,1972.83,Timing Belt,"Larson, Mercer and Garcia",Carmen Rodriguez MD,2025-03-07
+fa9ac456-e5b1-4c5b-8008-dea047b8b3be,2025-03-18,Fuel System Repair,2677.0,Radiator,"Olsen, Pierce and Dennis",Lawrence Kelly,2025-05-12
+3c4ad7d9-b997-4cb8-bf98-1b3b3a1e9930,2025-04-25,Transmission Repair,4802.49,Alternator,Cantu PLC,Stacie Allen,2025-04-12
+f966b679-bf2e-475f-9a30-26f71cf0696a,2025-05-22,AC Repair,4917.15,Shock Absorbers,"Sweeney, Lopez and Watson",Antonio Harmon,2025-02-04
+b18af82f-82fd-4cf7-b449-dbd70be9efe5,2025-01-22,AC Repair,1185.41,Alternator,"Bell, White and Banks",Dale Molina,2025-04-15
+76d999bf-4837-4459-89f0-f6110cabd792,2025-01-19,Clutch Replacement,4459.2,Shock Absorbers,Miller Inc,Joshua Gardner,2025-04-21
+a962b015-d8ac-4463-82b1-cc5ab7c94bfb,2025-02-09,Clutch Replacement,1624.93,Radiator,Houston Ltd,Darius Mclaughlin,2025-03-12
+da59a4d0-b6e6-43d6-acd4-2a696f5af717,2025-05-17,Suspension Repair,4182.37,Shock Absorbers,"Gilbert, White and Stewart",David Pugh,2025-05-30
+b5419e4d-92f3-403f-ac0c-f3f251c1df16,2025-06-20,Clutch Replacement,1823.62,Brake Pads,Gould-Lane,Kimberly Peterson,2025-04-02
+81ec61da-9789-4134-860b-25aa250cff54,2025-03-22,Transmission Repair,1906.49,Exhaust System,"Sanchez, Middleton and Phelps",Beverly Cruz,2025-06-24
+7f215083-274c-4a38-ba9d-1117a64669c9,2025-02-17,Tire Replacement,4923.34,Alternator,Turner Group,Adam Osborne,2025-04-23
+7d45dd1f-d592-4837-bc8c-b8e7995ecc35,2025-05-13,Suspension Repair,3889.68,Radiator,Pratt-Williamson,Alyssa Lam,2025-04-06
+d6329a21-4d46-4e95-ad71-b783711b80a0,2025-07-01,Suspension Repair,2374.87,Radiator,"Walker, Williams and Fuller",Perry Vaughn,2025-02-28
+48f3c7b8-1113-4e65-a9c8-8ef60248a0bc,2025-02-25,Tire Replacement,4658.41,Exhaust System,Butler-Hunt,James Hall,2025-04-14
+e65454e0-99c7-461c-a61b-f31e7a8e4f81,2025-04-08,Suspension Repair,589.44,Timing Belt,Cherry-Love,Andre Galloway,2025-03-18
+59b4c77c-da73-4f1b-90b9-3cbaf2ec835b,2025-04-02,Engine Repair,4914.24,Alternator,Hawkins-Peterson,William Colon,2025-05-06
+bc85fe00-0593-41d5-96e4-110d1328e87d,2025-03-13,Engine Repair,2577.43,Alternator,Shannon-Moore,Christina Sparks,2025-05-19
+a4f8b0fb-4234-4907-88b8-b8d66adbb0fa,2025-03-08,Transmission Repair,1266.87,Brake Pads,Rich PLC,Debra Lyons,2025-02-11
+779720f4-52c1-4aeb-a92a-6acd428f14cf,2025-01-22,Tire Replacement,2914.37,Brake Pads,"Kim, Waters and Powers",Kevin Brown,2025-05-11
+7fcce177-0282-44aa-b3cd-86443a2d8d8e,2025-02-16,Battery Replacement,4924.76,Radiator,"Kelly, Flores and Fletcher",Jody Davis,2025-06-24
+973733df-8bd1-4936-88ae-666062c6603d,2025-01-18,Clutch Replacement,3407.52,Shock Absorbers,Schaefer-Proctor,Shawn Cruz,2025-01-20
+64dfeaf6-bea3-4998-be4e-699e3dd14f34,2025-04-26,AC Repair,2583.56,Radiator,Simon and Sons,Pamela Fuller,2025-02-23
+dd180462-3f13-4d4f-8612-b8188a533860,2025-04-01,Suspension Repair,4524.4,Exhaust System,"Odonnell, Robbins and Briggs",Emily Bishop,2025-04-22
+96159de5-9b66-46fb-b8cb-a2302be77348,2025-06-30,Fuel System Repair,3837.2,Exhaust System,Tucker-White,Elizabeth Henson,2025-03-15
+9ab0c945-3f24-4701-8f81-7d3ce4ff3ca2,2025-05-10,Tire Replacement,2778.72,Alternator,"Becker, Bowers and Cohen",Katie Mosley,2025-06-12
+4b58fdfb-7e88-4b93-9428-31efd5d71b13,2025-05-09,AC Repair,4293.56,Exhaust System,Jordan Inc,Nathaniel Schneider,2025-02-20
+3a426b71-b171-4a11-bbba-e6d0c3096edf,2025-04-15,Fuel System Repair,2071.34,Radiator,Hess-Gibson,Grace Barnes,2025-03-17
+8d769c33-0e98-4b2b-97a2-8f9e4e390428,2025-05-08,Suspension Repair,1993.31,Timing Belt,Giles-Sanford,Cynthia Byrd,2025-04-09
+8ef013a6-31d8-499d-839a-6cf7f23e3d16,2025-02-13,Clutch Replacement,4227.44,Brake Pads,Gomez-Hebert,Richard Hubbard,2025-02-04
+91cf2a4f-7acf-4493-87f4-67e05f4733b9,2025-02-25,Transmission Repair,2367.81,Radiator,Trevino-Stephenson,Wesley Johnson,2025-03-26
+8b262a52-5347-469b-ba88-93a670a5b22c,2025-06-16,Brake Service,4612.48,Brake Pads,Sanchez and Sons,Devin Collins,2025-02-12
+309f7846-7d8a-4d56-82e7-91306d99f894,2025-02-15,Tire Replacement,1661.56,Radiator,"Ferguson, Watson and Harris",Timothy Murphy,2025-03-12
+dd421256-47d8-4ced-b4a1-0193805c175e,2025-03-26,Brake Service,2959.5,Exhaust System,Frey-Schmidt,Jacqueline Cooper,2025-02-18
+badfb520-fad8-4529-8491-9699c462d647,2025-02-15,Fuel System Repair,1686.82,Brake Pads,Wong-Boyd,Jason Cortez,2025-02-04
+d2f70b09-6708-4c01-9646-356c6ed24214,2025-01-12,Fuel System Repair,2806.73,Alternator,Richardson-Wagner,Jeffrey Mcfarland,2025-03-13
+84f5339e-88df-46a0-89ac-342179179058,2025-05-18,Transmission Repair,1594.52,Brake Pads,"Williams, Wilson and Sanchez",Kristen Henderson,2025-03-17
+ce4947a8-4c6a-4a4e-992e-f38061b843ba,2025-02-13,AC Repair,2374.56,Exhaust System,"Turner, Campbell and Pearson",Stephanie Bush,2025-01-01
+65617a81-c86b-4e73-a2ce-f22bf0c5c96a,2025-03-19,Suspension Repair,908.81,Timing Belt,Manning and Sons,Andrew Sims,2025-02-12
+981c72a0-dea2-4841-91a5-6761287b9a66,2025-06-03,AC Repair,1701.14,Timing Belt,Allen-Mann,Julie Foster,2025-02-14
+97b74d1f-c453-483f-aab2-f0261335814d,2025-02-02,Clutch Replacement,2435.87,Shock Absorbers,"Alexander, Garcia and Carson",Katrina Allen,2025-06-25
+5c9b593f-ae9f-420d-b224-eaf506c3d5a1,2025-06-05,Transmission Repair,3027.86,Alternator,Campbell-Snyder,Sandy Harris,2025-06-28
+986a917a-c361-4813-9b70-819bb70faefe,2025-07-10,Engine Repair,4849.35,Alternator,Casey-Wagner,Brian Snow,2025-05-03
+01213a9c-7643-4282-9a71-6451eb5af13b,2025-02-20,Battery Replacement,4060.51,Exhaust System,"Miller, Wells and Sanders",John Jones,2025-03-17
+969c2bc8-7cf4-47ee-9d3e-25ad1bfa513b,2025-06-06,Transmission Repair,1570.54,Radiator,George-Shah,Diana Morris,2025-02-04
+ea780714-a5f1-4e16-82f4-a567114bbfa5,2025-06-13,Suspension Repair,1321.19,Timing Belt,Macdonald LLC,Billy Frye,2025-03-07
+2a0e9d14-8a82-4e1e-9383-76a41980c9a7,2025-03-22,Tire Replacement,4889.11,Shock Absorbers,Smith Ltd,Keith Ross,2025-05-10
+739bb693-821c-47bc-a5b6-63b73290ab9c,2025-03-16,Tire Replacement,3736.74,Alternator,Schneider-Alexander,Amy Rodriguez,2025-01-23
+90a0f517-affe-4432-b4e8-f251691b1043,2025-03-17,Transmission Repair,3193.27,Alternator,Mays-Lee,David Johnson,2025-03-21
+4be8b776-1577-469a-bc15-e4ceabd03794,2025-04-09,Tire Replacement,1731.45,Exhaust System,Gill-Vasquez,Brent Davis,2025-01-05
+25c5000c-f3de-4f97-8ccd-3b16e0b44144,2025-04-21,Tire Replacement,240.9,Brake Pads,"Rosario, Johnson and Bryant",Alexis Collins,2025-01-21
+556c20d6-404e-4fe7-88ee-dae25ad14e18,2025-04-04,Clutch Replacement,926.91,Brake Pads,Reed Group,Mary King PhD,2025-07-08
+dfe3fd85-1417-47a9-81f4-43875234eb82,2025-06-13,AC Repair,4919.12,Shock Absorbers,Smith and Sons,Natasha Dominguez,2025-05-12
+6fddbeaf-6f2d-4ad5-be13-654ecc33be33,2025-07-04,Tire Replacement,1319.88,Timing Belt,Glenn Group,David Henry,2025-05-06
+79782c26-d413-4138-a8f5-6572e597c9db,2025-06-18,Battery Replacement,4371.92,Shock Absorbers,Boyer LLC,Connie Moon,2025-01-02
+1b76c20d-5caf-4ecc-9d0f-9cdaed2c7d19,2025-04-08,Brake Service,4797.41,Brake Pads,"Robbins, Goodman and Clark",Nathan Valentine Jr.,2025-06-05
+bfcd70b3-97ee-4c66-8aa4-d8a291d933a4,2025-04-18,Engine Repair,2873.64,Radiator,"Conley, Yang and Finley",Cindy Williams,2025-02-07
+689ba6e1-2380-49d4-9c86-9dd6e820764a,2025-05-21,Transmission Repair,4433.0,Shock Absorbers,Suarez Inc,William Morgan,2025-05-12
+f74f8c7d-b8b4-462c-99a1-69df778b7e3c,2025-01-25,Clutch Replacement,516.6,Alternator,"Booth, Armstrong and Green",Andrea Howard,2025-07-08
+603e8427-18a0-4cc6-8059-f2ae1ba81199,2025-01-16,Fuel System Repair,722.22,Brake Pads,"Garcia, Powers and Wallace",John Nguyen,2025-06-29
+7e9189ed-0bc3-44c7-9057-9b011169d57d,2025-03-15,Clutch Replacement,1796.18,Radiator,"Cobb, Stewart and Robinson",Kristin Lopez,2025-04-08
+2b30a867-8d94-4cb1-af92-d1372255633e,2025-04-27,AC Repair,4101.52,Brake Pads,"Dunn, Avila and Wright",Mr. Matthew Jacobs DVM,2025-06-12
+cc5d86ec-ce3d-4605-b357-56a5210dcb8c,2025-02-14,Tire Replacement,4883.59,Timing Belt,Bridges-Avila,Sheila Burke,2025-02-26
+4cc22d11-6a06-4523-a3ab-ee8dc17baf3f,2025-04-08,Battery Replacement,965.89,Brake Pads,Hill Ltd,Abigail Garrett,2025-02-02
+3dda6827-2856-4712-b9c8-94d1638196c9,2025-01-03,AC Repair,453.82,Shock Absorbers,Nguyen and Sons,Melissa Vargas,2025-03-04
+62b0938f-4236-48dd-b46f-79f524139106,2025-02-12,AC Repair,1649.25,Alternator,Robinson-Baker,Justin Mendoza,2025-02-25
+4efc70cc-dbf3-4c30-81b9-391c7adc6eed,2025-06-06,Suspension Repair,667.55,Shock Absorbers,Welch and Sons,Tony Holmes,2025-01-30
+a6fbdae1-e832-43a2-aaed-ef2728736a65,2025-01-02,Tire Replacement,3978.85,Radiator,"Rubio, Ryan and May",Nathan Smith,2025-04-26
+4bc789e0-477d-43c2-8250-c584249aea62,2025-04-05,Tire Replacement,3450.85,Radiator,Chapman PLC,Gloria Potter,2025-03-08
+7e09b43e-c5d5-4b2b-b723-fa24c76d3753,2025-02-10,AC Repair,2337.4,Alternator,Anderson and Sons,Catherine Davis,2025-03-18
+b8229782-8b06-4ab2-b7a5-9ec3118f82a7,2025-01-26,Tire Replacement,4867.96,Shock Absorbers,"Lopez, Schmidt and Stevens",Brett Moore,2025-03-24
+33111343-df25-4d9f-b037-7481be4122af,2025-05-05,Battery Replacement,408.47,Alternator,Hobbs Inc,Matthew Hunt,2025-04-20
+e7518ff3-682c-4f6b-a2a7-25aaf63087f6,2025-01-20,AC Repair,2430.56,Alternator,Thomas Ltd,Lauren Stevens,2025-07-10
+2f34407e-3713-41ee-99f9-e6dd6bd0212d,2025-01-15,Clutch Replacement,1322.89,Shock Absorbers,"Rodriguez, Martinez and Estrada",Michael Evans,2025-01-16
+e27cd584-7123-4d0b-bc91-e0429095e186,2025-01-08,Engine Repair,255.01,Shock Absorbers,"Carter, Hendricks and French",Michelle Miller,2025-05-02
+d419e4fe-c515-4efe-bf1f-d369f30cb83a,2025-02-16,Transmission Repair,2105.09,Exhaust System,Palmer-Webb,Brittany Hill,2025-05-09
+0f0764fe-bfed-4964-ae5d-751ec49ac6bd,2025-06-13,Clutch Replacement,3150.04,Shock Absorbers,Leach-Martin,Christina Adams,2025-05-27
+c84893ee-4850-4be5-862e-a11b4db876a3,2025-03-18,Engine Repair,3930.86,Shock Absorbers,Carroll and Sons,Thomas Bell,2025-02-02
+68f1ae73-5109-4e0f-875e-5edc1d70683f,2025-01-12,Fuel System Repair,1019.11,Brake Pads,Taylor-Daniels,Dana Miranda,2025-05-22
+ee179116-cd53-46ad-b92f-bb47e326f9b7,2025-02-01,Engine Repair,4640.58,Radiator,"Pratt, Wade and Gardner",Ethan Brown,2025-05-20
+5db204c5-16e5-4081-b95a-ac5db8160035,2025-01-09,Transmission Repair,3264.16,Shock Absorbers,Cunningham-Molina,Travis Davis,2025-04-04
+0ab1814b-c36c-4175-b7aa-f40ea7fb2c30,2025-02-13,Fuel System Repair,865.75,Radiator,Beasley Inc,Shawn Rodriguez,2025-06-08
+2e555d0d-af9b-4d24-8bcf-9f82d27c0af1,2025-06-10,Suspension Repair,278.98,Radiator,"Cook, Glenn and Berg",Danielle Paul,2025-05-04
+957d8b13-7c99-48bb-bd42-dd32c78689c9,2025-01-27,Battery Replacement,904.89,Brake Pads,"Lee, Patel and Dalton",Jonathan Horn,2025-02-25
+040d6795-344f-4fd3-8359-a77b8912810a,2025-01-11,Suspension Repair,122.39,Brake Pads,"Mullins, Lloyd and Johnson",Morgan Fleming,2025-01-31
+584ee44f-7c3a-4ae1-a396-86a24b7583c4,2025-06-09,Clutch Replacement,1856.65,Timing Belt,Miller-Hunt,Charlotte Scott,2025-04-01
+40b016d6-fc1b-4968-b6f9-2ff36e210c97,2025-04-12,Clutch Replacement,3825.17,Exhaust System,Bennett-Bentley,Chris Hall,2025-03-04
+8c58a14d-c2fa-469f-99d2-a7431bc428af,2025-01-09,Fuel System Repair,1274.21,Brake Pads,Carter Group,Dr. James Torres DDS,2025-02-02
+a1740d1d-5b63-4ded-a13c-3a5291979d50,2025-01-10,Suspension Repair,4311.9,Timing Belt,"Wilson, Martin and Moreno",Timothy Jones DVM,2025-03-28
+b8a42a80-1227-4530-9602-eaca3b67f3bb,2025-03-25,Tire Replacement,1968.51,Alternator,Johnson-Long,Grace Barton,2025-01-18
+8684160d-2e04-49a2-b416-8b39ceca2e43,2025-06-24,Clutch Replacement,4641.13,Timing Belt,"Griffith, Osborne and Ramirez",Victor Fischer,2025-02-24
+2f3cc889-76f1-4da1-80b7-520f070de5dd,2025-02-14,Fuel System Repair,4561.47,Brake Pads,Williams-Wright,David Hernandez,2025-04-21
+bd2a724e-49ab-4ab1-be0c-eb5bbc36ef60,2025-07-03,AC Repair,211.44,Alternator,"Walker, James and Hernandez",Ryan Burke,2025-07-04
+86ffe427-a016-4213-8448-1e5ef6ebfa00,2025-05-14,Tire Replacement,196.9,Alternator,Martinez-Gilmore,Kathleen Hicks,2025-07-09
+3e07270b-6e37-424f-9715-ea622cd5898f,2025-04-28,Fuel System Repair,2455.61,Brake Pads,"Jenkins, Friedman and Lee",Patrick Johnson,2025-03-23
+b0252efd-f02d-449f-ad16-e610ad9093a4,2025-02-22,Suspension Repair,306.01,Radiator,Suarez-Werner,Michelle Rivera,2025-06-29
+cbdc0a32-f39c-412a-a700-ba5745b21c79,2025-02-21,Suspension Repair,2239.88,Radiator,"Salas, Green and Allen",Rachel Warner,2025-02-04
+2f84e51a-5ec0-4f91-93ab-e8ff4d01a996,2025-06-18,Tire Replacement,798.29,Timing Belt,Alexander LLC,Billy Beard,2025-06-03
+d4bf84bf-9a82-4043-9807-b2f98d9ec49f,2025-04-16,Tire Replacement,3814.22,Brake Pads,"Santiago, Johnson and Marshall",Kimberly Roach,2025-06-18
+02faa703-0e05-47ef-b584-a6ed46cd2c6e,2025-07-06,Suspension Repair,4833.17,Radiator,"Farley, Curry and Wang",Stephen Hunt,2025-06-27
+3de69baf-71e5-4d45-a0ac-c93776439866,2025-03-27,Clutch Replacement,157.14,Timing Belt,"Walker, Cunningham and Jordan",Kimberly Weiss,2025-04-15
+979f3dc1-a7a5-4c0c-8853-31f74415b77d,2025-07-05,Engine Repair,2829.31,Radiator,Ray-Harrington,Jessica Johnson,2025-06-19
+be9ae6c1-ffeb-4d71-845c-84d05f5c9c74,2025-07-08,Battery Replacement,4288.39,Shock Absorbers,"Harris, Martin and Flowers",Kimberly Houston,2025-06-11
+342d55b3-1938-4675-b250-dbec30852690,2025-03-08,Suspension Repair,3376.81,Timing Belt,Santana-Garza,Susan Castillo,2025-06-06
+d8e31b75-6baa-4158-8717-93a71a1a3616,2025-03-24,Fuel System Repair,3456.39,Timing Belt,"Ortiz, Strickland and Holden",Melissa George,2025-03-29
+969d7b27-f795-46f1-abcd-eea6f4a16cd6,2025-04-26,Battery Replacement,1604.34,Shock Absorbers,"Cook, Harrington and Williams",William Anderson,2025-03-21
+636a3def-c7e5-4dd9-8fc7-3de60e301c31,2025-03-21,Battery Replacement,3607.47,Exhaust System,Daniel-Hughes,Andrea Cuevas,2025-03-29
+fc0ebca0-68c9-4ff6-a77f-e0bc3fe8e9dc,2025-07-07,Brake Service,3521.44,Exhaust System,Davis-Lopez,Allen Keller,2025-03-05
+2b25ea40-b114-4bdd-814e-2a1aea0b4bea,2025-02-18,Brake Service,4388.34,Timing Belt,Mack PLC,Karina Lopez,2025-06-24
+e69df0ee-8f6a-410e-909a-0a3707cbef70,2025-04-12,Brake Service,1112.56,Shock Absorbers,Scott Ltd,Cody Jordan,2025-06-19
+74dab18b-378d-45cc-8dc3-2c6fa1a5db6b,2025-05-17,Suspension Repair,3780.54,Exhaust System,"Lamb, Hopkins and Brown",Judy Jensen,2025-04-08
+191158de-6710-47e3-859d-16e4159ddb54,2025-06-30,AC Repair,148.64,Timing Belt,Delgado Ltd,Amy Parker,2025-03-05
+25230eb9-14fe-42e6-99e7-c75e95be79ca,2025-04-06,Tire Replacement,3489.03,Timing Belt,Parrish PLC,Monica Gallegos,2025-06-01
+6b2e8d98-2409-4794-bd91-c7d697e55a80,2025-02-28,Battery Replacement,4818.4,Brake Pads,"Stephens, Johnson and Lewis",Thomas Williams,2025-06-02
+c01f8444-afa1-444a-8486-c10f64ac2d92,2025-02-24,Battery Replacement,2912.35,Timing Belt,Robertson Inc,Ruth Williams,2025-02-17
+a964a8cb-da6f-4517-bf19-488c03aa79ae,2025-03-16,Clutch Replacement,4025.54,Shock Absorbers,Jones-Meyer,Donna Mueller,2025-02-23
+189bad15-6e1c-4746-ae6d-d45c79728aaf,2025-06-20,Battery Replacement,1905.44,Shock Absorbers,"Lewis, Ward and Russell",Kathy Castro,2025-05-31
+258d461b-9608-48eb-9e46-3d22be9554c6,2025-01-20,Battery Replacement,2886.3,Alternator,"Gardner, Russell and Preston",Mark Robinson,2025-01-19
+c3aad7c3-19da-44a5-bde0-21719ac34e48,2025-06-06,AC Repair,4774.65,Shock Absorbers,Ruiz Ltd,Eric Martin,2025-02-13
+d7fc7a28-b3d2-46e1-b5de-d5ec7ab0debb,2025-04-27,Tire Replacement,4346.58,Brake Pads,"Evans, Howard and Hoffman",Francisco Esparza,2025-02-09
+1d762782-8eae-4c7b-8051-8192c01b0872,2025-02-21,Clutch Replacement,1150.87,Radiator,Campbell-Delgado,Catherine Baker,2025-06-30
+858c3978-e301-44f9-8344-e778f4f780c7,2025-04-11,Clutch Replacement,2237.83,Shock Absorbers,Doyle LLC,Ryan Greene,2025-03-20
+462e2df2-0432-4793-b0dc-8cfdcd5ba338,2025-05-08,Fuel System Repair,2975.94,Radiator,"Lawrence, Nolan and Rivas",Erin Guerra,2025-06-26
+e768ba74-5b73-4e1c-8eea-2300a60ab75c,2025-03-09,Clutch Replacement,3494.45,Timing Belt,"Aguirre, Ellis and Hall",Maria Jones,2025-04-05
+60909d3d-ee5b-4871-bcf6-fa900494dea0,2025-03-29,Engine Repair,2604.85,Brake Pads,"Roberts, Odom and Montgomery",Jason Taylor,2025-05-12
+0dfee275-b229-4e83-b5db-594e311742b3,2025-04-04,Brake Service,1797.13,Alternator,Murphy-Garcia,Bryan Butler,2025-02-26
+cbad28ad-faab-4b96-b2c1-a6c18dbb2ead,2025-01-03,Engine Repair,149.79,Brake Pads,Watson-Washington,Lawrence Craig,2025-02-27
+fb4e1e5a-c40b-4944-b522-c28225873601,2025-04-05,Transmission Repair,157.01,Shock Absorbers,"Francis, Martinez and Brady",Eric Garcia,2025-03-30
+77cf0694-c5da-4ce6-88c6-5998c1afbc26,2025-05-28,Clutch Replacement,1054.6,Timing Belt,Perry Inc,Randy Rios,2025-04-11
+93fbcef3-ac91-4e5f-bb30-540f69c657e7,2025-06-18,Suspension Repair,1734.19,Shock Absorbers,Walsh-Lewis,Mark Hayes,2025-03-13
+ba02c692-c672-47ec-bd61-43636a616e82,2025-03-10,Brake Service,2976.05,Timing Belt,Sanford-Young,Denise White,2025-07-06
+d6f801f5-2aee-43b8-95a0-04deb1dea8a4,2025-06-25,Engine Repair,2835.84,Exhaust System,Murray LLC,Lisa Townsend,2025-01-10
+a565cbaf-abef-44e6-aa35-e3738cc06eac,2025-01-02,Fuel System Repair,3444.79,Brake Pads,Mays Inc,Mr. Anthony Smith,2025-05-30
+0f90a81f-1269-4ffc-ad96-df12df100023,2025-05-20,AC Repair,2565.52,Brake Pads,"Benitez, Reed and Cobb",Joseph Miller,2025-01-14
+50fa63ee-2a22-47ac-a46f-c9163d31eda0,2025-01-24,Transmission Repair,299.38,Exhaust System,Burnett PLC,Gerald Aguilar,2025-01-29
+e6c7ff5c-808e-43fe-833c-9945cb258b5f,2025-03-29,Suspension Repair,598.25,Radiator,Garcia-Shannon,Lawrence Miller,2025-03-11
+c8c77ced-a6c7-4385-ab66-55d71f9a5b9c,2025-07-09,Battery Replacement,1719.29,Alternator,Soto and Sons,Robin Mclaughlin,2025-07-01
+c2069c61-3c75-4716-a639-b72a16890c4b,2025-04-21,Engine Repair,4397.73,Timing Belt,Hobbs Inc,Ashley Lin,2025-04-30
+3acd37b8-64a3-46ba-a62d-b4f8053d1e9a,2025-06-10,Transmission Repair,671.6,Alternator,Phillips PLC,Mr. Leon Graves,2025-06-24
+1b8fe268-afef-41b0-8f08-053ff0f6cd85,2025-05-29,Transmission Repair,3139.57,Brake Pads,Torres Ltd,Elizabeth Andrews,2025-05-07
+945864d0-cb79-4cb4-a1f1-a27d4aacfef1,2025-06-06,AC Repair,3349.15,Alternator,Jones-Park,Brandon Lee,2025-05-12
+e05d7928-649b-4bca-b7e0-cc1ef9002109,2025-06-14,Tire Replacement,1706.69,Radiator,Hughes LLC,Reginald Gibson,2025-03-02
+9e15c192-b660-4eb3-9ba1-66461f4ef360,2025-05-23,Brake Service,3640.17,Alternator,Smith-Cook,Lisa Smith,2025-01-28
+b67b05a1-f8e0-463e-b718-958d8c514721,2025-02-20,Clutch Replacement,3799.15,Alternator,Perkins-Zamora,Jasmine Herman,2025-06-12
+c8c978ae-d5fe-4f82-9384-221a38a2b764,2025-03-16,Engine Repair,4871.35,Radiator,Burnett and Sons,Nicholas Hampton,2025-05-05
+c32d3718-905e-4bf8-8151-c61846315e12,2025-06-13,AC Repair,951.9,Alternator,"Spears, Marsh and Hamilton",Gilbert Brown,2025-01-07
+1eaecf55-5a99-4d71-abd0-d5139187b3b9,2025-05-31,Battery Replacement,2593.98,Timing Belt,"White, Leonard and Gutierrez",Eric Peterson,2025-04-30
+07cc7e91-b0eb-4b29-804e-f0bb1af1b73f,2025-04-27,AC Repair,3846.86,Shock Absorbers,"Holden, Morgan and Jackson",Holly Barrett,2025-03-13
+7c37c5d7-0924-437a-9140-3e0ce8bce736,2025-06-06,AC Repair,1019.5,Exhaust System,Foster PLC,Laura Harris,2025-04-17
+da0d7529-3d8f-4856-8f52-8e479909b988,2025-06-02,Brake Service,3612.4,Exhaust System,Henry-Thomas,Ashley Torres,2025-06-24
+395b53f3-148f-4c92-9527-83635f6e935b,2025-04-21,Brake Service,4270.85,Shock Absorbers,Williams-Evans,Troy Harrison,2025-03-07
+0819a29d-67fd-4226-ad16-6ec4d33dd458,2025-06-29,AC Repair,4496.81,Exhaust System,"Mccoy, Johnson and Adams",Javier Austin,2025-01-20
+74a07a88-5570-4d0e-aa7c-e2fce83d8ea0,2025-02-18,Suspension Repair,506.0,Brake Pads,"Lane, Smith and Moreno",Jocelyn Church,2025-06-16
+d5932e89-c326-4d56-b41d-fbe922081834,2025-02-24,AC Repair,606.04,Shock Absorbers,"Leblanc, Wilson and Smith",Robin Ashley,2025-04-24
+beb9037c-ab71-41d0-894c-0fbf56edb6df,2025-03-19,Engine Repair,1717.92,Radiator,"Watson, Hall and Chandler",Joseph Ryan,2025-02-03
+2a53935d-3143-4742-bc99-511ce7fdc1f3,2025-01-21,Battery Replacement,2070.68,Exhaust System,Porter Group,Mitchell Vasquez,2025-02-17
+05a9ed6e-d9c2-42b4-aa4b-42eec202d2b7,2025-04-08,Battery Replacement,4683.4,Alternator,Rogers-Davis,Cassandra Ruiz,2025-06-10
+3f529800-f84a-41b8-aa14-cd4d4170378d,2025-01-17,Fuel System Repair,3215.75,Alternator,Jones LLC,Austin Hall,2025-03-20
+5cef4875-20ae-47bb-9772-280b80f537f2,2025-04-23,Transmission Repair,414.28,Timing Belt,"Anderson, Edwards and Jones",Daniel Singh,2025-05-31
+eecaf4fc-3cbd-4ba6-b34b-4cb3ee98d0e8,2025-05-28,Battery Replacement,4860.13,Alternator,Miller LLC,Jessica Martinez,2025-03-03
+dbf17cee-cb6a-4eb4-8d84-09e932f0246c,2025-04-16,Clutch Replacement,1023.89,Brake Pads,Hunter-Ortiz,William Thomas,2025-02-05
+0533af01-5dde-44ff-b015-37f87668d9a9,2025-04-08,Battery Replacement,3368.62,Alternator,George-Murphy,Scott Fields,2025-01-11
+4fa96d15-2017-4970-a68d-0a747357b105,2025-01-03,Fuel System Repair,383.64,Timing Belt,Foster-Brooks,Ebony Jensen,2025-06-19
+916f4995-7d3e-42da-8608-06549d3d6752,2025-02-27,Transmission Repair,1918.02,Radiator,"Hall, Bradshaw and Shepherd",Christopher Brennan,2025-01-06
+0f056cf4-a1aa-47f6-aaee-cb5e3f168330,2025-03-13,Suspension Repair,2329.26,Radiator,Glass-Taylor,Michael Kim,2025-06-16
+9673d2b7-8dc9-4eba-9570-a8bbb9c74739,2025-03-18,Fuel System Repair,2008.93,Alternator,"Jordan, Bradshaw and Burke",Christy Thompson,2025-06-01
+5a25f423-3681-4896-8d0c-bb481a41dacb,2025-06-10,Suspension Repair,2806.28,Exhaust System,Davies Group,Katrina Martinez,2025-04-22
+3d7c3544-b1cb-46d5-84b7-84cada655cd7,2025-05-01,Brake Service,4935.67,Shock Absorbers,"Jones, Edwards and Jones",Shannon Hall,2025-01-22
+e3af9509-0d6b-498c-8188-91f3c1939625,2025-05-03,AC Repair,4659.96,Alternator,Harrison-Roach,Amanda Mcbride,2025-06-04
+4e42699c-7d63-4b63-b299-4674d6f92737,2025-03-09,Tire Replacement,4482.96,Radiator,Simmons Ltd,Jeffrey Ford,2025-01-14
+cd236a3f-183b-4346-b85a-2782de4a3f99,2025-06-18,Engine Repair,3822.19,Shock Absorbers,"Russell, Morrison and Brooks",Julia Kelly DDS,2025-06-20
+afad3b32-9ba5-4967-8569-87da1f0bc980,2025-02-15,Fuel System Repair,2007.09,Exhaust System,Mcguire-Manning,Clinton Morales,2025-01-16
+314e1a91-35d1-4834-8d89-481090ff1db8,2025-04-18,Fuel System Repair,1023.26,Shock Absorbers,Meyer-Holland,Grace Smith DVM,2025-06-11
+175e983d-835c-4975-99a7-b83b094b67ef,2025-06-21,Brake Service,2980.0,Radiator,Fields LLC,Joshua Neal,2025-05-25
+792ffeb1-47a5-4037-8e50-98fa5d76b4b3,2025-04-27,Brake Service,322.96,Exhaust System,David and Sons,Dawn Wilson,2025-06-07
+5cdea6a5-aa1a-4afa-ad1b-beebe9b990d1,2025-02-09,Engine Repair,757.49,Alternator,Barker Inc,Scott Ellis,2025-03-13
+9ceff106-9aa1-4a66-aca0-a93c2ee10aff,2025-06-03,Tire Replacement,1976.3,Exhaust System,Charles Group,Casey Hart,2025-03-21
+bc95f075-3dd7-4089-acc6-3a29e16d6d0b,2025-06-22,Brake Service,2727.54,Brake Pads,"Wiggins, Chen and Hernandez",Kristina Ellis,2025-02-18
+46b239fb-992a-4945-b06b-ae4a4b930a1b,2025-03-28,Suspension Repair,1380.29,Shock Absorbers,Pennington-Hall,Anna Sosa,2025-03-03
+b3ad7827-0f0b-4553-a981-b00d40b9dbb4,2025-07-01,Tire Replacement,4267.36,Radiator,Heath LLC,Clinton Johnson,2025-02-20
+0c9fb403-e0ff-4bc3-ab4d-c07db4f299de,2025-06-29,Transmission Repair,2932.52,Brake Pads,Randall-Anthony,Katherine Smith,2025-05-12
+ee28dabd-1284-4fd3-9c35-fcb41d093a02,2025-02-17,Fuel System Repair,3034.49,Brake Pads,Hall and Sons,Mallory Callahan,2025-06-05
+0f02040b-81c1-4de9-8ae9-0cc070aa5c3f,2025-01-05,Engine Repair,3949.61,Exhaust System,Schwartz-Hawkins,Timothy Johnson,2025-03-13
+3d8708b8-cf2e-43f9-8fb8-4941a3b375aa,2025-06-14,Battery Replacement,3674.03,Timing Belt,Bailey LLC,Michael Rhodes,2025-03-09
+cd38f606-b2cc-4f99-a6c4-655ebb1943a1,2025-04-13,Transmission Repair,2019.84,Shock Absorbers,"Chapman, Sandoval and Bowen",Seth Jones,2025-04-12
+5a6bc3e5-9c02-42ca-901e-3a693be0fc39,2025-06-30,Brake Service,3985.99,Brake Pads,"Mendez, Brown and Cruz",Monica Perry,2025-05-20
+6659d310-858f-4559-b6ff-52ce8ea7bc20,2025-07-10,Tire Replacement,1763.0,Exhaust System,Rush-Choi,Derek Martinez,2025-03-13
+b08d8138-49fb-4e3f-a35a-a4ac505fe8d7,2025-05-05,Tire Replacement,2570.24,Shock Absorbers,"Taylor, Munoz and Diaz",Andrew Lee,2025-04-19
+0e33f116-e01c-4f48-b459-01da4245c284,2025-05-15,Transmission Repair,2895.8,Timing Belt,"Velez, Bush and Chan",Nicole Richmond,2025-01-30
+f6a906f6-0da3-498e-a58f-b7f01eca0073,2025-04-03,Suspension Repair,3945.2,Radiator,"Leon, Bowman and Boyer",Kim Gray,2025-05-04
+770a26f3-43a1-44bc-a7d5-f0f34b71a94e,2025-03-18,Brake Service,1217.55,Shock Absorbers,Franklin Inc,Daniel Butler,2025-04-08
+5e256a97-999f-410a-8389-f089f3b24d13,2025-01-30,Clutch Replacement,2655.59,Radiator,"Johnson, Harrison and Cruz",Elizabeth Patton,2025-04-26
+a34c978d-d6ac-47aa-a12e-f3959395a0d6,2025-04-17,AC Repair,927.53,Timing Belt,Harris LLC,Jennifer Mckee,2025-04-17
+f19b198f-c692-4b48-8acb-d1901f12a1e7,2025-04-13,Suspension Repair,2479.47,Radiator,Monroe LLC,Sarah Fox,2025-02-15
+8ae5a0a5-7d37-4b21-8855-d471a1d5214a,2025-01-28,AC Repair,967.87,Timing Belt,Ellis Inc,Steven Baxter,2025-07-08
+948551b3-b91c-4a07-b4ab-4611d3c1c87d,2025-03-29,AC Repair,4009.42,Alternator,Keller-Meyer,Brianna Camacho,2025-04-27
+ad600ae2-f8b2-4806-9e73-b1fb53ed2da6,2025-01-03,Engine Repair,589.55,Shock Absorbers,Sherman Ltd,Kendra Christian,2025-06-23
+816455c4-c673-4963-8d2e-639e62140059,2025-06-19,Transmission Repair,4922.35,Radiator,Estrada-Adams,Brian Reynolds,2025-07-02
+b9932fec-b069-4b68-8f33-1b11668c2fbc,2025-03-10,Tire Replacement,4494.11,Radiator,"Thompson, Walters and Merritt",Timothy Whitney,2025-03-17
+898c5b0d-1e85-413c-ab3b-f3154c1e3fe4,2025-03-14,AC Repair,3365.47,Radiator,Aguilar-Patrick,Robert Wood,2025-05-01
+ed21c001-c835-4098-b9af-a777cf6814ec,2025-03-16,Fuel System Repair,1016.57,Alternator,Washington Group,Juan Cardenas,2025-02-04
+fa27ec90-8485-4bf7-b907-5e76a26b0b44,2025-01-25,AC Repair,4804.05,Alternator,Hines Ltd,Kimberly Silva,2025-07-06
+3b67a79b-49c7-44dc-a753-aae5f55e04aa,2025-06-17,AC Repair,3016.68,Brake Pads,Reeves-Franklin,Wendy Brown,2025-06-30
+73f3adc9-7892-4acb-8234-d477db9c43f8,2025-02-05,Engine Repair,2351.7,Alternator,"Ware, Dawson and Coleman",Timothy Wilson,2025-01-11
+e814d406-30e9-4b75-bd26-b5a168aee706,2025-06-30,Battery Replacement,2954.75,Exhaust System,"Gray, Beasley and Thompson",Meghan Hall,2025-05-27
+5cad50a7-a636-4a85-9ecf-d2ea5edd4b0f,2025-01-28,Engine Repair,659.98,Radiator,"Robertson, Torres and Garcia",Christy Jackson,2025-03-01
+2347bdc5-9aef-4f90-b93e-286b14d63040,2025-05-04,Transmission Repair,2671.0,Alternator,Clark-Lee,Sarah Gilmore,2025-05-07
+002a4ab9-a7b0-45ea-81fe-194ed771e861,2025-06-08,Tire Replacement,4543.31,Shock Absorbers,Berger-Shepard,Angelica Cowan,2025-04-08
+56590eac-85c6-472d-8ff7-9530ba045fd1,2025-05-25,Brake Service,4380.71,Brake Pads,Smith Ltd,Jessica Lee,2025-01-24
+3b157344-eb6d-429e-875b-c388cece380b,2025-01-03,Clutch Replacement,956.57,Timing Belt,"Smith, Rodriguez and Benson",Tina White,2025-04-06
+97398323-a228-406c-b082-4128f9e46e17,2025-05-13,Brake Service,3986.92,Timing Belt,Brown PLC,Logan Jackson,2025-05-03
+3d1ef7be-2a8d-4af8-85be-269ca3b29769,2025-05-15,Clutch Replacement,2025.14,Exhaust System,Guerrero-Smith,Brendan Galloway,2025-06-15
+b7ddac2f-f286-4669-adee-fc11fd40b4b9,2025-05-11,Suspension Repair,950.24,Timing Belt,Wood-Adams,Michael Thompson,2025-04-28
+402ac327-c4c5-4b57-b709-bf711037eb96,2025-05-18,Engine Repair,1433.01,Alternator,"Palmer, Camacho and Wilcox",Ann Rodriguez,2025-04-20
+4eb66f52-6f68-480d-a49d-2e1d6782b0fb,2025-05-08,Clutch Replacement,2598.22,Timing Belt,"Dominguez, Paul and Barnes",Jason Hughes,2025-02-07
+ebfbb28d-693d-4c21-8156-efd6b44e9711,2025-06-29,Fuel System Repair,1870.78,Alternator,Huffman-Carroll,Derek Mclaughlin,2025-01-19
+65736342-5716-4f05-9a49-1124a85431f4,2025-03-24,AC Repair,1359.44,Radiator,Martinez-Sanders,Christina Lara,2025-02-21
+61553927-b7f5-40ff-9f66-5d03ba27da5c,2025-01-25,Transmission Repair,1786.46,Exhaust System,Smith-Walsh,Scott Glover,2025-02-28
+3fa9811c-9120-46d5-b3c7-87ec42d8c63b,2025-05-21,Brake Service,3166.3,Timing Belt,"Collins, Castillo and Ramirez",Robert Brown,2025-01-01
+840f0492-feb4-49bf-884b-e89343469d6c,2025-01-16,Fuel System Repair,3911.08,Alternator,"Yang, Shea and Hudson",William Brown,2025-06-17
+22da80d2-7fb0-4f8c-99d6-1c8e59584e7d,2025-06-09,AC Repair,4518.86,Alternator,Martinez Group,John Mcgee,2025-06-05
+77b0c635-41d8-45ea-b50f-138fc87c553a,2025-01-19,AC Repair,3033.03,Exhaust System,"Smith, Miller and Butler",Charles Silva,2025-04-03
+1905923d-4a15-47f9-b750-62392b6ffc56,2025-04-18,Transmission Repair,1542.23,Exhaust System,Smith LLC,Dan Anderson,2025-05-20
+a97242ac-40fa-40bf-bc99-16c856488fde,2025-06-01,Transmission Repair,644.2,Brake Pads,Brown-Rollins,John Gallegos,2025-07-05
+87dc06c0-b842-42ed-bbc7-be5bd0da4dd6,2025-03-02,Clutch Replacement,2943.11,Brake Pads,Mcconnell-Jones,David Thomas,2025-06-17
+b071e2da-f16f-4caa-b54a-b3c4e14934f8,2025-07-07,Brake Service,2289.62,Exhaust System,Meadows PLC,Oscar Fletcher,2025-04-27
+392e3814-5f41-4332-81fd-6c7a830ac694,2025-04-01,Suspension Repair,2030.07,Timing Belt,Davis-Johnson,Shelly Sanchez,2025-04-07
+b12c2508-8d04-4785-9b75-b77d339c8d21,2025-03-19,Transmission Repair,200.46,Shock Absorbers,Fuller-Villarreal,Craig Murray,2025-07-07
+b985337c-f35e-4dfb-a589-b2e5ad9c9835,2025-05-14,Brake Service,4548.87,Radiator,Harris-Baker,Ariana Clayton,2025-01-14
+c42b0a75-5dfb-47b5-9906-fc6037117812,2025-06-10,Brake Service,3992.98,Radiator,Lopez-Ramirez,Barbara Bradley,2025-04-28
+42df4ea6-f145-4eec-8d09-8b93fa00dd78,2025-02-11,Suspension Repair,2244.45,Alternator,Mora Ltd,Michael Wheeler,2025-05-17
+7c67b87a-007a-477b-b2db-e6be5e188f83,2025-01-30,Transmission Repair,3180.33,Exhaust System,"Beltran, Smith and Lambert",Christina Jones,2025-05-10
+af24b349-5e13-4daf-826b-3937c4b69af3,2025-04-15,Clutch Replacement,709.59,Timing Belt,"Duffy, Mack and Beard",Cynthia Garcia,2025-03-21
+d6cd2761-695e-4f9f-81a9-a7e20fd27556,2025-03-05,Engine Repair,1340.62,Exhaust System,"Young, Smith and Dean",Daniel Compton,2025-03-31
+8fdc9785-420f-43cc-9afa-102fce66ccc8,2025-05-31,AC Repair,2246.37,Timing Belt,"May, Weaver and Palmer",Paul Bennett,2025-04-06
+f847ebec-c5ee-4092-85cd-1c2c9f4099a6,2025-01-21,Suspension Repair,2511.05,Exhaust System,Wagner Group,Stephanie Carney,2025-06-28
+3cbb0e8a-2b33-447a-b3d0-b884c3c2be97,2025-02-11,Tire Replacement,2899.36,Brake Pads,Richards-Hall,Andrew Smith,2025-04-14
+731f24bd-ee3e-4524-b73a-3d382b51e12b,2025-01-07,Transmission Repair,493.25,Radiator,Rodriguez PLC,Theresa Young,2025-06-21
+86aaac34-2007-4f27-8fca-b8cdb5093e64,2025-05-12,Tire Replacement,1872.3,Timing Belt,"Brown, Potter and Tanner",Natalie Reynolds,2025-01-23
+4da4667a-6998-4b26-860b-4ff73a58a167,2025-01-18,Suspension Repair,959.82,Radiator,Moore and Sons,Theodore Ball,2025-06-28
+655e6450-9b4c-401f-bc3d-cac2f6f9754d,2025-04-18,Transmission Repair,1670.67,Radiator,"Ortiz, Benitez and Wallace",Stephen Mitchell,2025-01-30
+60445824-8b1d-438e-9079-2fb34b2c1268,2025-01-15,Brake Service,2894.72,Brake Pads,Leach-Morton,David Martinez,2025-02-14
+dafdb0ff-6793-4928-968b-fdf034d7efc8,2025-02-05,Clutch Replacement,3094.83,Exhaust System,"Knapp, Lynn and Carson",Kimberly Rodriguez,2025-04-17
+bbe66692-c758-4914-ad2f-d1a343811e0f,2025-05-05,Suspension Repair,1716.35,Timing Belt,Dickerson and Sons,Jenna Mitchell,2025-07-02
+83887237-f415-4820-b05a-047ea52f74de,2025-03-02,Engine Repair,1391.25,Shock Absorbers,"Sweeney, Morgan and Bentley",Nichole Jones,2025-03-24
+4b76abfb-5bb5-42cd-a08d-40b02c09d2e3,2025-03-08,Suspension Repair,4354.78,Brake Pads,"Curtis, Lynch and Adams",Linda Chan,2025-03-10
+0f561733-4ca6-43d2-9593-710f7d26b66d,2025-04-14,Tire Replacement,174.82,Exhaust System,Williams-Martin,Laura Ward,2025-03-06
+6a503093-e29f-460b-949a-b63dd98ef489,2025-03-02,Tire Replacement,4223.24,Shock Absorbers,Gonzalez Inc,Scott Price,2025-01-20
+cb4c1709-a8d6-42fe-a0d7-4e8541d8b431,2025-06-29,Engine Repair,3478.34,Alternator,Smith and Sons,Marissa Hill,2025-03-24
+f51ae059-1034-454c-b9f0-1d861f63b98d,2025-04-21,Transmission Repair,2739.06,Shock Absorbers,"Jackson, Clay and English",Paula Roberts,2025-02-14
+2aa7916d-9573-4596-a7eb-d1e8ce4280ef,2025-04-11,AC Repair,848.83,Brake Pads,"Le, Mejia and Bennett",Martha Baker,2025-07-03
+02516775-5748-48bb-b15a-1c6adae1da4a,2025-01-23,Brake Service,2221.06,Alternator,Lewis Inc,Natasha Jones,2025-04-09
+4911cb27-e80b-4729-a77c-3cbc670f3f6d,2025-02-25,Clutch Replacement,3992.0,Shock Absorbers,"Harmon, Little and Klein",Stephen Bryant,2025-01-29
+7278295d-cdf7-441a-9b68-2512f8d299d2,2025-06-08,Tire Replacement,1125.23,Timing Belt,Dominguez Inc,Dennis Young,2025-05-10
+98f4d9a9-fa88-4589-ab5e-90f2c05a652f,2025-01-01,Fuel System Repair,3596.0,Radiator,Owens Ltd,Bonnie Wilkerson,2025-06-20
+2502f79b-284f-46f7-b06e-1253c8e41ed7,2025-02-08,Clutch Replacement,4611.9,Timing Belt,Berry-Kim,Amy Hicks,2025-06-29
+35e2a4c3-2b5f-4680-a845-9968de5294d0,2025-05-01,Clutch Replacement,4820.97,Alternator,"Murphy, Hill and Medina",Christopher Barrett,2025-03-17
+fa7885a5-2804-4428-8691-8bfab2ca6f56,2025-04-12,Engine Repair,1504.44,Exhaust System,Hernandez-Russell,Benjamin Wright,2025-02-26
+385968d5-1f1d-46dc-9659-622b60c97347,2025-04-04,Fuel System Repair,1096.08,Shock Absorbers,Smith-Hardin,Hannah Thomas,2025-01-15
+16e3a025-eab6-4b1d-9295-54c44ddd4050,2025-03-05,Engine Repair,840.04,Shock Absorbers,Williamson-Rogers,Jordan Taylor,2025-02-10
+a750c98d-b85b-4a97-b29e-92b534806879,2025-03-19,Tire Replacement,2847.91,Timing Belt,Rivers-Lin,Douglas Powell,2025-02-08
+02f634ac-662d-46a0-a972-c54fdf8d7d26,2025-01-16,Tire Replacement,3054.02,Radiator,Howell-Doyle,Morgan Calderon,2025-03-21
+955307ee-3c76-4210-a658-956d747409a2,2025-01-23,Engine Repair,2545.09,Alternator,Anderson-Bell,Sheryl Diaz,2025-05-11
+f6271361-538a-4613-ae54-6aada880188f,2025-06-12,Engine Repair,4375.32,Timing Belt,"Martin, Berry and Jones",Kelly Davis,2025-07-03
+a14d7a8d-1cfd-4132-bdf5-de657fdb3268,2025-05-04,Battery Replacement,3628.82,Brake Pads,Johnson-Mcdaniel,Kelly Delacruz,2025-07-04
+9f895a4e-0ed1-4c36-b8b8-48f27dc15239,2025-02-14,Battery Replacement,229.73,Shock Absorbers,Barber-Garcia,Joseph Bender,2025-06-17
+055f7c14-973f-455b-a29c-9b17bcee8700,2025-04-01,Engine Repair,590.88,Alternator,Sanchez PLC,Pamela Bell,2025-01-31
+24462b68-b986-4df4-b560-6a67b5f3a025,2025-03-13,Brake Service,1669.19,Brake Pads,"Guerra, Ferguson and Bailey",Michael Hoffman,2025-02-21
+8c9b041e-363a-4157-8744-b66e04ae98ca,2025-04-23,Transmission Repair,2812.19,Exhaust System,Trujillo-Martin,Lisa Barrett,2025-04-12
+800c7f63-ae68-4693-bc1e-4df1681a1a6f,2025-05-01,Clutch Replacement,118.08,Exhaust System,Bell and Sons,Susan Ramos,2025-02-28
+5100f85a-1c7c-4524-ad99-902df77750d6,2025-03-13,AC Repair,4316.06,Exhaust System,Wilson-Park,Cheryl Yu,2025-02-28
+34f0f1ee-be94-4808-a82d-84dcca2fccef,2025-02-14,Tire Replacement,784.32,Shock Absorbers,Escobar-Blair,Joann Greer,2025-06-22
+5f9795d1-6932-4ec2-9d87-1438b8b70d93,2025-06-17,Battery Replacement,331.94,Timing Belt,Rice-Harvey,Melissa Smith,2025-02-24
+9bfe1bc7-fd59-49d5-8314-5b83b3707ede,2025-03-14,Fuel System Repair,3901.64,Brake Pads,"Gates, Gray and Carlson",Annette Reyes,2025-01-16
+d5d9e22e-2db5-4f4a-9ed5-6090268d4fd7,2025-03-20,Battery Replacement,1061.94,Brake Pads,Mcfarland LLC,Robert Cantu,2025-03-26
+8165a541-8c54-48fe-85ff-d4f6bed97e59,2025-01-23,Battery Replacement,2197.5,Timing Belt,Ball LLC,Anne Whitaker,2025-01-23
+505a9437-9e81-4428-b8dc-1c4eb0a04dad,2025-01-03,AC Repair,659.3,Alternator,"Leonard, Barnes and Holder",Dylan Williams,2025-05-23
+82046901-be31-443c-946a-adf00e90a295,2025-06-26,Battery Replacement,1318.53,Exhaust System,Case-Smith,Craig Jones,2025-07-05
+8ae45045-ebe0-402a-a5f3-272ce0e3a61b,2025-06-18,Battery Replacement,1334.23,Exhaust System,Cox Ltd,Aaron Payne,2025-06-05
+54bff918-7ce7-47c2-8bc7-70a2d8c1c48c,2025-05-07,Tire Replacement,205.41,Timing Belt,"Joyce, Davis and Chambers",Kenneth Stewart,2025-01-03
+84f1fa60-28a8-4b00-9ee1-f3e5fae9c142,2025-03-18,Clutch Replacement,4844.02,Timing Belt,Henry and Sons,David Wilson,2025-04-10
+f8add4bd-c80b-4326-a2aa-15d404ca9116,2025-03-30,Battery Replacement,749.55,Exhaust System,Turner-Carson,Tami Mosley,2025-06-30
+2c61b548-e7c5-4f0f-ba35-6049f9ae1029,2025-05-13,Suspension Repair,331.74,Exhaust System,"Wall, Holloway and Stevens",John Villegas,2025-01-26
+a17d7f7e-c74c-49ad-add8-07b490a8947e,2025-04-15,Suspension Repair,1590.49,Alternator,Figueroa Inc,Thomas Lopez,2025-07-08
+8d6f7bfc-a25b-48b3-85d1-6d90401b88b6,2025-02-09,Battery Replacement,456.24,Shock Absorbers,Allen-Lee,Denise Davies,2025-07-07
+d8c923a9-e172-46d3-bc95-1f68202b3150,2025-01-04,Fuel System Repair,4327.11,Shock Absorbers,"Cannon, Allen and Mckenzie",Debbie Moore,2025-07-01
+ea02ee1a-efc5-484f-ba25-de95416d442b,2025-04-11,Fuel System Repair,3924.52,Timing Belt,"Williams, Wallace and Willis",Michael Mata,2025-01-10
+e9a48c8c-f78d-4170-826b-577a4c15c7fe,2025-05-05,Fuel System Repair,244.6,Exhaust System,"Choi, Cortez and Jackson",John Townsend,2025-02-25
+bc1332db-897c-48c0-a774-a648a8cb264f,2025-02-26,Battery Replacement,2349.62,Alternator,Brown-Bentley,Donna Parker,2025-06-09
+e54860e3-cce3-4721-90de-b818d441df56,2025-06-05,Tire Replacement,2519.3,Brake Pads,"Montgomery, Kennedy and Landry",Cindy Lee,2025-01-24
+8be7ecb4-c7ea-4e8b-97f8-9c1f6be17c8f,2025-05-20,Battery Replacement,1674.38,Exhaust System,"Flynn, Robinson and James",James Webster,2025-06-21
+4e13210a-82fa-4094-bc2c-3da6a025646d,2025-06-19,Tire Replacement,129.8,Timing Belt,Garza LLC,Travis Evans,2025-05-02
+75375b3c-8dde-4a12-8119-09c10bc2c628,2025-01-28,AC Repair,412.36,Timing Belt,"Fritz, Mays and Villanueva",Kenneth Hernandez,2025-01-08
+f4a8a3aa-1ff5-4af2-ad72-53d0f7ad5f40,2025-01-11,AC Repair,357.84,Exhaust System,"Murphy, Young and Larson",Terri Norris,2025-05-02
+cae5c312-20f9-446b-bd5a-e91f3a1b8ed6,2025-05-27,Suspension Repair,4859.1,Timing Belt,"Larson, Burke and Cox",Matthew Gray,2025-02-16
+5c8ebb82-9cd6-48b4-b917-0f383da06bdb,2025-01-06,Suspension Repair,100.21,Exhaust System,Bell Inc,Michelle Young,2025-06-27
+6b16d098-e20c-42b4-a966-cba0d7c69f16,2025-01-26,AC Repair,853.08,Exhaust System,Smith Inc,Sandra Day,2025-01-02
+d1144d4b-0e35-435f-8adb-3ca2f559ddc2,2025-06-08,Fuel System Repair,3079.03,Brake Pads,Lynn-Soto,Yvette Cook,2025-06-07
+1f9e1658-96c5-46ef-ad4d-7dd952e73d52,2025-05-27,Brake Service,3908.81,Alternator,Campbell LLC,Dr. Anthony Jenkins MD,2025-01-02
+ac6876e0-d60c-4140-aa89-e7268e298537,2025-04-19,Battery Replacement,3099.99,Shock Absorbers,Robinson-Lewis,Kristy Young,2025-06-27
+6f9ed64c-d7d4-44e7-935b-b9942257bd18,2025-02-01,Transmission Repair,3785.41,Exhaust System,Smith-Manning,James Bowers,2025-06-12
+2ed17fe4-069e-413f-b88f-d7275b5cc039,2025-05-03,Suspension Repair,3574.41,Exhaust System,"Petersen, Hanson and Landry",Amanda Myers,2025-03-14
+046c84e0-2ad2-4f54-beba-309a615ab841,2025-03-24,Tire Replacement,3795.99,Alternator,Tran and Sons,Robert Brown,2025-06-01
+6ff259a6-ae8f-4b38-9eab-e9c22c038056,2025-02-09,Transmission Repair,4309.59,Alternator,Wyatt-Taylor,Brian Montgomery,2025-03-29
+0d5b7bcf-6af4-4e83-89a7-63b5211b5b38,2025-04-10,Tire Replacement,1109.66,Shock Absorbers,"Simpson, George and Parker",Brooke King,2025-05-10
+04f6599d-27c8-494c-a83b-d6abb3c58fe8,2025-03-19,Fuel System Repair,2756.84,Shock Absorbers,Rodriguez and Sons,James Nguyen,2025-06-19
+f5e38cd7-e3ca-4485-b013-b17d9fe273e1,2025-02-04,Suspension Repair,2020.09,Exhaust System,Marsh-Dawson,Melissa James,2025-05-20
+0a9e2d42-237a-4913-a167-dcd0362a17d9,2025-06-03,Tire Replacement,3661.72,Shock Absorbers,Adams Group,Micheal Graham,2025-04-05
+c04de342-4d38-4a88-bc84-0be41febf8e1,2025-04-19,Fuel System Repair,3366.65,Exhaust System,"Wright, Thomas and Thompson",Emma Mcmahon,2025-07-02
+3989063e-d1b8-45a0-ab23-bc3d64ef8138,2025-03-16,Transmission Repair,4373.84,Radiator,Duncan-Gilbert,Jennifer Davis,2025-04-12
+6b626672-5739-4359-b069-32cf40f563d6,2025-03-16,Suspension Repair,3935.08,Exhaust System,Young Group,Molly Mclaughlin,2025-06-02
+69b35f75-63e9-4271-b11b-1099452c028d,2025-01-01,Engine Repair,3552.58,Radiator,"Watson, Mcdowell and Bridges",Jamie Brady,2025-02-28
+7742b6fd-d54e-4108-9031-fb9c31ee9e15,2025-01-20,Clutch Replacement,1342.24,Exhaust System,Bolton-Sullivan,Joe Williams,2025-04-21
+2439430f-2398-4e2f-b571-11136a0fa1c6,2025-01-26,Battery Replacement,2808.95,Radiator,"Collins, Mueller and Jordan",Todd Ferguson,2025-03-20
+e45ca949-a53e-4e48-9c0b-df8f2257c7f1,2025-05-22,Suspension Repair,798.35,Brake Pads,"Davenport, Miller and Black",Heather Foster,2025-04-19
+7bde390e-b36b-4858-bd44-bbc2c743626d,2025-01-12,AC Repair,4036.7,Exhaust System,Powell-Miller,Kaitlyn Gilmore,2025-01-06
+92dced7a-7465-499e-8f40-2d13248b97ab,2025-06-17,Battery Replacement,4479.19,Timing Belt,Anderson-Hoffman,Cynthia Williams,2025-03-06
+5d075330-e5d9-43a4-ad06-92f24b9ae7cd,2025-07-07,Tire Replacement,389.0,Radiator,Ortiz-Ford,Katie Williams,2025-03-09
+2c462f20-1064-49e3-bd7e-ef16de5ba8dd,2025-01-04,Suspension Repair,2861.42,Brake Pads,Allen-Savage,Gary George,2025-04-19
+5bebce74-ca05-4860-8cd8-7647cb782554,2025-01-19,AC Repair,2729.65,Radiator,Morgan and Sons,Frank Gardner,2025-02-10
+ba9d5c22-b813-44c7-93a0-14e0db15f412,2025-02-21,Engine Repair,1355.32,Timing Belt,Armstrong-Lee,Scott Jackson,2025-04-21
+343b4916-72d1-4479-9e36-bf0d5f2ebd54,2025-04-21,Transmission Repair,2638.97,Exhaust System,Brennan and Sons,Kenneth Davis,2025-05-01
+54105404-eee5-42b8-be06-b9e24e583159,2025-03-06,Transmission Repair,4568.92,Exhaust System,Meyer-Jones,Marcus Hendricks,2025-03-15
+661c7779-6594-46ee-a8bb-61972f8aaf35,2025-04-24,Fuel System Repair,3621.09,Timing Belt,Pace-Rice,Kelly Moore,2025-02-14
+40d2cbee-549e-40c8-b681-dbb059f747fd,2025-03-16,Clutch Replacement,1002.84,Shock Absorbers,Morrison Ltd,Colleen Kim,2025-03-31
+67f1140a-2869-469f-97e0-49555a60bf0c,2025-03-27,Brake Service,1290.69,Shock Absorbers,"Parker, Harris and Cox",Benjamin Olson,2025-03-13
+2e8d2462-5cbb-4ede-9f11-1649f052dbdf,2025-01-14,Tire Replacement,2272.26,Alternator,Williams LLC,Walter Gillespie,2025-05-03
+9d385405-597d-45a4-b7a3-188b2205e13a,2025-01-23,AC Repair,1147.06,Timing Belt,Jones-Brooks,Nicholas Price,2025-06-21
+fc432aca-05b2-4770-b0d6-baf6a34d48da,2025-02-26,Fuel System Repair,3253.96,Alternator,Maynard-Ruiz,Mr. John Johnson PhD,2025-03-20
+9289f4c5-fd10-4517-9364-4438d64829f8,2025-06-28,Engine Repair,2392.11,Timing Belt,Compton Group,Cheyenne Kirby,2025-04-09
+75192ff0-ccbd-4933-b8d2-e032cd56b329,2025-06-09,Engine Repair,4183.32,Timing Belt,Murillo-Bates,Erica Anderson,2025-07-01
+7a366659-c1c1-437e-9d8e-67e58eb29c91,2025-04-25,Tire Replacement,1323.14,Exhaust System,Keller Inc,Charles Phelps MD,2025-03-26
+8ee41a49-d60a-4470-b318-74cea7320591,2025-01-11,Clutch Replacement,436.15,Shock Absorbers,"Wagner, Harris and Johnson",Christopher Gomez,2025-04-02
+5e304127-4e6e-4e40-94c6-b83a20ab0272,2025-02-16,Engine Repair,1075.16,Brake Pads,"Werner, Weber and Bradley",Sandra Smith,2025-04-02
+8743380f-2be8-4fd1-8ede-db8a5126dd7d,2025-02-04,AC Repair,3420.87,Brake Pads,Gray-Padilla,Joshua Chavez,2025-01-02
+54cd112c-1e80-4a47-9e9a-93aaee6167fd,2025-02-18,Battery Replacement,1819.24,Alternator,Cabrera-Moran,Tammy Schneider,2025-02-24
+59f091f7-1d2b-42ed-b654-d882abecc3b0,2025-01-21,Clutch Replacement,3997.23,Shock Absorbers,Flores LLC,Nicole Juarez,2025-06-30
+1d8e5673-ac34-4abb-aae8-38f767e757c3,2025-05-16,Fuel System Repair,2336.46,Radiator,Schaefer Ltd,Danielle Howard MD,2025-05-18
+6f236913-df82-43da-ac73-a0ae479395b5,2025-01-27,AC Repair,1639.15,Brake Pads,"Barnett, Hess and Berry",Maria Martin,2025-03-02
+e6aae5f9-b992-4ba3-a41e-dcafafeeb1f9,2025-01-29,Battery Replacement,1795.19,Alternator,Cross-Rowe,Stephanie Mccarthy,2025-02-08
+20a76ed6-08af-4e54-b95c-3bc2dde5f9ea,2025-07-09,Engine Repair,936.94,Alternator,Gardner-Schmidt,Kathryn King,2025-01-25
+85829a85-1daf-4acd-9020-c88e950e6d6c,2025-04-04,Engine Repair,448.33,Brake Pads,Cruz-Rich,Jay Frank,2025-01-17
+2912168f-08f5-49d6-9587-8197eb2038a5,2025-05-17,Clutch Replacement,392.68,Exhaust System,Johnson and Sons,Ryan Brooks,2025-04-30
+4b257b22-260b-44bf-b5b8-89d0e8d5c2c6,2025-06-27,AC Repair,550.96,Timing Belt,Taylor Inc,Debbie Reid,2025-05-08
+6432f967-54c8-4ee1-94a7-459ef2fd160e,2025-02-18,Fuel System Repair,3697.25,Brake Pads,Cook PLC,Stephen Turner,2025-06-06
+1f4e1d16-05de-4aa2-953f-752437fc0a43,2025-05-02,Transmission Repair,3395.98,Radiator,Yang PLC,Cory Williamson IV,2025-02-04
+aee3c2cb-b033-44ba-8732-5ca7630d6da3,2025-02-23,Engine Repair,1309.21,Brake Pads,Taylor-Hall,Daniel Harrison,2025-06-05
+2ebf61a3-762c-445e-8937-d8686a2a6c36,2025-06-27,Engine Repair,131.45,Timing Belt,Walker-Mills,Jennifer Cameron,2025-03-05
+3c521bd2-61b6-405a-b690-0bf17a1b7981,2025-02-09,Brake Service,3206.36,Exhaust System,Haynes-Hobbs,Meghan Rodriguez,2025-02-01
+2f6a3a2b-d9df-4743-a5c8-f7191e2f7110,2025-01-24,Suspension Repair,2816.92,Shock Absorbers,Nelson Group,Dr. Kathryn Sanders,2025-05-13
+d6c56e19-937f-476a-8f8c-7c0299e31908,2025-02-12,Transmission Repair,4300.93,Alternator,Lyons-Shepherd,Dustin Torres,2025-01-09
+c79ce9a9-5d23-45db-b76a-06453fa74965,2025-05-09,AC Repair,2254.46,Shock Absorbers,Smith-Lopez,Brian Green,2025-06-24
+0714e2e4-8b11-409b-9943-064cf9013e15,2025-06-03,Tire Replacement,713.75,Alternator,Ferrell-Brown,Travis Myers,2025-02-08
+cefc22eb-0221-42aa-8c66-52ba50feb778,2025-04-08,Clutch Replacement,888.64,Alternator,Lee Ltd,Julia Martin,2025-06-08
+f1fad62c-3802-4a3f-b263-03a8bc7f3bef,2025-06-05,Clutch Replacement,3232.0,Radiator,Jimenez and Sons,Teresa Thomas,2025-01-25
+e7fe34b6-2cc4-4031-999c-a9ab66ae4d22,2025-01-05,Engine Repair,156.53,Exhaust System,Smith-Young,Jennifer Hendrix,2025-03-02
+d6e259e4-4ce7-4435-9f35-fe7f1734a475,2025-05-11,Engine Repair,4884.84,Radiator,Hunt-Bernard,Maria Stafford,2025-03-01
+d10c2304-1046-4566-a9c8-8fb87835bab8,2025-06-14,Brake Service,3104.4,Exhaust System,Hernandez Inc,Eric Pena,2025-05-21
+8bd6f45a-78ef-48bc-a39c-f3755f512615,2025-05-11,Tire Replacement,2600.16,Exhaust System,Richards-Aguilar,Gregory Harris,2025-03-22
+2df21668-3f02-4fd9-bd8f-87ce2a126e23,2025-04-20,Engine Repair,4882.85,Alternator,Jones and Sons,Bradley Guerrero,2025-05-22

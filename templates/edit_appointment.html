@@ -1,0 +1,88 @@
+{% extends "base.html" %}
+
+{% block title %}Edit Appointment - Automotive Service Scheduling{% endblock %}
+
+{% block content %}
+<div class="row">
+    <div class="col-12">
+        <div class="d-flex justify-content-between align-items-center mb-4">
+            <h1>
+                <i class="bi bi-calendar-check"></i> Edit Appointment
+            </h1>
+            <a href="{{ url_for('my_appointments') }}" class="btn btn-secondary">
+                <i class="bi bi-arrow-left"></i> Back to Appointments
+            </a>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-8 mx-auto">
+        <div class="card">
+            <div class="card-body">
+                <form method="POST">
+                    <div class="mb-3">
+                        <label for="vehicle_id" class="form-label">Vehicle <span class="text-danger">*</span></label>
+                        <select class="form-select" id="vehicle_id" name="vehicle_id" required>
+                            <option value="">Select a vehicle...</option>
+                            {% for vehicle in vehicles %}
+                            <option value="{{ vehicle.id }}" {% if vehicle.id == appointment.vehicle_id %}selected{% endif %}>
+                                {{ vehicle.year }} {{ vehicle.make }} {{ vehicle.model }}{% if vehicle.license_plate %} - {{ vehicle.license_plate }}{% endif %}
+                            </option>
+                            {% endfor %}
+                        </select>
+                    </div>
+                    
+                    <div class="mb-3">
+                        <label for="service_id" class="form-label">Service <span class="text-danger">*</span></label>
+                        <select class="form-select" id="service_id" name="service_id" required>
+                            <option value="">Select a service...</option>
+                            {% for service in services %}
+                            <option value="{{ service.id }}" {% if service.id == appointment.service_id %}selected{% endif %}>
+                                {{ service.name }} - ${{ "%.2f"|format(service.price) }} ({{ service.estimated_duration }} min)
+                            </option>
+                            {% endfor %}
+                        </select>
+                    </div>
+                    
+                    <div class="row">
+                        <div class="col-md-6 mb-3">
+                            <label for="appointment_date" class="form-label">Date <span class="text-danger">*</span></label>
+                            <input type="date" class="form-control" id="appointment_date" name="appointment_date" 
+                                   value="{{ appointment.appointment_date }}" required>
+                        </div>
+                        <div class="col-md-6 mb-3">
+                            <label for="appointment_time" class="form-label">Time <span class="text-danger">*</span></label>
+                            <input type="time" class="form-control" id="appointment_time" name="appointment_time" 
+                                   value="{{ appointment.appointment_time }}" required>
+                        </div>
+                    </div>
+                    
+                    <div class="mb-3">
+                        <label for="notes" class="form-label">Notes</label>
+                        <textarea class="form-control" id="notes" name="notes" rows="3" 
+                                  placeholder="Any special instructions or notes...">{{ appointment.notes or '' }}</textarea>
+                    </div>
+                    
+                    <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+                        <a href="{{ url_for('my_appointments') }}" class="btn btn-secondary me-md-2">Cancel</a>
+                        <button type="submit" class="btn btn-primary">
+                            <i class="bi bi-check-lg"></i> Update Appointment
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+// Set minimum date to today for future appointments
+document.addEventListener('DOMContentLoaded', function() {
+    const today = new Date().toISOString().split('T')[0];
+    document.getElementById('appointment_date').min = today;
+});
+</script>
+{% endblock %}
