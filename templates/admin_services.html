@@ -37,7 +37,6 @@
                                     <th>Price</th>
                                     <th>Status</th>
                                     <th>Appointments</th>
-                                    <th>Total Revenue</th>
                                 </tr>
                             </thead>
                             <tbody>
@@ -64,14 +63,7 @@
                                     <td>
                                         <span class="badge bg-info">{{ service.appointment_count }}</span>
                                     </td>
-                                    <td>
-                                        {% if service.total_revenue %}
-                                            <strong class="text-success">${{ "%.2f"|format(service.total_revenue) }}</strong>
-                                        {% else %}
-                                            <span class="text-muted">$0.00</span>
-                                        {% endif %}
-                                        <br><small class="text-muted">From completed services</small>
-                                    </td>
+                                    {# Total Revenue column removed #}
                                 </tr>
                                 </tr>
                                 {% endfor %}

@@ -912,7 +912,7 @@ def admin_analytics():
     conn = get_db_connection()
     
     # Get data for all charts
-    # Service popularity
+    # Service popularity (all appointments, not just completed)
     service_popularity = conn.execute('''
         SELECT 
             s.name,
@@ -922,16 +922,18 @@ def admin_analytics():
         LEFT JOIN appointments a ON s.id = a.service_id
         WHERE s.is_active = 1
         GROUP BY s.id, s.name
+        HAVING appointment_count > 0
         ORDER BY appointment_count DESC
         LIMIT 10
     ''').fetchall()
     
-    # Vehicle make distribution
+    # Vehicle make distribution (exclude empty/unknown makes)
     vehicle_makes = conn.execute('''
         SELECT 
             make,
             COUNT(*) as count
         FROM vehicles
+        WHERE make IS NOT NULL AND TRIM(make) != '' AND LOWER(make) != 'unknown'
         GROUP BY make
         ORDER BY count DESC
         LIMIT 10
@@ -1207,8 +1209,7 @@ def admin_services():
     services = conn.execute('''
         SELECT 
             s.*,
-            COUNT(a.id) as appointment_count,
-            SUM(CASE WHEN a.status = 'completed' THEN s.price ELSE 0 END) as total_revenue
+            COUNT(a.id) as appointment_count
         FROM services s
         LEFT JOIN appointments a ON s.id = a.service_id
         GROUP BY s.id
@@ -1230,7 +1231,23 @@ if __name__ == '__main__':
         print("Database not found. Please run setup.py first!")
         print("Run: python setup.py")
         exit(1)
-    
-    # Get port from environment variable for deployment
-    port = int(os.environ.get('PORT', 5000))
+
+    # Allow port override via command line argument or environment variable
+    import sys
+    port = 5000
+    # Check command line args for --port=xxxx
+    for arg in sys.argv:
+        if arg.startswith('--port='):
+            try:
+                port = int(arg.split('=')[1])
+            except Exception:
+                pass
+    # If --port is not found, check for positional port argument
+    if port == 5000:
+        for arg in sys.argv:
+            if arg.isdigit():
+                port = int(arg)
+    # Environment variable fallback
+    port = int(os.environ.get('PORT', port))
+    print(f"Starting Flask server on port {port}...")
     app.run(debug=False, host='0.0.0.0', port=port)
