@@ -3,3 +3,4 @@ plotly==5.24.1
 pandas==2.2.2
 Werkzeug>=3.0.0
 gunicorn==21.2.0
+Cython<3.0
