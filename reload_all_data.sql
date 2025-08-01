@@ -1,8 +1,3 @@
--- ===================================
--- RELOAD ALL DATA FROM CSV FILES
--- ===================================
--- Author: Shivangi Rastogi
--- Date: July 13, 2025
 -- Description: Wipe existing data and reload from all CSV files
 
 PRAGMA foreign_keys = ON;
@@ -17,10 +12,6 @@ SELECT 'Vehicles:', COUNT(*) FROM vehicles
 UNION ALL
 SELECT 'Appointments:', COUNT(*) FROM appointments;
 
--- ===================================
--- WIPE DATA (respecting foreign keys)
--- ===================================
-
 -- Delete in correct order to respect foreign key constraints
 DELETE FROM appointments;
 DELETE FROM vehicles;
@@ -31,10 +22,6 @@ DELETE FROM customers;
 DELETE FROM sqlite_sequence WHERE name IN ('customers', 'services', 'vehicles', 'appointments');
 
 SELECT 'All data wiped successfully!' as message;
-
--- ===================================
--- LOAD CUSTOMERS FROM CSV
--- ===================================
 
 -- Create temporary table to match CSV structure
 CREATE TEMPORARY TABLE temp_customers_csv (
@@ -49,11 +36,6 @@ CREATE TEMPORARY TABLE temp_customers_csv (
 );
 
 -- Import customers CSV data
--- Note: Before running this script, execute in SQLite:
--- .mode csv
--- .headers on
--- .import Data/customers_DataSet.csv temp_customers_csv
-
 -- Insert customers with data transformations
 INSERT OR IGNORE INTO customers (first_name, last_name, email, phone, address, password, created_at)
 SELECT 
@@ -95,10 +77,6 @@ WHERE c.Name IS NOT NULL
 
 SELECT 'Customers loaded: ' || COUNT(*) as message FROM customers;
 
--- ===================================
--- LOAD SERVICES FROM CSV
--- ===================================
-
 -- Create temporary table to match CSV structure
 CREATE TEMPORARY TABLE temp_services_csv (
     csv_index TEXT,
@@ -107,9 +85,6 @@ CREATE TEMPORARY TABLE temp_services_csv (
 );
 
 -- Import services CSV data
--- Note: Before running this script, execute in SQLite:
--- .import Data/Service_Type.csv temp_services_csv
-
 -- Insert services with data transformations
 INSERT OR IGNORE INTO services (name, description, price, estimated_duration)
 SELECT 
@@ -140,10 +115,6 @@ WHERE s."Repair Description" IS NOT NULL
 
 SELECT 'Services loaded: ' || COUNT(*) as message FROM services;
 
--- ===================================
--- LOAD VEHICLES FROM CSV
--- ===================================
-
 -- Create temporary table to match CSV structure
 CREATE TEMPORARY TABLE temp_vehicles_csv (
     csv_index TEXT,
@@ -162,9 +133,6 @@ CREATE TEMPORARY TABLE temp_vehicles_csv (
 );
 
 -- Import vehicles CSV data
--- Note: Before running this script, execute in SQLite:
--- .import Data/USA_cars_datasets.csv temp_vehicles_csv
-
 -- Create a temporary table to assign customers randomly but ensure no duplicate assignments
 CREATE TEMPORARY TABLE temp_customer_assignment AS
 SELECT 
@@ -213,10 +181,6 @@ WHERE v.brand IS NOT NULL
   AND v.mileage >= 0;
 
 SELECT 'Vehicles loaded: ' || COUNT(*) as message FROM vehicles;
-
--- ===================================
--- FINAL SUMMARY
--- ===================================
 
 SELECT 'Final data counts after reload:' as message;
 SELECT 'Customers:' as table_name, COUNT(*) as count FROM customers

@@ -1,9 +1,4 @@
--- ===================================
--- LOAD SERVICES FROM CSV FILE
--- ===================================
--- Author: Shivangi Rastogi
--- Date: July 13, 2025
--- Description: Load service data from Service_Type.csv directly using SQLite
+-- Description: Load service data from Service_Type.csv
 
 PRAGMA foreign_keys = ON;
 
@@ -11,24 +6,6 @@ PRAGMA foreign_keys = ON;
 SELECT 'Current services in database before loading:' as message;
 SELECT COUNT(*) as count FROM services;
 
--- NOTE: Before running this script, execute these commands in SQLite:
--- .mode csv
--- .headers on
--- CREATE TEMPORARY TABLE temp_services_csv (
---     vehicle_id TEXT,
---     repair_date TEXT,
---     repair_description TEXT,
---     cost REAL,
---     parts_replaced TEXT,
---     repair_shop TEXT,
---     mechanic TEXT,
---     warranty_expiry TEXT
--- );
--- .import Data/Service_Type.csv temp_services_csv
-
--- The temp table should already exist from the import command above
-
--- Insert services with data transformations, avoiding duplicates
 -- First get unique repair descriptions with their average cost
 INSERT OR IGNORE INTO services (name, description, estimated_duration, price, is_active)
 SELECT 
