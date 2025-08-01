@@ -1,3 +1,4 @@
+-- Automotive Service Scheduling System - SQL Scripts
 -- This file contains all SQL operations for CRUD functionality
 
 -- Create customers table
@@ -52,3 +53,14 @@ CREATE TABLE IF NOT EXISTS appointments (
     FOREIGN KEY (vehicle_id) REFERENCES vehicles (id),
     FOREIGN KEY (service_id) REFERENCES services (id)
 );
+
+-- Create indexes for better query performance
+CREATE INDEX IF NOT EXISTS idx_customers_email ON customers(email);
+CREATE INDEX IF NOT EXISTS idx_customers_name ON customers(last_name, first_name);
+CREATE INDEX IF NOT EXISTS idx_vehicles_customer ON vehicles(customer_id);
+CREATE INDEX IF NOT EXISTS idx_vehicles_vin ON vehicles(vin);
+CREATE INDEX IF NOT EXISTS idx_appointments_customer ON appointments(customer_id);
+CREATE INDEX IF NOT EXISTS idx_appointments_vehicle ON appointments(vehicle_id);
+CREATE INDEX IF NOT EXISTS idx_appointments_service ON appointments(service_id);
+CREATE INDEX IF NOT EXISTS idx_appointments_date ON appointments(appointment_date);
+CREATE INDEX IF NOT EXISTS idx_appointments_status ON appointments(status);
