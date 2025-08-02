@@ -37,8 +37,15 @@ A web-based automotive service scheduling application built with Flask and SQLit
 Application is deployed on Render with Gunicorn WSGI server running on port 10000.
 
 ## Default Login
-- Email: john.doe@email.com
-- Password: password123
+For demo purposes use the following credentials:
+
+- Customer Access:
+Username : kathrynwilliams@samplemail.com
+Password: 123456
+
+- Default Admin Credentials: 
+Username: admin
+Password: admin123
 
 ## Database Schema
 
