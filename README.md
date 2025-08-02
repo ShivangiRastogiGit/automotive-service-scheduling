@@ -39,12 +39,12 @@ Application is deployed on Render with Gunicorn WSGI server running on port 1000
 ## Default Login
 For demo purposes use the following credentials:
 
-- Customer Access:
-Username : kathrynwilliams@samplemail.com
+- Customer Access:  
+Username : kathrynwilliams@samplemail.com  
 Password: 123456
 
-- Default Admin Credentials: 
-Username: admin
+- Default Admin Credentials:  
+Username: admin  
 Password: admin123
 
 ## Database Schema
