@@ -1,6 +1,6 @@
--- Create temporary table to match CSV structure (with headers on)
+-- Create temporary table to match CSV structure
 CREATE TEMPORARY TABLE temp_vehicles_csv (
-    "?" TEXT,          -- Index column (unnamed in CSV, shows as "?")
+    "?" TEXT,          
     price REAL,
     brand TEXT,
     model TEXT,
@@ -15,14 +15,8 @@ CREATE TEMPORARY TABLE temp_vehicles_csv (
     condition TEXT
 );
 
--- Import CSV data
--- Note: Run this in SQLite command line with:
--- .mode csv
--- .headers on
--- .import Data/USA_cars_datasets.csv temp_vehicles_csv
-
 -- Insert vehicles with data transformations and customer assignments
--- Assign row numbers to vehicles and customers, then join for round-robin assignment
+-- Assign row numbers to vehicles and customers
 WITH numbered_vehicles AS (
   SELECT *, ROW_NUMBER() OVER (ORDER BY vin) AS vehicle_row_num
   FROM temp_vehicles_csv
@@ -72,4 +66,4 @@ JOIN customer_count cc
 JOIN numbered_customers nc
   ON ((v.vehicle_row_num - 1) % cc.total_customers) + 1 = nc.customer_row_num;
 -- Clean up temporary table
-
+DROP TABLE temp_vehicles_csv;

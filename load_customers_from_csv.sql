@@ -1,9 +1,4 @@
--- ===================================
--- LOAD CUSTOMERS FROM CSV FILE
--- ===================================
--- Author: Shivangi Rastogi
--- Date: July 13, 2025
--- Description: Load customer data from customers_DataSet.csv directly using SQLite
+-- Description: Load customer data from customers_DataSet.csv 
 
 PRAGMA foreign_keys = ON;
 
@@ -24,16 +19,6 @@ CREATE TEMPORARY TABLE temp_customers_csv (
     sales_rep TEXT,
     subscription TEXT
 );
-
--- Import CSV data
--- Note: Run this in SQLite command line with:
--- .mode csv
--- .headers on
--- .import Data/customers_DataSet.csv temp_customers_csv
-
--- For direct SQL execution, use this approach:
--- Load CSV data using SQLite's CSV import capability
--- This assumes the CSV file has been imported into temp_customers_csv
 
 -- Insert customers with data transformations, skipping duplicates
 INSERT OR IGNORE INTO customers (first_name, last_name, email, password, phone, address, created_at)
