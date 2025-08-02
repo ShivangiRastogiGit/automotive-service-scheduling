@@ -1,0 +1,10 @@
+Database Export Summary
+Export Date: 2025-08-02T01:04:04.945148
+Source Database: automotive_service.db
+
+Exported Tables:
+  - customers: 770 records
+  - sqlite_sequence: 4 records
+  - vehicles: 2491 records
+  - services: 10 records
+  - appointments: 2 records

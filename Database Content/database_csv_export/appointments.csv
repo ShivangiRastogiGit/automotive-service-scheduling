@@ -1,0 +1,3 @@
+id,customer_id,vehicle_id,service_id,appointment_date,appointment_time,status,notes,created_at
+1,1,584,7,2025-07-13,15:30,scheduled,Test the Suspension,2025-07-13 07:10:50
+2,774,2505,10,2025-07-17,09:00:00,completed,Service is completed.,2025-07-13 07:48:03
